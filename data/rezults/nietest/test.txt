@@ -1,0 +1,20 @@
+[b]Wioska:[/b] [coord]516|600[/coord]
+[b]Poziom muru:[/b] 20
+[b]Poparcie:[/b] 100
+
+[b]Obrońca:[/b]  0  0  5000  0  500  1388  500  0  640  24  0  0  0
+
+    [command]attack[/command] [coord]508|591[/coord] --> Czas przybycia: 09.11.19 20:16:57:079 [player]Mariusz Intelektu[/player]
+    [command]attack[/command] Taran [coord]624|556[/coord] --> Czas przybycia: 11.11.19 18:06:08:464 [player]Podły Inkasent[/player]
+
+[b]Wioska:[/b] [coord]526|606[/coord]
+[b]Poziom muru:[/b] 20
+[b]Poparcie:[/b] 100
+
+[b]Obrońca:[/b]  4893  0  0  1011  839  0  0  1429  0  125  0  0  0
+
+    [command]attack[/command] Szlachcic [coord]610|579[/coord] --> Czas przybycia: 09.11.19 22:27:46:876 [player]Zi3lonoMi[/player]
+    [command]attack[/command] Szlachcic [coord]610|579[/coord] --> Czas przybycia: 09.11.19 22:27:47:076 [player]Zi3lonoMi[/player]
+    [command]attack[/command] Szlachcic [coord]610|579[/coord] --> Czas przybycia: 09.11.19 22:27:47:276 [player]Zi3lonoMi[/player]
+    [command]attack[/command] Szlachcic [coord]610|579[/coord] --> Czas przybycia: 09.11.19 22:27:47:476 [player]Zi3lonoMi[/player]
+    [command]attack[/command] Taran [coord]620|548[/coord] --> Czas przybycia: 11.11.19 15:17:41:984 [player]Podły Inkasent[/player]
