@@ -29,7 +29,7 @@ DISTANCE = 7
 HOW_MANY_ATTACKS = 8
 
 
-def get_players_list(directory):
+def get_players_list(directory) -> list:
     """
 
     :param directory: to files where are all txt files
