@@ -50,11 +50,12 @@ def write_in_sos_format(list_of_attacks, players_list, sos_format):
                     if attack[DEFENDER_VILLAGE_CORDS] == village and attack[DEFENDER_NICK] == nick:
                         sos_for_all.write("\t" + "\t" + attack[TYP_ATTACK] + "   " +
                                           attack[ATTACKER_VILLAGE_CORDS] + "   " +
-                                          attack[ATTACKER_NICK] + "   " +
+                                          attack[ATTACKER_NICK] + "      " +
                                           attack[DISTANCE] + "   " +
                                           attack[WHEN_SENT] + "   " +
+                                          attack[DATE_AND_TIME] + "   " +
                                           attack[HOW_MANY_ATTACKS] + "   " +
-                                          attack[DATE_AND_TIME] + "   " + "\n")
+                                          "\n")
     sos_for_all.close()
 
 # TYP_ATTACK = 0

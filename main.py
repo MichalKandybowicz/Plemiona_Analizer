@@ -14,14 +14,14 @@ format for players
             attack [ 555|555 ,1/1 , Nobleman, 1, 04.11.19 10:02:55:199]
 
     nick 2 (defender)
-        323|231 (noble attack - 1, Ram attack - 3)
+        323|231 (noble attack: 1, Ram attack: 3)
             attack [ 555|555 ,2/6 , Ram, 1, nick agresora, 04.11.19 10:02:50:399]
             attack [ 555|555 ,1/9 , Ram, 2, 04.11.19 10:02:51:559]
             attack [ 555|555 ,2/3 , Ram, 3, 04.11.19 10:02:52:992]
             attack [ 555|555 ,1/1 , Nobleman, 1, 04.11.19 10:02:55:199]
 
         323|231 (noble attack - 1, Ram attack - 3)
-            attack [ 555|555 ,2/6 , Ram, 1, nick agresora, 04.11.19 10:02:50:399]
+            attack [ 555|555 ,2/6 , Ram, 1,  04.11.19 10:02:50:399]
             attack [ 555|555 ,1/9 , Ram, 2, 04.11.19 10:02:51:559]
             attack [ 555|555 ,2/3 , Ram, 3, 04.11.19 10:02:52:992]
             attack [ 555|555 ,1/1 , Nobleman, 1, 04.11.19 10:02:55:199]
@@ -44,6 +44,7 @@ format for players
 # sort by sent datetime
 # list of villages with attacks
 # todo
+
 
 from txt_to_csv import txt_to_csv
 import data_connection

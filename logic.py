@@ -3,14 +3,14 @@ from datetime import datetime, timedelta
 from operator import itemgetter
 import os
 
-# for all
+#
 SPEED_OF_NOBLE_MAN = 32 * 60 + 0.407407406507 * 0.6  # s/p
 SPEED_OF_RAM = 27 * 60 + 0.777777777778 * 0.6  # s/p
 SPEED_OF_SPY = 8 * 60 + 0.3333333333333 * 0.6  # s/p
-X = 0
-Y = 1
+X = 0  # space for x coordinate
+Y = 1  # space for y coordinate
 
-# for all
+# for all in time type
 DAYS = 0
 HOURS = 1
 MIN = 2
@@ -222,7 +222,7 @@ def add_information_send_no(list_of_list):
 
 def dict_to_list_of_list(dict_with_list):
     """
-    return list of the list form format dict {key: attack list, key: attack list}
+    change to list of the list from format dict {key: attack list, key: attack list}
     :param dict_with_list: key is one part of list
     for example {attack_type : [[attack type, 1, 2, 3], [attack type, 2, 2, 3], [attack type, 2, 2, 3]]
     :return: return list of the list
