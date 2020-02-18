@@ -1,36 +1,32 @@
 """
 format for players
-    nick1 (defender)
-        323|231 (noble attack - 1, Ram attack - 3)
-            attack [ 555|555 ,2/6 , Ram, 1, nick agresora, 04.11.19 10:02:50:399]
-            attack [ 555|555 ,1/9 , Ram, 2, 04.11.19 10:02:51:559]
-            attack [ 555|555 ,2/3 , Ram, 3, 04.11.19 10:02:52:992]
-            attack [ 555|555 ,1/1 , Nobleman, 1, 04.11.19 10:02:55:199]
+    nick 1 (defender)
+        XXX|YYY - defender village cords
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
 
-        323|231 (noble attack - 1, Ram attack - 3)
-            attack [ 555|555 ,2/6 , Ram, 1, nick agresora, 04.11.19 10:02:50:399]
-            attack [ 555|555 ,1/9 , Ram, 2, 04.11.19 10:02:51:559]
-            attack [ 555|555 ,2/3 , Ram, 3, 04.11.19 10:02:52:992]
-            attack [ 555|555 ,1/1 , Nobleman, 1, 04.11.19 10:02:55:199]
+        XXX|YYY - defender village cords
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
 
     nick 2 (defender)
-        323|231 (noble attack: 1, Ram attack: 3)
-            attack [ 555|555 ,2/6 , Ram, 1, nick agresora, 04.11.19 10:02:50:399]
-            attack [ 555|555 ,1/9 , Ram, 2, 04.11.19 10:02:51:559]
-            attack [ 555|555 ,2/3 , Ram, 3, 04.11.19 10:02:52:992]
-            attack [ 555|555 ,1/1 , Nobleman, 1, 04.11.19 10:02:55:199]
+        XXX|YYY - defender village cords
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
 
-        323|231 (noble attack - 1, Ram attack - 3)
-            attack [ 555|555 ,2/6 , Ram, 1,  04.11.19 10:02:50:399]
-            attack [ 555|555 ,1/9 , Ram, 2, 04.11.19 10:02:51:559]
-            attack [ 555|555 ,2/3 , Ram, 3, 04.11.19 10:02:52:992]
-            attack [ 555|555 ,1/1 , Nobleman, 1, 04.11.19 10:02:55:199]
+        XXX|YYY - defender village cords
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
+            [ aggressor village, which is the attack from this village , Attack type, aggressor name, attack sent time]
 
-        323|231 (noble attack - 1, Ram attack - 3)
-            attack [ 555|555 ,2/6 , Ram, 1, nick agresora, 04.11.19 10:02:50:399]
-            attack [ 555|555 ,1/9 , Ram, 2, 04.11.19 10:02:51:559]
-            attack [ 555|555 ,2/3 , Ram, 3, 04.11.19 10:02:52:992]
-            attack [ 555|555 ,1/1 , Nobleman, 1, 04.11.19 10:02:55:199]
+
 """
 
 # create list of players who send S.O.S
