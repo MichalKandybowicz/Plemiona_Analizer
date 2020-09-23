@@ -4,9 +4,9 @@ from operator import itemgetter
 import os
 
 #
-SPEED_OF_NOBLE_MAN = 32 * 60 + 0.407407406507 * 0.6  # s/p
-SPEED_OF_RAM = 27 * 60 + 0.777777777778 * 0.6  # s/p
-SPEED_OF_SPY = 8 * 60 + 0.3333333333333 * 0.6  # s/p
+SPEED_OF_NOBLE_MAN = 35 * 60  # s/p
+SPEED_OF_RAM = 30 * 60  # s/p
+SPEED_OF_SPY = 9 * 60  # s/p
 X = 0  # space for x coordinate
 Y = 1  # space for y coordinate
 
@@ -287,6 +287,3 @@ def get_sorted_attacks_by_nickname_and_villages_and_sent_time(list_of_list):
     for i in list_of_end_format:
         end_format[i] = list(dict.fromkeys(end_format[i]))
     return end_format
-
-
-

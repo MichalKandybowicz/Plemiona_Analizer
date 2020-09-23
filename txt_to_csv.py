@@ -7,13 +7,14 @@ def txt_to_csv(PLAYERS_LIST):
     for nick in PLAYERS_LIST:
         with open('data/txt/' + nick + '.txt', 'r') as infile, open('data/csv/' + nick + '.csv', 'w') as outfile:
             line_stripped = (line.strip() for line in infile)
-            # lines = (line.split(" ") for line in line_stripped if line)
             line_nick = [nick]
             lines = [line_nick]
+
             for line in line_stripped:
 
                 line = line.replace("[b]Wioska:[/b] ", "")
                 line = line.replace("[b]Poparcie:[/b] 100", "")
+
                 if line[:5] == "[b]Po":
                     line = ""
                 elif line[:5] == "[b]Ob":
