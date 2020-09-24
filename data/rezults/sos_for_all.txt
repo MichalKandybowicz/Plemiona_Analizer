@@ -1,16 +1,16 @@
-test1
-
-	438|424
-		[command]Taran[/command] nieOpisany   420|469   Lord Sebus      48   2020/09/23 15:18:55   2020/09/24 15:32:54   1/1   
-
-	438|422
-		[command]Taran[/command] nieOpisany   430|469   Lord Sebus Trzeci      47   2020/09/23 15:42:38   2020/09/24 15:32:54   1/4   
-
-	439|427
-		[command]Taran[/command] nieOpisany   430|469   Lord Sebus Trzeci      42   2020/09/23 18:04:18   2020/09/24 15:32:54   2/4   
-
-	438|427
-		[command]Taran[/command] nieOpisany   430|469   Lord Sebus Trzeci      42   2020/09/23 18:10:15   2020/09/24 15:32:54   3/4   
+defender_name
 
 	435|427
-		[command]Taran[/command] nieOpisany   430|469   Lord Sebus Trzeci      42   2020/09/23 18:24:01   2020/09/24 15:32:54   4/4   
+		Taran z 430|469 nick agresora, dystans: 42, wysłany: 2020/09/23 18:24:01, dojdzie: 2020/09/24 15:32:54, atak z tej wsi: 1/5
+
+	439|427
+		Taran z 430|469 nick agresora, dystans: 42, wysłany: 2020/09/23 19:04:18, dojdzie: 2020/09/24 16:32:54, atak z tej wsi: 3/5
+
+	438|427
+		Taran z 430|469 nick agresora, dystans: 42, wysłany: 2020/09/23 20:10:15, dojdzie: 2020/09/24 17:32:54, atak z tej wsi: 4/5
+
+	438|422
+		Taran z 430|469 nick agresora, dystans: 47, wysłany: 2020/09/23 18:42:38, dojdzie: 2020/09/24 18:32:54, atak z tej wsi: 2/5
+
+	438|424
+		Taran z 430|469 nick agresora, dystans: 45, wysłany: 2020/09/23 20:41:44, dojdzie: 2020/09/24 19:32:54, atak z tej wsi: 5/5

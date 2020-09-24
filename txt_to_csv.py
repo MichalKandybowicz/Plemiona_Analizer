@@ -15,15 +15,14 @@ def txt_to_csv(PLAYERS_LIST):
                 line = line.replace("[b]Wioska:[/b] ", "")
                 line = line.replace("[b]Poparcie:[/b] 100", "")
 
-                if line[:5] == "[b]Po":
+                if "[b]Po" in line:
                     line = ""
-                elif line[:5] == "[b]Ob":
-                    line = ""
-                elif line[:16] == "[command]attack_":
+                elif "[b]Ob" in line:
                     line = ""
 
                 elif len(line) > 25:
-
+#[command]attack[/command] Taran [coord]430|469[/coord] --> Czas przybycia: 24.09.20 15:32:54:881 [player]Lord Sebus
+# Trzeci[/player]
                     line = line.replace("nd] [co", "nd] nieOpisany [co")
                     line = line.replace("[command]attack[/command] ", "")
                     line = line.replace(" [coord]", "!@!")

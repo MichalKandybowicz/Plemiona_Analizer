@@ -1,6 +1,5 @@
-[command]Nob[/command] nieOpisany   420|469   Lord Sebus   438|424   test1   48   2020/09/23 15:18:55   1/1   2020/09/24
- 15:32:54
-[command]Taran[/command] nieOpisany   430|469   Lord Sebus Trzeci   438|422   test1   47   2020/09/23 15:42:38   1/4   2020/09/24 15:32:54   
-[command]Taran[/command] nieOpisany   430|469   Lord Sebus Trzeci   439|427   test1   42   2020/09/23 18:04:18   2/4   2020/09/24 15:32:54   
-[command]Taran[/command] nieOpisany   430|469   Lord Sebus Trzeci   438|427   test1   42   2020/09/23 18:10:15   3/4   2020/09/24 15:32:54   
-[command]Taran[/command] nieOpisany   430|469   Lord Sebus Trzeci   435|427   test1   42   2020/09/23 18:24:01   4/4   2020/09/24 15:32:54   
+Taran   430|469   nick agresora   435|427   defender_name   42   2020/09/23 18:24:01   1/5   2020/09/24 15:32:54   
+Taran   430|469   nick agresora   438|422   defender_name   47   2020/09/23 18:42:38   2/5   2020/09/24 18:32:54   
+Taran   430|469   nick agresora   439|427   defender_name   42   2020/09/23 19:04:18   3/5   2020/09/24 16:32:54   
+Taran   430|469   nick agresora   438|427   defender_name   42   2020/09/23 20:10:15   4/5   2020/09/24 17:32:54   
+Taran   430|469   nick agresora   438|424   defender_name   45   2020/09/23 20:41:44   5/5   2020/09/24 19:32:54   
