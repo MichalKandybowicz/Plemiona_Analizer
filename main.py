@@ -46,6 +46,7 @@ from txt_to_csv import txt_to_csv
 import data_connection
 import change_data_form
 import logic
+import filters
 
 TYP_ATTACK = 0
 ATTACKER_VILLAGE_CORDS = 1
@@ -57,23 +58,61 @@ WHEN_SENT = 6
 DISTANCE = 7
 HOW_MANY_ATTACKS = 8
 
+time_s = 5  # odstępy między atakami większe niż podane będą usó∑ane (jako fejki)
+how_many = 7  # >= ilości wysłąnych z 1 wioski będą usówane (jako fejki)
+min_time = "2021/02/06 07:00:00"  # %Y/%m/%d %H:%M:%S
+max_time = "2021/02/06 16:00:00"
 
-def main():
-    """
 
-    """
+def load_and_data_preparation():
     players_list = logic.get_players_list("data/txt/")
     txt_to_csv(players_list)
     data = data_connection.read_file(players_list)
     list_of_attacks = change_data_form.change_format_to_list_of_list(data)
     dict_attacks_from_village = logic.get_how_many_attacks_from_attacker_village(list_of_attacks)
+    list_of_attacks = logic.add_sent_time_and_sort_by_this(dict_attacks_from_village, list_of_attacks)
+    return list_of_attacks, players_list
 
-    sorted_list_of_attacks = logic.add_sent_time_and_sort_by_this(dict_attacks_from_village, list_of_attacks)
-    list_of_attack_sorted_by_sent_time = logic.add_information_send_no(sorted_list_of_attacks)
-    list_of_attack_sorted_by_end_time = logic.sort_by_date(list_of_attack_sorted_by_sent_time, DATE_AND_TIME)
-    sos_format = logic.get_sorted_attacks_by_nickname_and_villages_and_sent_time(list_of_attack_sorted_by_end_time)
-    data_connection.write_attacks_by_sent_time(list_of_attack_sorted_by_sent_time)
-    data_connection.write_in_sos_format(list_of_attack_sorted_by_end_time, players_list, sos_format)
+
+def print_stats(stats_all_attacks, removed, stats_attacks_after_filters, stats_how_many_by_name):
+    print("wszystkie ataki przed filtrowaniem:", stats_all_attacks)
+
+    print("w sumie uznanych za fejki:", removed)
+
+    print("wszystkie ataki po filtrowaniu:", stats_attacks_after_filters)
+
+    how_many_by_name = dict(sorted(stats_how_many_by_name.items(), key=lambda item: item[1]))
+    for i in how_many_by_name:
+        print(i, "wysła:", how_many_by_name[i], "ataków")
+
+
+def main():
+    """
+
+    """
+    data, players_list = load_and_data_preparation()
+
+    data = logic.add_information_send_no(data)
+    stats_all_attacks = len(data)
+
+    sorted_data = logic.sort_by_entry_time(
+        data,
+    )
+
+    filtered_data, removed = filters.main_filer(
+        data=sorted_data, time=time_s, how_many=how_many, min_time=min_time, max_time=max_time
+    )
+
+    stats_how_many_by_name = logic.how_many_attacks_by(
+        filtered_data
+    )
+
+    sos_format = logic.get_sorted_attacks_by_nickname_and_villages_and_sent_time(filtered_data)
+
+    data_connection.write_attacks_by_sent_time(filtered_data)
+    data_connection.write_in_sos_format(filtered_data, players_list, sos_format)
+
+    print_stats(stats_all_attacks, removed, len(filtered_data), stats_how_many_by_name)
 
 
 if __name__ == '__main__':

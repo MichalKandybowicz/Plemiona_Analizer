@@ -4,9 +4,8 @@ from operator import itemgetter
 import os
 
 #
-SPEED_OF_NOBLE_MAN = 35 * 60  # s/p
-SPEED_OF_RAM = 30 * 60  # s/p
-SPEED_OF_SPY = 9 * 60  # s/p
+SPEED_OF_NOBLE_MAN = 21875 / 10  # s/p
+SPEED_OF_RAM = 18750 / 10  # s/p
 X = 0  # space for x coordinate
 Y = 1  # space for y coordinate
 
@@ -108,18 +107,18 @@ def add_sent_time_and_sort_by_this(dict_attacks_from_village, data):
                                           str(int(distance)),
                                           how_many_attacks])
 
-    sorted_by_send_time = sort_by_date(list_with_all_information, WHEN_SENT)
+    sorted_by_send_time = sort_by_date(list_with_all_information)
     return sorted_by_send_time
 
 
-def sort_by_date(list_of_attacks, sort_key):
+def sort_by_date(list_of_attacks):
     """
 
     :param sort_key: sort key
     :param list_of_attacks: list all of atatcks
     :return: list sorted my key
     """
-    sorted_by_send_time = sorted(list_of_attacks, key=itemgetter(sort_key))
+    sorted_by_send_time = sorted(list_of_attacks, key=itemgetter(DATE_AND_TIME))
     return sorted_by_send_time
 
 
@@ -147,10 +146,6 @@ def attack_travel_time(distance, attack_type):
     """
     if attack_type == "Szlachcic":
         duration = distance * SPEED_OF_NOBLE_MAN
-        time_list = seconds_to_datetime(duration)
-        return time_list
-    elif attack_type == "Zwiad":
-        duration = distance * SPEED_OF_SPY
         time_list = seconds_to_datetime(duration)
         return time_list
     else:
@@ -287,3 +282,14 @@ def get_sorted_attacks_by_nickname_and_villages_and_sent_time(list_of_list):
     for i in list_of_end_format:
         end_format[i] = list(dict.fromkeys(end_format[i]))
     return end_format
+
+
+def how_many_attacks_by(data):
+    attackers_dict = {}
+    for i in data:
+        if i[3] in attackers_dict:
+            attackers_dict[i[3]] += 1
+        else:
+            attackers_dict[i[3]] = 1
+
+    return attackers_dict

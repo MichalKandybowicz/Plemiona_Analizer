@@ -1,16 +1,2140 @@
-defender_name
+Primokret
 
-	435|427
-		Taran z 430|469 nick agresora, dystans: 42, wysłany: 2020/09/23 18:24:01, dojdzie: 2020/09/24 15:32:54, atak z tej wsi: 1/5
+	392|544
+		CK, z ,531|651 ,Lord kamikadze161616, dystans: ,175, wysłany: ,2021/02/02 12:16:46, dojdzie: ,2021/02/06,07:38:27, atak z tej wsi: ,1,1
 
-	439|427
-		Taran z 430|469 nick agresora, dystans: 42, wysłany: 2020/09/23 19:04:18, dojdzie: 2020/09/24 16:32:54, atak z tej wsi: 3/5
+	440|545
+		Taran 02.02 o 09:12:00 [193], z ,633|536 ,Qwint0, dystans: ,193, wysłany: ,2021/02/02 09:12:01, dojdzie: ,2021/02/06,13:49:49, atak z tej wsi: ,1,1
+		Taran, z ,376|585 ,criminals, dystans: ,75, wysłany: ,2021/02/04 19:08:02, dojdzie: ,2021/02/06,10:26:32, atak z tej wsi: ,1,1
 
-	438|427
-		Taran z 430|469 nick agresora, dystans: 42, wysłany: 2020/09/23 20:10:15, dojdzie: 2020/09/24 17:32:54, atak z tej wsi: 4/5
+	453|532
+		Taran, z ,494|616 ,OrelQ, dystans: ,93, wysłany: ,2021/02/04 09:31:37, dojdzie: ,2021/02/06,10:12:37, atak z tej wsi: ,2,5
+		Taran, z ,411|596 ,Hasarin, dystans: ,76, wysłany: ,2021/02/04 21:32:47, dojdzie: ,2021/02/06,13:24:59, atak z tej wsi: ,6,6
 
-	438|422
-		Taran z 430|469 nick agresora, dystans: 47, wysłany: 2020/09/23 18:42:38, dojdzie: 2020/09/24 18:32:54, atak z tej wsi: 2/5
+	444|544
+		Taran, z ,460|627 ,OrelQ, dystans: ,84, wysłany: ,2021/02/04 18:00:51, dojdzie: ,2021/02/06,14:02:21, atak z tej wsi: ,2,4
+		Taran, z ,346|521 ,Qwasedzx, dystans: ,100, wysłany: ,2021/02/04 10:06:52, dojdzie: ,2021/02/06,14:32:34, atak z tej wsi: ,1,2
+		Taran, z ,460|595 ,ChudyMaximum, dystans: ,53, wysłany: ,2021/02/05 11:42:41, dojdzie: ,2021/02/06,15:33:02, atak z tej wsi: ,8,14
 
-	438|424
-		Taran z 430|469 nick agresora, dystans: 45, wysłany: 2020/09/23 20:41:44, dojdzie: 2020/09/24 19:32:54, atak z tej wsi: 5/5
+	446|533
+		Taran, z ,429|617 ,OrelQ, dystans: ,85, wysłany: ,2021/02/04 18:02:15, dojdzie: ,2021/02/06,14:40:28, atak z tej wsi: ,3,5
+		Taran, z ,449|614 ,Karłowaty Bór, dystans: ,81, wysłany: ,2021/02/04 21:46:09, dojdzie: ,2021/02/06,15:59:08, atak z tej wsi: ,2,2
+		Taran, z ,467|626 ,Hasarin, dystans: ,95, wysłany: ,2021/02/04 07:37:51, dojdzie: ,2021/02/06,09:17:16, atak z tej wsi: ,2,4
+		Taran, z ,346|524 ,Qwasedzx, dystans: ,100, wysłany: ,2021/02/04 10:06:20, dojdzie: ,2021/02/06,14:23:58, atak z tej wsi: ,1,1
+
+	437|539
+		Taran, z ,421|617 ,OrelQ, dystans: ,79, wysłany: ,2021/02/04 18:03:25, dojdzie: ,2021/02/06,11:31:40, atak z tej wsi: ,1,4
+		Taran, z ,476|588 ,Sir Lukas II, dystans: ,62, wysłany: ,2021/02/05 01:19:14, dojdzie: ,2021/02/06,09:56:18, atak z tej wsi: ,2,3
+		Taran, z ,395|592 ,Sir Lukas II, dystans: ,67, wysłany: ,2021/02/05 01:31:37, dojdzie: ,2021/02/06,12:44:52, atak z tej wsi: ,2,5
+		Taran, z ,383|542 ,Jogurciq, dystans: ,54, wysłany: ,2021/02/05 10:12:23, dojdzie: ,2021/02/06,14:22:29, atak z tej wsi: ,7,13
+
+	447|539
+		Taran, z ,378|590 ,OrelQ, dystans: ,85, wysłany: ,2021/02/04 18:05:38, dojdzie: ,2021/02/06,14:46:57, atak z tej wsi: ,5,6
+		Taran, z ,408|613 ,Hasarin, dystans: ,83, wysłany: ,2021/02/04 15:14:02, dojdzie: ,2021/02/06,10:48:02, atak z tej wsi: ,2,5
+		Taran, z ,401|594 ,Sir Lukas II, dystans: ,71, wysłany: ,2021/02/05 01:30:49, dojdzie: ,2021/02/06,14:51:28, atak z tej wsi: ,4,4
+
+	433|531
+		Taran, z ,414|583 ,OrelQ, dystans: ,55, wysłany: ,2021/02/05 10:01:42, dojdzie: ,2021/02/06,14:51:47, atak z tej wsi: ,4,4
+		Taran, z ,450|584 ,SweetPain, dystans: ,55, wysłany: ,2021/02/05 04:43:22, dojdzie: ,2021/02/06,09:42:44, atak z tej wsi: ,2,6
+		Taran, z ,449|580 ,spoko of poland, dystans: ,51, wysłany: ,2021/02/05 07:11:36, dojdzie: ,2021/02/06,10:02:25, atak z tej wsi: ,6,10
+		Taran, z ,364|553 ,criminals, dystans: ,72, wysłany: ,2021/02/04 19:09:33, dojdzie: ,2021/02/06,08:52:44, atak z tej wsi: ,1,1
+		Taran, z ,362|555 ,criminals, dystans: ,74, wysłany: ,2021/02/04 19:09:55, dojdzie: ,2021/02/06,10:11:59, atak z tej wsi: ,1,1
+
+	438|548
+		Taran, z ,394|582 ,OrelQ, dystans: ,55, wysłany: ,2021/02/05 10:06:40, dojdzie: ,2021/02/06,15:04:21, atak z tej wsi: ,3,3
+		Taran, z ,431|643 ,soyer789, dystans: ,95, wysłany: ,2021/02/04 09:19:20, dojdzie: ,2021/02/06,10:56:08, atak z tej wsi: ,1,3
+		Taran, z ,441|596 ,mapik777, dystans: ,48, wysłany: ,2021/02/05 11:12:12, dojdzie: ,2021/02/06,12:15:08, atak z tej wsi: ,4,13
+		Taran, z ,352|509 ,Qwasedzx, dystans: ,94, wysłany: ,2021/02/04 10:06:13, dojdzie: ,2021/02/06,11:17:09, atak z tej wsi: ,1,2
+		Taran, z ,353|567 ,Qwasedzx, dystans: ,87, wysłany: ,2021/02/04 10:59:23, dojdzie: ,2021/02/06,08:21:11, atak z tej wsi: ,1,3
+		Taran, z ,380|566 ,Qwasedzx, dystans: ,60, wysłany: ,2021/02/05 06:51:21, dojdzie: ,2021/02/06,14:29:08, atak z tej wsi: ,1,1
+		Taran, z ,394|595 ,Sir Lukas II, dystans: ,64, wysłany: ,2021/02/05 01:15:50, dojdzie: ,2021/02/06,10:47:46, atak z tej wsi: ,1,3
+
+	453|524
+		Taran, z ,460|618 ,luuko2201, dystans: ,94, wysłany: ,2021/02/04 14:20:57, dojdzie: ,2021/02/06,15:26:35, atak z tej wsi: ,3,3
+		Taran, z ,407|604 ,Hasarin, dystans: ,92, wysłany: ,2021/02/04 08:47:50, dojdzie: ,2021/02/06,08:51:39, atak z tej wsi: ,2,4
+		Taran, z ,439|593 ,Hasarin, dystans: ,70, wysłany: ,2021/02/04 21:28:52, dojdzie: ,2021/02/06,10:09:03, atak z tej wsi: ,2,3
+		Taran, z ,463|599 ,mapik777, dystans: ,75, wysłany: ,2021/02/04 21:37:33, dojdzie: ,2021/02/06,13:02:02, atak z tej wsi: ,5,6
+		Taran, z ,424|556 ,Jogurciq, dystans: ,43, wysłany: ,2021/02/05 11:03:13, dojdzie: ,2021/02/06,09:32:46, atak z tej wsi: ,5,14
+
+	437|540
+		Taran, z ,386|515 ,FetaAkaMeta, dystans: ,56, wysłany: ,2021/02/05 09:10:20, dojdzie: ,2021/02/06,14:45:16, atak z tej wsi: ,1,3
+		Taran, z ,390|518 ,FetaAkaMeta, dystans: ,51, wysłany: ,2021/02/05 09:13:25, dojdzie: ,2021/02/06,12:15:07, atak z tej wsi: ,1,3
+		Taran, z ,384|543 ,Jogurciq, dystans: ,53, wysłany: ,2021/02/05 10:12:01, dojdzie: ,2021/02/06,13:50:55, atak z tej wsi: ,3,17
+
+	441|527
+		Taran, z ,432|570 ,FetaAkaMeta, dystans: ,43, wysłany: ,2021/02/05 09:21:42, dojdzie: ,2021/02/06,08:14:34, atak z tej wsi: ,1,4
+		Taran, z ,405|586 ,Hasarin, dystans: ,69, wysłany: ,2021/02/04 21:32:17, dojdzie: ,2021/02/06,09:32:09, atak z tej wsi: ,3,5
+		Taran, z ,461|588 ,spoko of poland, dystans: ,64, wysłany: ,2021/02/04 22:13:00, dojdzie: ,2021/02/06,07:39:06, atak z tej wsi: ,1,15
+		Taran, z ,390|587 ,soyer789, dystans: ,78, wysłany: ,2021/02/04 20:43:07, dojdzie: ,2021/02/06,13:43:56, atak z tej wsi: ,3,3
+
+	454|529
+		Taran, z ,434|572 ,FetaAkaMeta, dystans: ,47, wysłany: ,2021/02/05 09:22:26, dojdzie: ,2021/02/06,10:04:25, atak z tej wsi: ,1,2
+		Taran, z ,387|595 ,Xardin94, dystans: ,94, wysłany: ,2021/02/04 10:24:17, dojdzie: ,2021/02/06,11:23:16, atak z tej wsi: ,1,1
+
+	452|533
+		Taran, z ,476|619 ,pasztetinio, dystans: ,89, wysłany: ,2021/02/04 14:10:33, dojdzie: ,2021/02/06,12:40:44, atak z tej wsi: ,5,10
+		Taran, z ,451|604 ,Karłowaty Bór, dystans: ,71, wysłany: ,2021/02/04 21:29:58, dojdzie: ,2021/02/06,10:28:56, atak z tej wsi: ,2,4
+		Taran, z ,473|573 ,jarkeS, dystans: ,45, wysłany: ,2021/02/05 12:54:31, dojdzie: ,2021/02/06,12:26:19, atak z tej wsi: ,6,6
+
+	433|541
+		Taran, z ,388|605 ,Karłowaty Bór, dystans: ,78, wysłany: ,2021/02/04 21:28:22, dojdzie: ,2021/02/06,14:13:16, atak z tej wsi: ,2,4
+		Taran, z ,412|639 ,soyer789, dystans: ,100, wysłany: ,2021/02/04 10:45:49, dojdzie: ,2021/02/06,14:57:50, atak z tej wsi: ,2,2
+		Taran, z ,350|558 ,criminals, dystans: ,84, wysłany: ,2021/02/04 19:08:16, dojdzie: ,2021/02/06,15:15:52, atak z tej wsi: ,1,1
+
+	439|542
+		Taran, z ,390|606 ,Karłowaty Bór, dystans: ,80, wysłany: ,2021/02/04 21:29:16, dojdzie: ,2021/02/06,15:28:08, atak z tej wsi: ,3,3
+		Taran, z ,394|595 ,Sir Lukas II, dystans: ,69, wysłany: ,2021/02/05 01:16:01, dojdzie: ,2021/02/06,13:28:44, atak z tej wsi: ,3,3
+
+	444|543
+		Taran, z ,447|613 ,Karłowaty Bór, dystans: ,70, wysłany: ,2021/02/04 21:30:18, dojdzie: ,2021/02/06,09:59:48, atak z tej wsi: ,2,4
+
+	449|543
+		Taran, z ,447|613 ,Karłowaty Bór, dystans: ,70, wysłany: ,2021/02/04 21:30:38, dojdzie: ,2021/02/06,09:59:02, atak z tej wsi: ,1,4
+		Taran, z ,431|643 ,soyer789, dystans: ,101, wysłany: ,2021/02/04 09:20:25, dojdzie: ,2021/02/06,14:15:38, atak z tej wsi: ,2,3
+		Taran, z ,433|633 ,Lord Zygfryd, dystans: ,91, wysłany: ,2021/02/04 12:43:29, dojdzie: ,2021/02/06,12:20:05, atak z tej wsi: ,1,1
+		Taran, z ,351|510 ,Qwasedzx, dystans: ,103, wysłany: ,2021/02/04 10:06:07, dojdzie: ,2021/02/06,15:57:35, atak z tej wsi: ,2,2
+		Taran, z ,460|595 ,ChudyMaximum, dystans: ,53, wysłany: ,2021/02/05 11:43:09, dojdzie: ,2021/02/06,15:24:06, atak z tej wsi: ,6,14
+		Taran, z ,454|604 ,Sir Lukas II, dystans: ,61, wysłany: ,2021/02/05 01:14:31, dojdzie: ,2021/02/06,09:07:10, atak z tej wsi: ,1,5
+
+	457|530
+		Taran, z ,420|585 ,tu-gina-ludzie, dystans: ,66, wysłany: ,2021/02/04 22:08:20, dojdzie: ,2021/02/06,08:39:49, atak z tej wsi: ,1,4
+		Taran, z ,433|600 ,soyer789, dystans: ,74, wysłany: ,2021/02/04 22:36:42, dojdzie: ,2021/02/06,13:09:12, atak z tej wsi: ,3,5
+
+	446|526
+		Taran, z ,471|628 ,Hasarin, dystans: ,105, wysłany: ,2021/02/04 07:41:25, dojdzie: ,2021/02/06,14:23:16, atak z tej wsi: ,3,3
+
+	446|532
+		Taran, z ,438|626 ,Hasarin, dystans: ,94, wysłany: ,2021/02/04 09:58:57, dojdzie: ,2021/02/06,11:07:04, atak z tej wsi: ,1,2
+		Taran, z ,440|586 ,mapik777, dystans: ,54, wysłany: ,2021/02/05 10:28:09, dojdzie: ,2021/02/06,14:46:02, atak z tej wsi: ,9,10
+
+	447|528
+		Taran, z ,405|603 ,Hasarin, dystans: ,85, wysłany: ,2021/02/04 10:51:41, dojdzie: ,2021/02/06,07:37:55, atak z tej wsi: ,1,3
+		Taran, z ,406|598 ,Hasarin, dystans: ,81, wysłany: ,2021/02/04 15:12:08, dojdzie: ,2021/02/06,09:27:15, atak z tej wsi: ,1,4
+
+	444|525
+		Taran, z ,406|604 ,Hasarin, dystans: ,87, wysłany: ,2021/02/04 10:51:54, dojdzie: ,2021/02/06,08:31:25, atak z tej wsi: ,2,3
+
+	445|540
+		Taran, z ,408|613 ,Hasarin, dystans: ,81, wysłany: ,2021/02/04 15:14:29, dojdzie: ,2021/02/06,09:52:02, atak z tej wsi: ,1,5
+		Taran, z ,393|593 ,Sir Lukas II, dystans: ,74, wysłany: ,2021/02/05 01:17:04, dojdzie: ,2021/02/06,15:57:22, atak z tej wsi: ,3,5
+
+	450|546
+		Taran, z ,388|615 ,Hasarin, dystans: ,92, wysłany: ,2021/02/04 15:15:25, dojdzie: ,2021/02/06,15:34:16, atak z tej wsi: ,2,3
+		Taran, z ,460|595 ,ChudyMaximum, dystans: ,50, wysłany: ,2021/02/05 11:43:23, dojdzie: ,2021/02/06,13:46:11, atak z tej wsi: ,3,14
+		Taran, z ,408|537 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:56:29, dojdzie: ,2021/02/06,09:18:47, atak z tej wsi: ,3,17
+
+	439|551
+		Taran, z ,386|616 ,Hasarin, dystans: ,83, wysłany: ,2021/02/04 16:19:20, dojdzie: ,2021/02/06,12:00:14, atak z tej wsi: ,1,3
+		Taran, z ,393|590 ,Sir Lukas II, dystans: ,60, wysłany: ,2021/02/05 01:16:13, dojdzie: ,2021/02/06,08:40:50, atak z tej wsi: ,1,3
+
+	441|549
+		Taran, z ,392|626 ,Hasarin, dystans: ,91, wysłany: ,2021/02/04 16:20:29, dojdzie: ,2021/02/06,15:52:38, atak z tej wsi: ,3,3
+		Taran, z ,457|605 ,Zelke, dystans: ,58, wysłany: ,2021/02/05 08:32:04, dojdzie: ,2021/02/06,14:52:06, atak z tej wsi: ,3,4
+		Taran, z ,364|572 ,criminals, dystans: ,80, wysłany: ,2021/02/04 19:05:21, dojdzie: ,2021/02/06,12:56:39, atak z tej wsi: ,1,1
+
+	454|528
+		Taran, z ,442|596 ,Hasarin, dystans: ,69, wysłany: ,2021/02/04 21:29:39, dojdzie: ,2021/02/06,09:27:29, atak z tej wsi: ,1,4
+		Taran, z ,472|604 ,spoko of poland, dystans: ,78, wysłany: ,2021/02/04 15:11:34, dojdzie: ,2021/02/06,07:52:16, atak z tej wsi: ,3,10
+		Taran, z ,444|603 ,Qhorrin, dystans: ,75, wysłany: ,2021/02/05 00:18:34, dojdzie: ,2021/02/06,15:43:04, atak z tej wsi: ,2,2
+		Taran, z ,425|556 ,Jogurciq, dystans: ,40, wysłany: ,2021/02/05 10:37:23, dojdzie: ,2021/02/06,07:37:06, atak z tej wsi: ,1,17
+
+	441|542
+		Taran, z ,407|629 ,spoko of poland, dystans: ,93, wysłany: ,2021/02/04 08:31:02, dojdzie: ,2021/02/06,09:10:01, atak z tej wsi: ,1,2
+
+	436|533
+		Taran, z ,407|616 ,spoko of poland, dystans: ,87, wysłany: ,2021/02/04 11:32:04, dojdzie: ,2021/02/06,09:19:35, atak z tej wsi: ,4,4
+		Taran, z ,430|586 ,mapik777, dystans: ,53, wysłany: ,2021/02/05 11:12:28, dojdzie: ,2021/02/06,14:59:18, atak z tej wsi: ,1,2
+		Taran, z ,463|592 ,Qhorrin, dystans: ,64, wysłany: ,2021/02/05 00:15:31, dojdzie: ,2021/02/06,10:03:09, atak z tej wsi: ,2,4
+
+	446|539
+		Taran, z ,407|616 ,spoko of poland, dystans: ,86, wysłany: ,2021/02/04 11:32:16, dojdzie: ,2021/02/06,08:29:34, atak z tej wsi: ,2,4
+
+	446|540
+		Taran, z ,407|616 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 11:32:30, dojdzie: ,2021/02/06,08:01:57, atak z tej wsi: ,1,4
+		Taran, z ,423|606 ,soyer789, dystans: ,69, wysłany: ,2021/02/04 21:52:07, dojdzie: ,2021/02/06,10:16:16, atak z tej wsi: ,1,5
+		Taran, z ,393|590 ,Sir Lukas II, dystans: ,72, wysłany: ,2021/02/05 01:16:21, dojdzie: ,2021/02/06,15:13:19, atak z tej wsi: ,3,3
+
+	436|536
+		Taran, z ,402|618 ,spoko of poland, dystans: ,88, wysłany: ,2021/02/04 11:33:00, dojdzie: ,2021/02/06,09:47:03, atak z tej wsi: ,2,3
+		Taran, z ,470|602 ,Sir Lukas II, dystans: ,74, wysłany: ,2021/02/05 01:18:54, dojdzie: ,2021/02/06,15:59:00, atak z tej wsi: ,3,3
+
+	449|542
+		Taran, z ,405|619 ,spoko of poland, dystans: ,88, wysłany: ,2021/02/04 11:33:24, dojdzie: ,2021/02/06,09:44:48, atak z tej wsi: ,1,1
+
+	440|542
+		Taran, z ,404|619 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 11:33:41, dojdzie: ,2021/02/06,07:49:56, atak z tej wsi: ,1,3
+		Taran, z ,389|613 ,zarowa wielki, dystans: ,87, wysłany: ,2021/02/04 16:07:50, dojdzie: ,2021/02/06,13:39:40, atak z tej wsi: ,1,2
+		Taran, z ,392|596 ,Sir Lukas II, dystans: ,72, wysłany: ,2021/02/05 01:17:42, dojdzie: ,2021/02/06,14:55:30, atak z tej wsi: ,2,3
+
+	441|541
+		Taran, z ,395|619 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 11:39:27, dojdzie: ,2021/02/06,10:49:15, atak z tej wsi: ,3,3
+		Taran, z ,390|587 ,soyer789, dystans: ,68, wysłany: ,2021/02/04 20:43:16, dojdzie: ,2021/02/06,08:29:32, atak z tej wsi: ,1,3
+		Taran, z ,366|550 ,criminals, dystans: ,75, wysłany: ,2021/02/04 19:08:08, dojdzie: ,2021/02/06,10:28:42, atak z tej wsi: ,1,1
+		Taran, z ,472|602 ,Sir Lukas II, dystans: ,68, wysłany: ,2021/02/05 01:13:09, dojdzie: ,2021/02/06,12:51:26, atak z tej wsi: ,3,4
+
+	445|548
+		Taran, z ,395|619 ,spoko of poland, dystans: ,86, wysłany: ,2021/02/04 11:39:39, dojdzie: ,2021/02/06,08:53:22, atak z tej wsi: ,1,3
+
+	437|531
+		Taran, z ,461|591 ,spoko of poland, dystans: ,64, wysłany: ,2021/02/04 22:12:36, dojdzie: ,2021/02/06,07:52:02, atak z tej wsi: ,4,14
+		Taran, z ,449|580 ,spoko of poland, dystans: ,50, wysłany: ,2021/02/05 07:12:08, dojdzie: ,2021/02/06,09:28:38, atak z tej wsi: ,2,10
+		Taran, z ,390|587 ,soyer789, dystans: ,73, wysłany: ,2021/02/04 20:43:00, dojdzie: ,2021/02/06,10:47:40, atak z tej wsi: ,2,3
+		Taran, z ,480|588 ,Waheed, dystans: ,71, wysłany: ,2021/02/04 22:40:14, dojdzie: ,2021/02/06,11:51:29, atak z tej wsi: ,2,4
+		Taran, z ,421|573 ,mapik777, dystans: ,44, wysłany: ,2021/02/05 11:19:26, dojdzie: ,2021/02/06,10:43:57, atak z tej wsi: ,2,2
+		Taran, z ,345|522 ,Qwasedzx, dystans: ,92, wysłany: ,2021/02/04 10:06:59, dojdzie: ,2021/02/06,10:15:42, atak z tej wsi: ,1,2
+		Taran, z ,463|593 ,Qhorrin, dystans: ,67, wysłany: ,2021/02/05 00:16:12, dojdzie: ,2021/02/06,11:17:10, atak z tej wsi: ,2,4
+		Taran, z ,395|602 ,21mati21, dystans: ,82, wysłany: ,2021/02/04 18:22:53, dojdzie: ,2021/02/06,13:20:46, atak z tej wsi: ,1,1
+		Taran, z ,395|592 ,Sir Lukas II, dystans: ,74, wysłany: ,2021/02/05 01:16:50, dojdzie: ,2021/02/06,15:51:14, atak z tej wsi: ,5,5
+
+	449|539
+		Taran, z ,485|582 ,Zelke, dystans: ,56, wysłany: ,2021/02/05 08:32:26, dojdzie: ,2021/02/06,13:44:57, atak z tej wsi: ,2,5
+		Taran, z ,408|548 ,Jogurciq, dystans: ,41, wysłany: ,2021/02/05 10:53:02, dojdzie: ,2021/02/06,08:44:48, atak z tej wsi: ,2,14
+
+	389|550
+		Taran, z ,414|645 ,soyer789, dystans: ,98, wysłany: ,2021/02/04 12:24:28, dojdzie: ,2021/02/06,15:34:17, atak z tej wsi: ,2,11
+
+	457|529
+		Taran, z ,421|598 ,soyer789, dystans: ,77, wysłany: ,2021/02/04 19:29:10, dojdzie: ,2021/02/06,12:01:15, atak z tej wsi: ,4,6
+
+	435|530
+		Taran, z ,423|606 ,soyer789, dystans: ,76, wysłany: ,2021/02/04 21:52:00, dojdzie: ,2021/02/06,13:56:25, atak z tej wsi: ,4,5
+		Taran, z ,458|593 ,Sir Lukas II, dystans: ,67, wysłany: ,2021/02/05 01:23:42, dojdzie: ,2021/02/06,12:19:33, atak z tej wsi: ,2,2
+
+	454|527
+		Taran, z ,464|597 ,mapik777, dystans: ,70, wysłany: ,2021/02/05 00:36:56, dojdzie: ,2021/02/06,13:26:39, atak z tej wsi: ,6,10
+		Taran, z ,415|554 ,Qwasedzx, dystans: ,47, wysłany: ,2021/02/05 06:49:03, dojdzie: ,2021/02/06,07:31:22, atak z tej wsi: ,1,1
+		Taran, z ,430|584 ,Qhorrin, dystans: ,61, wysłany: ,2021/02/05 00:16:47, dojdzie: ,2021/02/06,08:29:30, atak z tej wsi: ,1,2
+
+	454|530
+		Taran, z ,449|593 ,mapik777, dystans: ,63, wysłany: ,2021/02/05 00:37:24, dojdzie: ,2021/02/06,09:32:21, atak z tej wsi: ,2,13
+		Taran, z ,413|537 ,Jogurciq, dystans: ,41, wysłany: ,2021/02/05 10:54:01, dojdzie: ,2021/02/06,08:33:49, atak z tej wsi: ,2,16
+
+	455|529
+		Taran, z ,449|593 ,mapik777, dystans: ,64, wysłany: ,2021/02/05 00:37:31, dojdzie: ,2021/02/06,10:06:18, atak z tej wsi: ,3,13
+		Taran, z ,397|599 ,Xardin94, dystans: ,90, wysłany: ,2021/02/04 10:24:38, dojdzie: ,2021/02/06,09:45:28, atak z tej wsi: ,1,1
+		Taran, z ,425|556 ,Jogurciq, dystans: ,40, wysłany: ,2021/02/05 10:37:01, dojdzie: ,2021/02/06,07:38:18, atak z tej wsi: ,2,17
+
+	439|540
+		Taran, z ,469|566 ,ChudyMaximum, dystans: ,39, wysłany: ,2021/02/05 11:07:56, dojdzie: ,2021/02/06,07:48:31, atak z tej wsi: ,1,15
+		Taran, z ,443|591 ,zarowa wielki, dystans: ,51, wysłany: ,2021/02/05 06:18:34, dojdzie: ,2021/02/06,08:57:12, atak z tej wsi: ,1,3
+		Taran, z ,400|588 ,Sir Lukas II, dystans: ,61, wysłany: ,2021/02/05 01:15:29, dojdzie: ,2021/02/06,09:28:11, atak z tej wsi: ,3,4
+
+	448|539
+		Taran, z ,455|583 ,ChudyMaximum, dystans: ,44, wysłany: ,2021/02/05 11:20:45, dojdzie: ,2021/02/06,10:33:03, atak z tej wsi: ,5,17
+
+	449|547
+		Taran, z ,471|589 ,ChudyMaximum, dystans: ,47, wysłany: ,2021/02/05 11:42:23, dojdzie: ,2021/02/06,12:24:03, atak z tej wsi: ,4,15
+		Taran, z ,456|623 ,jarkeS, dystans: ,76, wysłany: ,2021/02/04 16:24:44, dojdzie: ,2021/02/06,08:09:47, atak z tej wsi: ,1,4
+
+	446|541
+		Taran, z ,470|589 ,ChudyMaximum, dystans: ,53, wysłany: ,2021/02/05 11:58:38, dojdzie: ,2021/02/06,15:55:41, atak z tej wsi: ,9,10
+
+	435|554
+		Taran, z ,446|599 ,jarkeS, dystans: ,46, wysłany: ,2021/02/05 13:12:10, dojdzie: ,2021/02/06,13:19:49, atak z tej wsi: ,1,1
+
+	441|545
+		Taran, z ,433|629 ,Qhorrin, dystans: ,84, wysłany: ,2021/02/04 12:09:04, dojdzie: ,2021/02/06,08:05:57, atak z tej wsi: ,1,2
+		Taran, z ,367|561 ,criminals, dystans: ,75, wysłany: ,2021/02/04 19:05:32, dojdzie: ,2021/02/06,10:31:28, atak z tej wsi: ,1,1
+
+	444|538
+		Taran, z ,471|595 ,Qhorrin, dystans: ,63, wysłany: ,2021/02/05 00:08:37, dojdzie: ,2021/02/06,08:59:36, atak z tej wsi: ,1,4
+		Taran, z ,476|625 ,zarowa wielki, dystans: ,92, wysłany: ,2021/02/04 15:34:33, dojdzie: ,2021/02/06,15:51:22, atak z tej wsi: ,3,6
+
+	450|538
+		Taran, z ,483|581 ,Qhorrin, dystans: ,54, wysłany: ,2021/02/05 10:19:19, dojdzie: ,2021/02/06,14:33:10, atak z tej wsi: ,8,10
+		Taran, z ,407|554 ,Jogurciq, dystans: ,45, wysłany: ,2021/02/05 10:41:53, dojdzie: ,2021/02/06,10:35:38, atak z tej wsi: ,3,10
+
+	436|542
+		Taran, z ,452|598 ,Sir Lukas II, dystans: ,58, wysłany: ,2021/02/05 01:14:07, dojdzie: ,2021/02/06,07:34:09, atak z tej wsi: ,1,5
+		Taran, z ,392|594 ,Sir Lukas II, dystans: ,68, wysłany: ,2021/02/05 01:17:22, dojdzie: ,2021/02/06,12:46:02, atak z tej wsi: ,3,5
+
+	443|544
+		Taran, z ,401|594 ,Sir Lukas II, dystans: ,65, wysłany: ,2021/02/05 01:15:35, dojdzie: ,2021/02/06,11:16:12, atak z tej wsi: ,1,4
+
+	439|538
+		Taran, z ,396|593 ,Sir Lukas II, dystans: ,69, wysłany: ,2021/02/05 01:16:42, dojdzie: ,2021/02/06,13:38:23, atak z tej wsi: ,2,2
+
+	447|542
+		Taran, z ,457|606 ,Sir Lukas II, dystans: ,64, wysłany: ,2021/02/05 01:30:13, dojdzie: ,2021/02/06,11:14:29, atak z tej wsi: ,5,6
+
+	439|544
+		Taran, z ,394|595 ,Sir Lukas II, dystans: ,68, wysłany: ,2021/02/05 01:31:16, dojdzie: ,2021/02/06,12:56:44, atak z tej wsi: ,2,3
+
+	437|537
+		Taran, z ,395|592 ,Sir Lukas II, dystans: ,69, wysłany: ,2021/02/05 01:31:44, dojdzie: ,2021/02/06,13:34:19, atak z tej wsi: ,3,5
+fluffy1321
+
+	415|559
+		Taran (1), z ,460|624 ,OrelQ, dystans: ,79, wysłany: ,2021/02/04 18:00:24, dojdzie: ,2021/02/06,11:10:56, atak z tej wsi: ,1,2
+		Taran (1), z ,467|541 ,endyydne, dystans: ,55, wysłany: ,2021/02/05 09:38:25, dojdzie: ,2021/02/06,14:18:01, atak z tej wsi: ,1,2
+		Taran (1), z ,424|605 ,soyer789, dystans: ,46, wysłany: ,2021/02/05 11:32:27, dojdzie: ,2021/02/06,11:57:12, atak z tej wsi: ,1,2
+		Taran (1), z ,469|589 ,mapik777, dystans: ,61, wysłany: ,2021/02/05 00:28:27, dojdzie: ,2021/02/06,08:38:53, atak z tej wsi: ,4,13
+		Taran (1), z ,444|599 ,mapik777, dystans: ,49, wysłany: ,2021/02/05 11:13:42, dojdzie: ,2021/02/06,12:57:39, atak z tej wsi: ,1,1
+		Taran, z ,402|603 ,jarkeS, dystans: ,45, wysłany: ,2021/02/05 12:56:03, dojdzie: ,2021/02/06,12:49:49, atak z tej wsi: ,2,2
+		Taran (1), z ,429|629 ,Qhorrin, dystans: ,71, wysłany: ,2021/02/04 23:59:06, dojdzie: ,2021/02/06,13:09:56, atak z tej wsi: ,2,3
+		Taran (1), z ,375|544 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:13:50, dojdzie: ,2021/02/06,08:28:50, atak z tej wsi: ,1,4
+
+	396|545
+		Taran (1), z ,392|586 ,OrelQ, dystans: ,41, wysłany: ,2021/02/05 10:05:53, dojdzie: ,2021/02/06,07:33:13, atak z tej wsi: ,1,2
+		Taran (1), z ,435|575 ,FetaAkaMeta, dystans: ,49, wysłany: ,2021/02/05 09:05:48, dojdzie: ,2021/02/06,10:43:25, atak z tej wsi: ,2,3
+		Taran (1), z ,474|553 ,SweetPain, dystans: ,78, wysłany: ,2021/02/04 14:51:20, dojdzie: ,2021/02/06,07:41:37, atak z tej wsi: ,1,5
+		Taran (1), z ,475|561 ,SweetPain, dystans: ,80, wysłany: ,2021/02/04 20:51:42, dojdzie: ,2021/02/06,14:50:35, atak z tej wsi: ,3,3
+		Taran (1), z ,487|560 ,Waheed, dystans: ,92, wysłany: ,2021/02/04 13:44:42, dojdzie: ,2021/02/06,13:46:50, atak z tej wsi: ,4,4
+		Taran (1), z ,483|578 ,Qhorrin, dystans: ,93, wysłany: ,2021/02/04 11:59:13, dojdzie: ,2021/02/06,12:26:59, atak z tej wsi: ,5,5
+		Taran (2), z ,456|552 ,Qhorrin, dystans: ,60, wysłany: ,2021/02/05 00:12:49, dojdzie: ,2021/02/06,07:40:32, atak z tej wsi: ,1,4
+		Taran (1), z ,462|559 ,Sir Lukas II, dystans: ,67, wysłany: ,2021/02/05 01:25:54, dojdzie: ,2021/02/06,12:34:17, atak z tej wsi: ,2,2
+		Taran (4), z ,349|558 ,Jogurciq, dystans: ,48, wysłany: ,2021/02/05 11:07:49, dojdzie: ,2021/02/06,12:31:43, atak z tej wsi: ,8,12
+
+	396|549
+		Taran (1), z ,465|595 ,luuko2201, dystans: ,82, wysłany: ,2021/02/04 14:18:45, dojdzie: ,2021/02/06,09:30:15, atak z tej wsi: ,3,3
+		Taran (1), z ,386|623 ,Hasarin, dystans: ,74, wysłany: ,2021/02/04 17:09:11, dojdzie: ,2021/02/06,08:02:42, atak z tej wsi: ,1,5
+		Taran (1), z ,345|524 ,Qwasedzx, dystans: ,56, wysłany: ,2021/02/05 06:50:23, dojdzie: ,2021/02/06,12:25:19, atak z tej wsi: ,2,2
+		Taran (1), z ,474|560 ,uzimati, dystans: ,78, wysłany: ,2021/02/04 20:12:47, dojdzie: ,2021/02/06,13:14:24, atak z tej wsi: ,4,4
+
+	457|553
+		Taran (1), z ,407|575 ,FetaAkaMeta, dystans: ,54, wysłany: ,2021/02/05 09:21:16, dojdzie: ,2021/02/06,13:48:19, atak z tej wsi: ,3,4
+		Taran (1), z ,437|630 ,Hasarin, dystans: ,79, wysłany: ,2021/02/04 15:14:35, dojdzie: ,2021/02/06,08:40:40, atak z tej wsi: ,1,3
+		Taran (1), z ,373|561 ,Qwasedzx, dystans: ,84, wysłany: ,2021/02/04 16:52:05, dojdzie: ,2021/02/06,12:48:58, atak z tej wsi: ,2,3
+		Taran (1), z ,401|601 ,21mati21, dystans: ,73, wysłany: ,2021/02/04 18:22:47, dojdzie: ,2021/02/06,08:47:40, atak z tej wsi: ,1,1
+
+	393|542
+		Miecz (1), z ,400|608 ,Karłowaty Bór, dystans: ,66, wysłany: ,2021/02/04 21:29:43, dojdzie: ,2021/02/06,08:03:47, atak z tej wsi: ,1,4
+		Taran, z ,411|579 ,tu-gina-ludzie, dystans: ,41, wysłany: ,2021/02/05 13:26:35, dojdzie: ,2021/02/06,10:52:24, atak z tej wsi: ,2,5
+		Taran (1), z ,392|626 ,Hasarin, dystans: ,84, wysłany: ,2021/02/04 16:21:01, dojdzie: ,2021/02/06,12:06:12, atak z tej wsi: ,2,3
+		Taran (1), z ,395|630 ,Hasarin, dystans: ,88, wysłany: ,2021/02/04 16:34:58, dojdzie: ,2021/02/06,14:25:40, atak z tej wsi: ,2,3
+		Taran (1), z ,461|549 ,SweetPain, dystans: ,68, wysłany: ,2021/02/04 20:53:26, dojdzie: ,2021/02/06,08:29:40, atak z tej wsi: ,1,1
+		Taran (1), z ,475|585 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 08:31:08, dojdzie: ,2021/02/06,08:44:35, atak z tej wsi: ,1,4
+		Taran (1), z ,441|622 ,słodkimisiek, dystans: ,93, wysłany: ,2021/02/04 11:28:01, dojdzie: ,2021/02/06,12:03:29, atak z tej wsi: ,1,1
+		Taran (1), z ,453|595 ,zarowa wielki, dystans: ,80, wysłany: ,2021/02/04 15:19:36, dojdzie: ,2021/02/06,09:01:22, atak z tej wsi: ,2,5
+
+	458|555
+		Miecz (1), z ,447|626 ,Karłowaty Bór, dystans: ,71, wysłany: ,2021/02/04 21:31:41, dojdzie: ,2021/02/06,10:56:54, atak z tej wsi: ,1,4
+		Taran (6), z ,467|600 ,ChudyMaximum, dystans: ,45, wysłany: ,2021/02/05 11:35:44, dojdzie: ,2021/02/06,11:29:50, atak z tej wsi: ,5,13
+		Taran (1), z ,396|617 ,Xardin94, dystans: ,87, wysłany: ,2021/02/04 10:24:31, dojdzie: ,2021/02/06,08:04:33, atak z tej wsi: ,1,1
+
+	459|555
+		Taran, z ,478|601 ,tu-gina-ludzie, dystans: ,49, wysłany: ,2021/02/05 13:25:32, dojdzie: ,2021/02/06,15:20:50, atak z tej wsi: ,3,3
+		Taran (1), z ,402|618 ,spoko of poland, dystans: ,84, wysłany: ,2021/02/04 11:32:46, dojdzie: ,2021/02/06,07:47:44, atak z tej wsi: ,1,3
+		Taran (1), z ,436|623 ,spoko of poland, dystans: ,71, wysłany: ,2021/02/04 22:17:21, dojdzie: ,2021/02/06,11:40:37, atak z tej wsi: ,3,5
+
+	394|539
+		Taran (1), z ,458|597 ,Hasarin, dystans: ,86, wysłany: ,2021/02/04 11:29:29, dojdzie: ,2021/02/06,08:28:35, atak z tej wsi: ,4,6
+		Taran (1), z ,478|564 ,spoko of poland, dystans: ,87, wysłany: ,2021/02/04 10:13:05, dojdzie: ,2021/02/06,07:51:53, atak z tej wsi: ,1,4
+		Taran (1), z ,481|541 ,jarkeS, dystans: ,87, wysłany: ,2021/02/04 11:34:43, dojdzie: ,2021/02/06,08:54:12, atak z tej wsi: ,1,1
+
+	394|542
+		Taran (1), z ,394|628 ,Hasarin, dystans: ,86, wysłany: ,2021/02/04 15:35:28, dojdzie: ,2021/02/06,12:22:58, atak z tej wsi: ,4,4
+		Taran (1), z ,465|553 ,SweetPain, dystans: ,71, wysłany: ,2021/02/04 18:52:20, dojdzie: ,2021/02/06,08:17:34, atak z tej wsi: ,1,4
+		Taran (1), z ,345|522 ,Qwasedzx, dystans: ,52, wysłany: ,2021/02/05 06:50:56, dojdzie: ,2021/02/06,10:24:50, atak z tej wsi: ,2,2
+
+	395|546
+		Taran (1), z ,454|578 ,SweetPain, dystans: ,67, wysłany: ,2021/02/05 04:46:40, dojdzie: ,2021/02/06,15:44:08, atak z tej wsi: ,3,3
+		Taran (1), z ,486|551 ,Zelke, dystans: ,91, wysłany: ,2021/02/04 08:49:01, dojdzie: ,2021/02/06,08:17:04, atak z tej wsi: ,2,5
+		Taran (1), z ,464|598 ,Lord Zygfryd, dystans: ,86, wysłany: ,2021/02/04 12:45:56, dojdzie: ,2021/02/06,09:45:56, atak z tej wsi: ,3,6
+		Taran (1), z ,487|563 ,Waheed, dystans: ,93, wysłany: ,2021/02/04 11:41:17, dojdzie: ,2021/02/06,12:24:57, atak z tej wsi: ,4,5
+		Taran (1), z ,466|585 ,zarowa wielki, dystans: ,81, wysłany: ,2021/02/04 15:36:28, dojdzie: ,2021/02/06,09:47:55, atak z tej wsi: ,3,4
+
+	457|556
+		Taran (2), z ,414|645 ,soyer789, dystans: ,98, wysłany: ,2021/02/04 12:22:57, dojdzie: ,2021/02/06,15:51:48, atak z tej wsi: ,4,11
+		Taran (1), z ,425|634 ,Qhorrin, dystans: ,84, wysłany: ,2021/02/04 15:01:20, dojdzie: ,2021/02/06,10:55:59, atak z tej wsi: ,1,2
+		Taran (1), z ,407|554 ,Jogurciq, dystans: ,50, wysłany: ,2021/02/05 10:42:16, dojdzie: ,2021/02/06,12:46:01, atak z tej wsi: ,4,10
+
+	459|557
+		Taran (2), z ,414|645 ,soyer789, dystans: ,98, wysłany: ,2021/02/04 12:23:03, dojdzie: ,2021/02/06,15:51:45, atak z tej wsi: ,3,11
+		Taran, z ,478|590 ,ChudyMaximum, dystans: ,38, wysłany: ,2021/02/05 12:02:59, dojdzie: ,2021/02/06,07:52:57, atak z tej wsi: ,1,13
+		Taran (1), z ,404|545 ,carl997, dystans: ,56, wysłany: ,2021/02/05 03:33:37, dojdzie: ,2021/02/06,08:52:48, atak z tej wsi: ,1,1
+		Taran (1), z ,419|551 ,Jogurciq, dystans: ,40, wysłany: ,2021/02/05 10:40:59, dojdzie: ,2021/02/06,07:44:58, atak z tej wsi: ,2,13
+
+	460|562
+		Taran (2), z ,462|629 ,mapik777, dystans: ,67, wysłany: ,2021/02/05 00:34:12, dojdzie: ,2021/02/06,11:28:53, atak z tej wsi: ,5,10
+		Taran (1), z ,477|601 ,mapik777, dystans: ,42, wysłany: ,2021/02/05 11:15:38, dojdzie: ,2021/02/06,09:25:08, atak z tej wsi: ,4,10
+		Taran (2), z ,486|607 ,ChudyMaximum, dystans: ,51, wysłany: ,2021/02/05 11:02:44, dojdzie: ,2021/02/06,14:06:50, atak z tej wsi: ,2,3
+		Taran (6), z ,467|600 ,ChudyMaximum, dystans: ,38, wysłany: ,2021/02/05 11:33:29, dojdzie: ,2021/02/06,07:40:58, atak z tej wsi: ,1,13
+		Taran (4), z ,485|603 ,ChudyMaximum, dystans: ,48, wysłany: ,2021/02/05 11:54:30, dojdzie: ,2021/02/06,12:55:09, atak z tej wsi: ,1,3
+
+	458|554
+		Taran (1), z ,480|598 ,mapik777, dystans: ,49, wysłany: ,2021/02/05 11:13:56, dojdzie: ,2021/02/06,12:51:14, atak z tej wsi: ,7,13
+		Taran (6), z ,467|600 ,ChudyMaximum, dystans: ,46, wysłany: ,2021/02/05 11:33:02, dojdzie: ,2021/02/06,11:57:47, atak z tej wsi: ,6,13
+
+	458|556
+		Taran (6), z ,467|600 ,ChudyMaximum, dystans: ,44, wysłany: ,2021/02/05 11:34:51, dojdzie: ,2021/02/06,10:58:19, atak z tej wsi: ,2,13
+		Taran (2), z ,408|548 ,Jogurciq, dystans: ,50, wysłany: ,2021/02/05 10:53:32, dojdzie: ,2021/02/06,13:15:55, atak z tej wsi: ,9,14
+
+	457|554
+		Taran, z ,478|590 ,ChudyMaximum, dystans: ,41, wysłany: ,2021/02/05 12:03:30, dojdzie: ,2021/02/06,09:45:55, atak z tej wsi: ,2,13
+
+	393|549
+		Taran (1), z ,451|571 ,Qhorrin, dystans: ,62, wysłany: ,2021/02/05 00:14:49, dojdzie: ,2021/02/06,08:33:20, atak z tej wsi: ,1,3
+Alu.
+
+	439|522
+		Taran, z ,486|619 ,OrelQ, dystans: ,107, wysłany: ,2021/02/04 00:34:02, dojdzie: ,2021/02/06,08:42:22, atak z tej wsi: ,1,3
+		Taran, z ,415|599 ,soyer789, dystans: ,80, wysłany: ,2021/02/04 21:51:16, dojdzie: ,2021/02/06,15:51:41, atak z tej wsi: ,3,3
+		Taran, z ,345|524 ,Qwasedzx, dystans: ,94, wysłany: ,2021/02/04 10:06:32, dojdzie: ,2021/02/06,11:04:42, atak z tej wsi: ,1,2
+		Taran, z ,428|566 ,Amazingovsky., dystans: ,45, wysłany: ,2021/02/05 11:56:03, dojdzie: ,2021/02/06,11:33:22, atak z tej wsi: ,1,1
+
+	418|537
+		Taran, z ,384|600 ,OrelQ, dystans: ,71, wysłany: ,2021/02/04 22:58:39, dojdzie: ,2021/02/06,12:15:49, atak z tej wsi: ,1,6
+		Taran, z ,388|604 ,OrelQ, dystans: ,73, wysłany: ,2021/02/04 22:59:21, dojdzie: ,2021/02/06,13:13:25, atak z tej wsi: ,2,3
+		Taran, z ,392|599 ,OrelQ, dystans: ,67, wysłany: ,2021/02/04 22:59:38, dojdzie: ,2021/02/06,10:00:36, atak z tej wsi: ,1,3
+		Taran, z ,387|604 ,OrelQ, dystans: ,73, wysłany: ,2021/02/04 22:59:50, dojdzie: ,2021/02/06,13:26:50, atak z tej wsi: ,2,2
+		Taran, z ,391|600 ,OrelQ, dystans: ,68, wysłany: ,2021/02/04 23:00:04, dojdzie: ,2021/02/06,10:42:00, atak z tej wsi: ,1,3
+		Taran, z ,473|617 ,endyydne, dystans: ,97, wysłany: ,2021/02/04 06:24:59, dojdzie: ,2021/02/06,08:58:49, atak z tej wsi: ,1,5
+		Taran, z ,386|616 ,Hasarin, dystans: ,85, wysłany: ,2021/02/04 16:19:31, dojdzie: ,2021/02/06,12:43:07, atak z tej wsi: ,2,3
+		Taran, z ,358|590 ,Hasarin, dystans: ,80, wysłany: ,2021/02/04 16:40:01, dojdzie: ,2021/02/06,10:21:46, atak z tej wsi: ,2,4
+		Taran, z ,446|605 ,zarowa wielki, dystans: ,73, wysłany: ,2021/02/04 18:45:26, dojdzie: ,2021/02/06,09:03:31, atak z tej wsi: ,3,3
+
+	418|538
+		Taran, z ,389|601 ,OrelQ, dystans: ,69, wysłany: ,2021/02/04 23:00:39, dojdzie: ,2021/02/06,11:07:58, atak z tej wsi: ,3,4
+		Taran, z ,390|598 ,OrelQ, dystans: ,66, wysłany: ,2021/02/04 23:00:55, dojdzie: ,2021/02/06,09:30:02, atak z tej wsi: ,2,4
+		Taran, z ,389|598 ,OrelQ, dystans: ,66, wysłany: ,2021/02/04 23:01:22, dojdzie: ,2021/02/06,09:43:53, atak z tej wsi: ,2,3
+		Taran, z ,393|607 ,OrelQ, dystans: ,73, wysłany: ,2021/02/04 23:01:33, dojdzie: ,2021/02/06,13:14:58, atak z tej wsi: ,3,4
+		Taran, z ,474|603 ,pasztetinio, dystans: ,85, wysłany: ,2021/02/04 17:05:52, dojdzie: ,2021/02/06,13:47:00, atak z tej wsi: ,4,6
+		Taran, z ,446|605 ,zarowa wielki, dystans: ,72, wysłany: ,2021/02/04 18:45:18, dojdzie: ,2021/02/06,08:34:32, atak z tej wsi: ,2,3
+
+	449|526
+		Taran, z ,425|632 ,luuko2201, dystans: ,108, wysłany: ,2021/02/04 00:44:03, dojdzie: ,2021/02/06,09:20:24, atak z tej wsi: ,1,5
+		Taran, z ,426|568 ,FetaAkaMeta, dystans: ,47, wysłany: ,2021/02/05 09:17:35, dojdzie: ,2021/02/06,10:14:00, atak z tej wsi: ,2,3
+		Taran, z ,483|616 ,endyydne, dystans: ,96, wysłany: ,2021/02/04 06:24:24, dojdzie: ,2021/02/06,08:30:54, atak z tej wsi: ,2,11
+		Taran, z ,472|604 ,spoko of poland, dystans: ,81, wysłany: ,2021/02/04 15:11:40, dojdzie: ,2021/02/06,09:32:56, atak z tej wsi: ,5,10
+		Taran, z ,458|586 ,spoko of poland, dystans: ,60, wysłany: ,2021/02/05 07:10:09, dojdzie: ,2021/02/06,14:46:08, atak z tej wsi: ,6,6
+		Taran, z ,482|599 ,zarowa wielki, dystans: ,80, wysłany: ,2021/02/04 15:15:37, dojdzie: ,2021/02/06,08:59:08, atak z tej wsi: ,1,5
+
+	442|518
+		Taran, z ,425|632 ,luuko2201, dystans: ,115, wysłany: ,2021/02/04 00:44:09, dojdzie: ,2021/02/06,12:46:03, atak z tej wsi: ,3,5
+		Taran, z ,435|575 ,FetaAkaMeta, dystans: ,57, wysłany: ,2021/02/05 09:05:58, dojdzie: ,2021/02/06,15:00:36, atak z tej wsi: ,3,3
+		Taran, z ,405|603 ,Hasarin, dystans: ,92, wysłany: ,2021/02/04 10:51:27, dojdzie: ,2021/02/06,11:08:27, atak z tej wsi: ,3,3
+		Taran, z ,445|585 ,Hasarin, dystans: ,67, wysłany: ,2021/02/04 21:08:43, dojdzie: ,2021/02/06,08:04:34, atak z tej wsi: ,1,2
+		Taran, z ,472|610 ,spoko of poland, dystans: ,96, wysłany: ,2021/02/04 08:56:09, dojdzie: ,2021/02/06,11:20:09, atak z tej wsi: ,5,6
+		Taran, z ,465|598 ,Lord Zygfryd, dystans: ,83, wysłany: ,2021/02/04 12:51:14, dojdzie: ,2021/02/06,08:12:30, atak z tej wsi: ,1,2
+		Taran, z ,480|590 ,Qhorrin, dystans: ,81, wysłany: ,2021/02/04 18:14:33, dojdzie: ,2021/02/06,12:38:41, atak z tej wsi: ,2,6
+
+	410|555
+		Taran, z ,440|634 ,luuko2201, dystans: ,84, wysłany: ,2021/02/04 14:15:35, dojdzie: ,2021/02/06,10:16:21, atak z tej wsi: ,1,4
+		Taran, z ,339|543 ,criminals, dystans: ,72, wysłany: ,2021/02/04 19:04:12, dojdzie: ,2021/02/06,08:34:25, atak z tej wsi: ,1,1
+
+	459|513
+		Taran, z ,429|587 ,luuko2201, dystans: ,79, wysłany: ,2021/02/04 14:17:30, dojdzie: ,2021/02/06,07:52:49, atak z tej wsi: ,1,1
+		Taran, z ,426|610 ,FetaAkaMeta, dystans: ,102, wysłany: ,2021/02/04 02:31:50, dojdzie: ,2021/02/06,07:53:42, atak z tej wsi: ,1,3
+		Taran, z ,383|588 ,FetaAkaMeta, dystans: ,106, wysłany: ,2021/02/04 02:33:32, dojdzie: ,2021/02/06,10:10:16, atak z tej wsi: ,4,4
+		Taran, z ,383|587 ,FetaAkaMeta, dystans: ,106, wysłany: ,2021/02/04 02:34:15, dojdzie: ,2021/02/06,09:49:06, atak z tej wsi: ,1,2
+		Taran, z ,435|565 ,FetaAkaMeta, dystans: ,57, wysłany: ,2021/02/05 08:58:40, dojdzie: ,2021/02/06,14:48:23, atak z tej wsi: ,1,1
+		Taran, z ,437|596 ,Hasarin, dystans: ,85, wysłany: ,2021/02/04 11:31:10, dojdzie: ,2021/02/06,08:14:29, atak z tej wsi: ,1,1
+		Taran, z ,433|595 ,Hasarin, dystans: ,86, wysłany: ,2021/02/04 11:32:03, dojdzie: ,2021/02/06,08:20:17, atak z tej wsi: ,1,1
+		Taran, z ,441|585 ,Hasarin, dystans: ,74, wysłany: ,2021/02/04 21:01:12, dojdzie: ,2021/02/06,11:40:26, atak z tej wsi: ,3,3
+		Taran, z ,432|574 ,Hasarin, dystans: ,66, wysłany: ,2021/02/04 21:08:04, dojdzie: ,2021/02/06,07:52:42, atak z tej wsi: ,1,1
+		Taran, z ,428|573 ,SweetPain, dystans: ,67, wysłany: ,2021/02/04 20:57:45, dojdzie: ,2021/02/06,08:08:13, atak z tej wsi: ,1,3
+		Taran, z ,483|598 ,spoko of poland, dystans: ,88, wysłany: ,2021/02/04 11:37:46, dojdzie: ,2021/02/06,09:37:52, atak z tej wsi: ,3,4
+		Taran, z ,453|579 ,spoko of poland, dystans: ,66, wysłany: ,2021/02/04 22:18:02, dojdzie: ,2021/02/06,08:49:03, atak z tej wsi: ,2,5
+		Taran, z ,414|552 ,Qwasedzx, dystans: ,59, wysłany: ,2021/02/05 06:49:16, dojdzie: ,2021/02/06,13:50:09, atak z tej wsi: ,1,1
+		Taran, z ,452|555 ,ChudyMaximum, dystans: ,42, wysłany: ,2021/02/05 11:13:02, dojdzie: ,2021/02/06,09:23:38, atak z tej wsi: ,7,15
+		Taran, z ,443|594 ,zarowa wielki, dystans: ,82, wysłany: ,2021/02/04 15:28:09, dojdzie: ,2021/02/06,10:28:19, atak z tej wsi: ,3,3
+		Taran, z ,385|554 ,piterb, dystans: ,84, wysłany: ,2021/02/04 15:23:01, dojdzie: ,2021/02/06,11:26:44, atak z tej wsi: ,1,1
+		Taran, z ,403|539 ,carl997, dystans: ,61, wysłany: ,2021/02/05 03:28:22, dojdzie: ,2021/02/06,11:37:47, atak z tej wsi: ,3,4
+
+	439|518
+		Taran, z ,464|601 ,luuko2201, dystans: ,86, wysłany: ,2021/02/04 14:20:15, dojdzie: ,2021/02/06,11:29:06, atak z tej wsi: ,1,1
+		Taran, z ,443|587 ,Hasarin, dystans: ,69, wysłany: ,2021/02/04 21:00:14, dojdzie: ,2021/02/06,09:00:07, atak z tej wsi: ,1,6
+		Taran, z ,468|596 ,Lord Zygfryd, dystans: ,83, wysłany: ,2021/02/04 12:44:43, dojdzie: ,2021/02/06,08:05:14, atak z tej wsi: ,4,6
+		Taran, z ,426|616 ,słodkimisiek, dystans: ,98, wysłany: ,2021/02/04 11:27:13, dojdzie: ,2021/02/06,14:56:33, atak z tej wsi: ,1,1
+		Taran, z ,405|549 ,Jogurciq, dystans: ,46, wysłany: ,2021/02/05 10:34:25, dojdzie: ,2021/02/06,10:32:16, atak z tej wsi: ,2,3
+
+	456|514
+		Taran, z ,430|616 ,FetaAkaMeta, dystans: ,105, wysłany: ,2021/02/04 02:32:07, dojdzie: ,2021/02/06,09:21:33, atak z tej wsi: ,3,3
+		Taran, z ,383|588 ,FetaAkaMeta, dystans: ,103, wysłany: ,2021/02/04 02:33:24, dojdzie: ,2021/02/06,08:41:45, atak z tej wsi: ,3,4
+		Taran, z ,438|570 ,FetaAkaMeta, dystans: ,58, wysłany: ,2021/02/05 08:59:50, dojdzie: ,2021/02/06,15:38:00, atak z tej wsi: ,3,3
+		Taran, z ,411|593 ,Hasarin, dystans: ,90, wysłany: ,2021/02/04 11:33:09, dojdzie: ,2021/02/06,10:54:19, atak z tej wsi: ,3,6
+		Taran, z ,436|578 ,Hasarin, dystans: ,67, wysłany: ,2021/02/04 21:07:31, dojdzie: ,2021/02/06,08:02:54, atak z tej wsi: ,2,2
+		Taran, z ,419|550 ,Qwasedzx, dystans: ,51, wysłany: ,2021/02/05 06:48:45, dojdzie: ,2021/02/06,09:41:59, atak z tej wsi: ,1,1
+		Taran, z ,483|581 ,Qhorrin, dystans: ,72, wysłany: ,2021/02/04 18:13:47, dojdzie: ,2021/02/06,07:51:09, atak z tej wsi: ,1,10
+		Taran, z ,438|591 ,zarowa wielki, dystans: ,79, wysłany: ,2021/02/04 16:00:06, dojdzie: ,2021/02/06,09:11:14, atak z tej wsi: ,3,5
+		Taran, z ,409|541 ,carl997, dystans: ,54, wysłany: ,2021/02/05 03:27:27, dojdzie: ,2021/02/06,07:41:18, atak z tej wsi: ,2,6
+		Taran, z ,428|555 ,Jogurciq, dystans: ,49, wysłany: ,2021/02/05 10:34:39, dojdzie: ,2021/02/06,12:26:10, atak z tej wsi: ,9,10
+
+	451|513
+		Taran, z ,430|616 ,FetaAkaMeta, dystans: ,105, wysłany: ,2021/02/04 02:32:13, dojdzie: ,2021/02/06,09:17:12, atak z tej wsi: ,2,3
+		Taran, z ,482|603 ,endyydne, dystans: ,95, wysłany: ,2021/02/04 06:21:29, dojdzie: ,2021/02/06,07:56:09, atak z tej wsi: ,2,12
+		Taran, z ,407|606 ,Hasarin, dystans: ,102, wysłany: ,2021/02/04 07:42:29, dojdzie: ,2021/02/06,13:17:35, atak z tej wsi: ,5,5
+		Taran, z ,416|590 ,Hasarin, dystans: ,84, wysłany: ,2021/02/04 11:32:40, dojdzie: ,2021/02/06,07:35:50, atak z tej wsi: ,1,4
+		Taran, z ,482|579 ,Qhorrin, dystans: ,72, wysłany: ,2021/02/05 00:11:03, dojdzie: ,2021/02/06,14:09:44, atak z tej wsi: ,1,3
+		Taran, z ,489|586 ,zarowa wielki, dystans: ,82, wysłany: ,2021/02/04 15:48:03, dojdzie: ,2021/02/06,10:39:52, atak z tej wsi: ,4,6
+		Taran, z ,444|589 ,zarowa wielki, dystans: ,76, wysłany: ,2021/02/04 15:53:01, dojdzie: ,2021/02/06,07:38:04, atak z tej wsi: ,1,2
+		Taran, z ,438|591 ,zarowa wielki, dystans: ,79, wysłany: ,2021/02/04 15:59:53, dojdzie: ,2021/02/06,09:11:00, atak z tej wsi: ,2,5
+
+	448|517
+		Taran, z ,435|561 ,FetaAkaMeta, dystans: ,45, wysłany: ,2021/02/05 08:58:52, dojdzie: ,2021/02/06,08:52:37, atak z tej wsi: ,3,5
+		Taran, z ,410|594 ,Hasarin, dystans: ,85, wysłany: ,2021/02/04 15:07:35, dojdzie: ,2021/02/06,11:50:54, atak z tej wsi: ,2,5
+		Taran, z ,353|516 ,Qwasedzx, dystans: ,95, wysłany: ,2021/02/04 10:06:38, dojdzie: ,2021/02/06,11:35:33, atak z tej wsi: ,1,2
+		Taran, z ,408|608 ,Xardin94, dystans: ,99, wysłany: ,2021/02/04 10:23:29, dojdzie: ,2021/02/06,14:09:50, atak z tej wsi: ,1,1
+		Taran, z ,453|595 ,zarowa wielki, dystans: ,78, wysłany: ,2021/02/04 15:19:55, dojdzie: ,2021/02/06,08:02:26, atak z tej wsi: ,1,5
+		Taran, z ,428|555 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:35:46, dojdzie: ,2021/02/06,08:57:42, atak z tej wsi: ,3,10
+
+	434|520
+		Taran, z ,442|571 ,FetaAkaMeta, dystans: ,51, wysłany: ,2021/02/05 08:59:44, dojdzie: ,2021/02/06,11:52:59, atak z tej wsi: ,1,1
+		Taran, z ,436|568 ,FetaAkaMeta, dystans: ,48, wysłany: ,2021/02/05 09:01:37, dojdzie: ,2021/02/06,10:02:55, atak z tej wsi: ,3,4
+		Taran, z ,441|588 ,Hasarin, dystans: ,68, wysłany: ,2021/02/04 21:24:47, dojdzie: ,2021/02/06,09:01:00, atak z tej wsi: ,2,4
+		Taran, z ,421|598 ,soyer789, dystans: ,79, wysłany: ,2021/02/04 19:29:19, dojdzie: ,2021/02/06,12:40:27, atak z tej wsi: ,5,6
+
+	447|517
+		Taran, z ,436|562 ,FetaAkaMeta, dystans: ,46, wysłany: ,2021/02/05 09:05:23, dojdzie: ,2021/02/06,09:13:02, atak z tej wsi: ,2,3
+		Taran, z ,426|568 ,FetaAkaMeta, dystans: ,55, wysłany: ,2021/02/05 09:17:24, dojdzie: ,2021/02/06,14:00:59, atak z tej wsi: ,3,3
+		Taran, z ,405|586 ,Hasarin, dystans: ,80, wysłany: ,2021/02/04 15:06:50, dojdzie: ,2021/02/06,09:11:08, atak z tej wsi: ,2,5
+		Taran, z ,453|573 ,SweetPain, dystans: ,56, wysłany: ,2021/02/05 04:15:50, dojdzie: ,2021/02/06,09:35:51, atak z tej wsi: ,3,6
+		Taran, z ,464|598 ,Lord Zygfryd, dystans: ,82, wysłany: ,2021/02/04 12:45:09, dojdzie: ,2021/02/06,07:51:33, atak z tej wsi: ,1,6
+		Taran, z ,453|609 ,Waheed, dystans: ,92, wysłany: ,2021/02/04 13:24:05, dojdzie: ,2021/02/06,13:25:12, atak z tej wsi: ,3,4
+		Taran, z ,373|561 ,Qwasedzx, dystans: ,86, wysłany: ,2021/02/04 16:52:32, dojdzie: ,2021/02/06,13:42:56, atak z tej wsi: ,3,3
+		Taran, z ,464|581 ,uzimati, dystans: ,66, wysłany: ,2021/02/05 00:18:22, dojdzie: ,2021/02/06,10:47:44, atak z tej wsi: ,2,4
+
+	436|521
+		Taran, z ,431|572 ,FetaAkaMeta, dystans: ,51, wysłany: ,2021/02/05 09:16:29, dojdzie: ,2021/02/06,11:57:53, atak z tej wsi: ,3,3
+		Taran, z ,480|590 ,Qhorrin, dystans: ,81, wysłany: ,2021/02/04 18:14:25, dojdzie: ,2021/02/06,12:51:46, atak z tej wsi: ,3,6
+		Taran, z ,471|591 ,uzimati, dystans: ,78, wysłany: ,2021/02/04 20:11:35, dojdzie: ,2021/02/06,12:57:17, atak z tej wsi: ,2,4
+
+	439|521
+		Taran, z ,432|570 ,FetaAkaMeta, dystans: ,49, wysłany: ,2021/02/05 09:21:33, dojdzie: ,2021/02/06,11:08:21, atak z tej wsi: ,3,4
+		Taran, z ,408|594 ,Hasarin, dystans: ,79, wysłany: ,2021/02/04 15:11:10, dojdzie: ,2021/02/06,08:29:35, atak z tej wsi: ,2,5
+		Taran, z ,472|610 ,spoko of poland, dystans: ,94, wysłany: ,2021/02/04 08:56:15, dojdzie: ,2021/02/06,10:22:32, atak z tej wsi: ,4,6
+		Taran, z ,428|603 ,soyer789, dystans: ,82, wysłany: ,2021/02/04 19:31:10, dojdzie: ,2021/02/06,14:36:37, atak z tej wsi: ,4,6
+		Taran, z ,482|596 ,Waheed, dystans: ,86, wysłany: ,2021/02/04 16:26:39, dojdzie: ,2021/02/06,13:28:17, atak z tej wsi: ,2,3
+		Taran, z ,439|607 ,słodkimisiek, dystans: ,86, wysłany: ,2021/02/04 11:28:35, dojdzie: ,2021/02/06,08:16:05, atak z tej wsi: ,1,1
+		Taran, z ,434|574 ,słodkimisiek, dystans: ,53, wysłany: ,2021/02/05 10:55:33, dojdzie: ,2021/02/06,14:39:09, atak z tej wsi: ,4,4
+		Taran, z ,426|562 ,Amazingovsky., dystans: ,43, wysłany: ,2021/02/05 11:59:30, dojdzie: ,2021/02/06,10:23:37, atak z tej wsi: ,2,2
+
+	452|515
+		Taran, z ,435|563 ,FetaAkaMeta, dystans: ,50, wysłany: ,2021/02/05 09:22:39, dojdzie: ,2021/02/06,11:53:57, atak z tej wsi: ,2,2
+		Taran, z ,410|594 ,Hasarin, dystans: ,89, wysłany: ,2021/02/04 15:07:47, dojdzie: ,2021/02/06,13:43:44, atak z tej wsi: ,4,5
+		Taran, z ,422|556 ,Qwasedzx, dystans: ,50, wysłany: ,2021/02/05 06:49:23, dojdzie: ,2021/02/06,09:16:59, atak z tej wsi: ,1,1
+		Taran, z ,452|555 ,ChudyMaximum, dystans: ,40, wysłany: ,2021/02/05 11:09:13, dojdzie: ,2021/02/06,07:59:13, atak z tej wsi: ,1,15
+		Taran, z ,428|555 ,Jogurciq, dystans: ,46, wysłany: ,2021/02/05 10:34:56, dojdzie: ,2021/02/06,10:52:40, atak z tej wsi: ,6,10
+
+	443|516
+		Taran, z ,485|602 ,endyydne, dystans: ,95, wysłany: ,2021/02/04 06:21:49, dojdzie: ,2021/02/06,08:12:41, atak z tej wsi: ,1,10
+		Taran, z ,441|601 ,Hasarin, dystans: ,85, wysłany: ,2021/02/04 11:30:35, dojdzie: ,2021/02/06,07:47:34, atak z tej wsi: ,1,2
+		Taran, z ,472|610 ,spoko of poland, dystans: ,98, wysłany: ,2021/02/04 08:56:36, dojdzie: ,2021/02/06,12:10:43, atak z tej wsi: ,6,6
+		Taran, z ,452|555 ,ChudyMaximum, dystans: ,40, wysłany: ,2021/02/05 11:13:24, dojdzie: ,2021/02/06,08:04:11, atak z tej wsi: ,3,15
+		Taran, z ,408|537 ,Jogurciq, dystans: ,40, wysłany: ,2021/02/05 10:56:48, dojdzie: ,2021/02/06,08:12:19, atak z tej wsi: ,1,17
+
+	451|514
+		Taran, z ,485|602 ,endyydne, dystans: ,94, wysłany: ,2021/02/04 09:46:13, dojdzie: ,2021/02/06,10:54:20, atak z tej wsi: ,6,10
+		Taran, z ,409|607 ,Hasarin, dystans: ,102, wysłany: ,2021/02/04 07:42:54, dojdzie: ,2021/02/06,12:51:47, atak z tej wsi: ,2,6
+		Taran, z ,410|597 ,Hasarin, dystans: ,92, wysłany: ,2021/02/04 15:10:45, dojdzie: ,2021/02/06,15:23:42, atak z tej wsi: ,3,3
+		Taran, z ,418|551 ,Qwasedzx, dystans: ,49, wysłany: ,2021/02/05 06:48:26, dojdzie: ,2021/02/06,08:37:45, atak z tej wsi: ,1,1
+		Taran, z ,473|596 ,21mati21, dystans: ,84, wysłany: ,2021/02/04 18:24:36, dojdzie: ,2021/02/06,14:37:43, atak z tej wsi: ,2,2
+		Taran, z ,489|586 ,zarowa wielki, dystans: ,81, wysłany: ,2021/02/04 15:49:00, dojdzie: ,2021/02/06,10:13:08, atak z tej wsi: ,1,6
+		Taran, z ,489|586 ,zarowa wielki, dystans: ,81, wysłany: ,2021/02/04 15:50:33, dojdzie: ,2021/02/06,10:14:42, atak z tej wsi: ,2,6
+		Taran, z ,438|591 ,zarowa wielki, dystans: ,78, wysłany: ,2021/02/04 15:59:47, dojdzie: ,2021/02/06,08:40:05, atak z tej wsi: ,1,5
+		Taran, z ,403|539 ,carl997, dystans: ,54, wysłany: ,2021/02/05 03:28:36, dojdzie: ,2021/02/06,07:39:52, atak z tej wsi: ,1,4
+
+	437|524
+		Taran, z ,485|602 ,endyydne, dystans: ,91, wysłany: ,2021/02/04 10:17:10, dojdzie: ,2021/02/06,09:59:14, atak z tej wsi: ,3,10
+		Taran, z ,407|606 ,Hasarin, dystans: ,87, wysłany: ,2021/02/04 15:12:22, dojdzie: ,2021/02/06,12:40:58, atak z tej wsi: ,4,5
+		Taran, z ,441|592 ,Hasarin, dystans: ,68, wysłany: ,2021/02/04 21:25:52, dojdzie: ,2021/02/06,08:54:33, atak z tej wsi: ,1,3
+		Taran, z ,461|588 ,spoko of poland, dystans: ,68, wysłany: ,2021/02/04 21:55:17, dojdzie: ,2021/02/06,09:31:17, atak z tej wsi: ,8,15
+		Taran, z ,367|562 ,criminals, dystans: ,79, wysłany: ,2021/02/04 19:05:08, dojdzie: ,2021/02/06,12:34:10, atak z tej wsi: ,1,1
+		Taran, z ,385|576 ,criminals, dystans: ,73, wysłany: ,2021/02/04 19:06:50, dojdzie: ,2021/02/06,09:24:56, atak z tej wsi: ,1,1
+
+	416|546
+		Taran, z ,485|592 ,endyydne, dystans: ,82, wysłany: ,2021/02/04 20:32:02, dojdzie: ,2021/02/06,15:43:32, atak z tej wsi: ,2,3
+		Taran, z ,412|637 ,soyer789, dystans: ,91, wysłany: ,2021/02/04 11:03:15, dojdzie: ,2021/02/06,10:29:45, atak z tej wsi: ,1,1
+
+	414|553
+		Taran, z ,461|545 ,endyydne, dystans: ,47, wysłany: ,2021/02/05 07:17:52, dojdzie: ,2021/02/06,08:07:45, atak z tej wsi: ,1,3
+
+	414|557
+		Taran, z ,467|541 ,endyydne, dystans: ,55, wysłany: ,2021/02/05 09:38:42, dojdzie: ,2021/02/06,14:28:47, atak z tej wsi: ,2,2
+		Taran, z ,466|575 ,endyydne, dystans: ,55, wysłany: ,2021/02/05 09:41:18, dojdzie: ,2021/02/06,14:20:54, atak z tej wsi: ,1,1
+		Taran, z ,400|632 ,Hasarin, dystans: ,76, wysłany: ,2021/02/04 21:33:50, dojdzie: ,2021/02/06,13:18:04, atak z tej wsi: ,3,4
+		Taran, z ,488|570 ,Waheed, dystans: ,75, wysłany: ,2021/02/04 22:41:37, dojdzie: ,2021/02/06,13:49:32, atak z tej wsi: ,3,3
+		Taran, z ,455|616 ,mapik777, dystans: ,71, wysłany: ,2021/02/05 00:47:56, dojdzie: ,2021/02/06,14:13:09, atak z tej wsi: ,4,4
+
+	438|522
+		Taran, z ,474|603 ,pasztetinio, dystans: ,88, wysłany: ,2021/02/04 17:05:46, dojdzie: ,2021/02/06,15:15:45, atak z tej wsi: ,5,6
+		Taran, z ,441|591 ,Hasarin, dystans: ,69, wysłany: ,2021/02/04 21:25:32, dojdzie: ,2021/02/06,09:23:49, atak z tej wsi: ,2,5
+
+	411|552
+		Taran, z ,474|603 ,pasztetinio, dystans: ,81, wysłany: ,2021/02/04 17:06:08, dojdzie: ,2021/02/06,11:19:07, atak z tej wsi: ,2,6
+		Taran, z ,437|630 ,Hasarin, dystans: ,82, wysłany: ,2021/02/04 15:14:46, dojdzie: ,2021/02/06,10:04:07, atak z tej wsi: ,2,3
+
+	445|519
+		Taran, z ,478|601 ,tu-gina-ludzie, dystans: ,88, wysłany: ,2021/02/04 09:36:45, dojdzie: ,2021/02/06,07:38:58, atak z tej wsi: ,1,3
+		Taran, z ,406|584 ,tu-gina-ludzie, dystans: ,75, wysłany: ,2021/02/04 21:29:59, dojdzie: ,2021/02/06,12:58:49, atak z tej wsi: ,2,5
+		Taran, z ,411|593 ,Hasarin, dystans: ,81, wysłany: ,2021/02/04 21:31:11, dojdzie: ,2021/02/06,15:56:06, atak z tej wsi: ,6,6
+		Taran, z ,483|598 ,spoko of poland, dystans: ,87, wysłany: ,2021/02/04 11:37:26, dojdzie: ,2021/02/06,09:16:56, atak z tej wsi: ,1,4
+		Taran, z ,419|551 ,Jogurciq, dystans: ,41, wysłany: ,2021/02/05 10:41:19, dojdzie: ,2021/02/06,08:09:47, atak z tej wsi: ,3,13
+
+	443|519
+		Taran, z ,478|601 ,tu-gina-ludzie, dystans: ,89, wysłany: ,2021/02/04 09:36:58, dojdzie: ,2021/02/06,08:03:08, atak z tej wsi: ,2,3
+		Taran, z ,404|588 ,Hasarin, dystans: ,79, wysłany: ,2021/02/04 15:09:18, dojdzie: ,2021/02/06,08:26:08, atak z tej wsi: ,1,2
+
+	440|504
+		Taran, z ,477|590 ,tu-gina-ludzie, dystans: ,93, wysłany: ,2021/02/04 09:40:14, dojdzie: ,2021/02/06,10:25:54, atak z tej wsi: ,4,4
+		Taran, z ,469|581 ,zarowa wielki, dystans: ,82, wysłany: ,2021/02/04 15:51:24, dojdzie: ,2021/02/06,10:42:39, atak z tej wsi: ,1,3
+
+	448|518
+		Taran, z ,411|589 ,tu-gina-ludzie, dystans: ,80, wysłany: ,2021/02/04 22:09:46, dojdzie: ,2021/02/06,15:51:43, atak z tej wsi: ,4,4
+		Taran, z ,411|594 ,Hasarin, dystans: ,84, wysłany: ,2021/02/04 11:33:26, dojdzie: ,2021/02/06,07:34:56, atak z tej wsi: ,1,4
+		Taran, z ,407|554 ,Jogurciq, dystans: ,54, wysłany: ,2021/02/05 10:41:44, dojdzie: ,2021/02/06,15:06:48, atak z tej wsi: ,9,10
+
+	454|521
+		Taran, z ,408|604 ,Hasarin, dystans: ,94, wysłany: ,2021/02/04 07:41:53, dojdzie: ,2021/02/06,09:07:20, atak z tej wsi: ,2,6
+		Taran, z ,404|588 ,Hasarin, dystans: ,83, wysłany: ,2021/02/04 15:08:57, dojdzie: ,2021/02/06,10:41:28, atak z tej wsi: ,2,2
+		Taran, z ,410|592 ,Hasarin, dystans: ,83, wysłany: ,2021/02/04 15:15:32, dojdzie: ,2021/02/06,10:45:48, atak z tej wsi: ,3,4
+		Taran, z ,486|572 ,Waheed, dystans: ,60, wysłany: ,2021/02/05 01:08:15, dojdzie: ,2021/02/06,08:29:45, atak z tej wsi: ,1,2
+		Taran, z ,434|609 ,słodkimisiek, dystans: ,90, wysłany: ,2021/02/04 11:27:48, dojdzie: ,2021/02/06,10:27:55, atak z tej wsi: ,1,1
+		Taran, z ,427|561 ,Amazingovsky., dystans: ,48, wysłany: ,2021/02/05 11:55:57, dojdzie: ,2021/02/06,13:04:04, atak z tej wsi: ,1,1
+		Taran, z ,422|547 ,Amazingovsky., dystans: ,41, wysłany: ,2021/02/05 11:58:35, dojdzie: ,2021/02/06,09:27:03, atak z tej wsi: ,1,1
+
+	450|515
+		Taran, z ,408|602 ,Hasarin, dystans: ,96, wysłany: ,2021/02/04 07:50:38, dojdzie: ,2021/02/06,10:09:37, atak z tej wsi: ,1,3
+		Taran, z ,421|575 ,SweetPain, dystans: ,66, wysłany: ,2021/02/04 20:58:10, dojdzie: ,2021/02/06,07:40:41, atak z tej wsi: ,1,4
+		Taran, z ,422|594 ,soyer789, dystans: ,83, wysłany: ,2021/02/04 12:25:35, dojdzie: ,2021/02/06,08:04:49, atak z tej wsi: ,1,3
+		Taran, z ,468|596 ,Lord Zygfryd, dystans: ,82, wysłany: ,2021/02/04 12:44:01, dojdzie: ,2021/02/06,07:57:01, atak z tej wsi: ,2,6
+		Taran, z ,349|518 ,Qwasedzx, dystans: ,101, wysłany: ,2021/02/04 10:06:01, dojdzie: ,2021/02/06,14:43:40, atak z tej wsi: ,2,2
+		Taran, z ,426|556 ,Jogurciq, dystans: ,47, wysłany: ,2021/02/05 10:32:56, dojdzie: ,2021/02/06,11:17:34, atak z tej wsi: ,3,3
+		Taran, z ,428|551 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:51:50, dojdzie: ,2021/02/06,08:50:17, atak z tej wsi: ,3,12
+
+	438|524
+		Taran, z ,406|604 ,Hasarin, dystans: ,86, wysłany: ,2021/02/04 10:52:02, dojdzie: ,2021/02/06,07:44:37, atak z tej wsi: ,1,3
+		Taran, z ,428|615 ,mapik777, dystans: ,91, wysłany: ,2021/02/04 10:22:04, dojdzie: ,2021/02/06,10:02:56, atak z tej wsi: ,5,13
+		Taran, z ,472|599 ,21mati21, dystans: ,82, wysłany: ,2021/02/04 18:20:18, dojdzie: ,2021/02/06,13:13:38, atak z tej wsi: ,2,2
+		Taran, z ,475|599 ,21mati21, dystans: ,83, wysłany: ,2021/02/04 18:21:44, dojdzie: ,2021/02/06,13:55:10, atak z tej wsi: ,2,2
+
+	452|520
+		Taran, z ,411|596 ,Hasarin, dystans: ,86, wysłany: ,2021/02/04 15:08:05, dojdzie: ,2021/02/06,12:06:39, atak z tej wsi: ,4,6
+		Taran, z ,406|590 ,Hasarin, dystans: ,83, wysłany: ,2021/02/04 15:08:31, dojdzie: ,2021/02/06,10:46:04, atak z tej wsi: ,2,4
+		Taran, z ,449|593 ,mapik777, dystans: ,73, wysłany: ,2021/02/05 00:38:05, dojdzie: ,2021/02/06,14:41:15, atak z tej wsi: ,8,13
+		Taran, z ,430|584 ,Qhorrin, dystans: ,67, wysłany: ,2021/02/05 00:17:01, dojdzie: ,2021/02/06,11:31:53, atak z tej wsi: ,2,2
+		Taran, z ,391|576 ,piterb, dystans: ,82, wysłany: ,2021/02/04 15:24:04, dojdzie: ,2021/02/06,10:31:47, atak z tej wsi: ,1,1
+		Taran, z ,413|537 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:54:45, dojdzie: ,2021/02/06,09:04:15, atak z tej wsi: ,5,16
+		Taran, z ,413|537 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:55:42, dojdzie: ,2021/02/06,09:05:12, atak z tej wsi: ,6,16
+
+	412|554
+		Taran, z ,391|628 ,Hasarin, dystans: ,76, wysłany: ,2021/02/04 19:58:20, dojdzie: ,2021/02/06,12:02:08, atak z tej wsi: ,1,4
+		Taran, z ,400|632 ,Hasarin, dystans: ,78, wysłany: ,2021/02/04 21:34:54, dojdzie: ,2021/02/06,14:41:05, atak z tej wsi: ,4,4
+		Taran, z ,344|568 ,soyer789, dystans: ,69, wysłany: ,2021/02/04 20:45:03, dojdzie: ,2021/02/06,08:54:38, atak z tej wsi: ,1,3
+		Taran, z ,471|595 ,Qhorrin, dystans: ,71, wysłany: ,2021/02/05 00:08:47, dojdzie: ,2021/02/06,13:34:00, atak z tej wsi: ,2,4
+		Taran, z ,485|553 ,Qhorrin, dystans: ,73, wysłany: ,2021/02/05 00:13:53, dojdzie: ,2021/02/06,14:15:21, atak z tej wsi: ,3,4
+
+	411|555
+		Taran, z ,382|620 ,Hasarin, dystans: ,71, wysłany: ,2021/02/04 20:04:07, dojdzie: ,2021/02/06,09:08:21, atak z tej wsi: ,2,4
+		Taran, z ,481|584 ,Waheed, dystans: ,75, wysłany: ,2021/02/04 16:28:50, dojdzie: ,2021/02/06,07:56:38, atak z tej wsi: ,1,5
+		Taran, z ,452|555 ,ChudyMaximum, dystans: ,41, wysłany: ,2021/02/05 11:12:47, dojdzie: ,2021/02/06,08:34:02, atak z tej wsi: ,4,15
+		Taran, z ,427|626 ,Qhorrin, dystans: ,72, wysłany: ,2021/02/05 00:04:31, dojdzie: ,2021/02/06,13:58:54, atak z tej wsi: ,3,3
+
+	438|523
+		Taran, z ,411|594 ,Hasarin, dystans: ,75, wysłany: ,2021/02/04 21:31:57, dojdzie: ,2021/02/06,13:05:43, atak z tej wsi: ,3,4
+
+	441|518
+		Taran, z ,421|575 ,SweetPain, dystans: ,60, wysłany: ,2021/02/05 04:48:01, dojdzie: ,2021/02/06,12:15:44, atak z tej wsi: ,4,4
+		Taran, z ,440|606 ,słodkimisiek, dystans: ,88, wysłany: ,2021/02/04 11:28:43, dojdzie: ,2021/02/06,09:18:53, atak z tej wsi: ,1,1
+		Taran, z ,467|572 ,Sir Lukas II, dystans: ,59, wysłany: ,2021/02/05 01:21:32, dojdzie: ,2021/02/06,08:34:27, atak z tej wsi: ,1,2
+		Taran, z ,417|553 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:58:05, dojdzie: ,2021/02/06,09:04:16, atak z tej wsi: ,3,14
+
+	417|545
+		Taran, z ,411|638 ,soyer789, dystans: ,93, wysłany: ,2021/02/04 11:03:39, dojdzie: ,2021/02/06,11:35:57, atak z tej wsi: ,1,1
+		Taran, z ,489|569 ,Waheed, dystans: ,75, wysłany: ,2021/02/04 22:37:19, dojdzie: ,2021/02/06,14:09:02, atak z tej wsi: ,1,3
+
+	415|544
+		Taran, z ,489|569 ,Waheed, dystans: ,78, wysłany: ,2021/02/04 22:37:25, dojdzie: ,2021/02/06,15:18:19, atak z tej wsi: ,3,3
+
+	413|555
+		Taran, z ,480|588 ,Waheed, dystans: ,74, wysłany: ,2021/02/04 22:40:31, dojdzie: ,2021/02/06,13:34:27, atak z tej wsi: ,4,4
+		Taran, z ,427|626 ,Qhorrin, dystans: ,72, wysłany: ,2021/02/05 00:05:24, dojdzie: ,2021/02/06,13:46:53, atak z tej wsi: ,2,3
+
+	444|514
+		Taran, z ,453|595 ,zarowa wielki, dystans: ,81, wysłany: ,2021/02/04 15:21:20, dojdzie: ,2021/02/06,09:48:10, atak z tej wsi: ,3,5
+
+	449|515
+		Taran, z ,489|586 ,zarowa wielki, dystans: ,81, wysłany: ,2021/02/04 15:50:22, dojdzie: ,2021/02/06,10:17:00, atak z tej wsi: ,3,6
+
+	439|503
+		Taran, z ,469|581 ,zarowa wielki, dystans: ,83, wysłany: ,2021/02/04 15:51:56, dojdzie: ,2021/02/06,11:23:30, atak z tej wsi: ,2,3
+
+	438|502
+		Taran, z ,469|581 ,zarowa wielki, dystans: ,84, wysłany: ,2021/02/04 15:52:02, dojdzie: ,2021/02/06,12:04:03, atak z tej wsi: ,3,3
+
+	465|511
+		Taran, z ,438|591 ,zarowa wielki, dystans: ,84, wysłany: ,2021/02/04 15:59:34, dojdzie: ,2021/02/06,11:58:07, atak z tej wsi: ,4,5
+wojna3333
+
+	390|546
+		Taran, z ,391|602 ,OrelQ, dystans: ,56, wysłany: ,2021/02/05 10:04:49, dojdzie: ,2021/02/06,15:15:05, atak z tej wsi: ,1,1
+		Taran Full O, z ,485|592 ,endyydne, dystans: ,105, wysłany: ,2021/02/04 06:23:11, dojdzie: ,2021/02/06,13:21:39, atak z tej wsi: ,1,3
+		Taran, z ,437|592 ,Hasarin, dystans: ,65, wysłany: ,2021/02/04 21:28:26, dojdzie: ,2021/02/06,07:43:35, atak z tej wsi: ,1,5
+
+	391|547
+		Taran deff, z ,464|596 ,luuko2201, dystans: ,87, wysłany: ,2021/02/04 14:19:06, dojdzie: ,2021/02/06,12:06:37, atak z tej wsi: ,2,2
+		Taran, z ,435|566 ,FetaAkaMeta, dystans: ,47, wysłany: ,2021/02/05 09:02:01, dojdzie: ,2021/02/06,09:59:44, atak z tej wsi: ,3,5
+		Taran, z ,439|571 ,FetaAkaMeta, dystans: ,53, wysłany: ,2021/02/05 09:08:53, dojdzie: ,2021/02/06,13:05:56, atak z tej wsi: ,3,4
+		Taran fejk, z ,474|550 ,endyydne, dystans: ,83, wysłany: ,2021/02/04 12:32:56, dojdzie: ,2021/02/06,07:48:23, atak z tej wsi: ,1,6
+		Taran fejk, z ,474|550 ,endyydne, dystans: ,83, wysłany: ,2021/02/04 12:33:27, dojdzie: ,2021/02/06,07:48:54, atak z tej wsi: ,2,6
+		Taran, z ,414|584 ,Amazingovsky., dystans: ,43, wysłany: ,2021/02/05 11:56:47, dojdzie: ,2021/02/06,10:38:13, atak z tej wsi: ,1,1
+
+	390|547
+		Taran brak notatek, z ,438|566 ,FetaAkaMeta, dystans: ,51, wysłany: ,2021/02/05 09:05:07, dojdzie: ,2021/02/06,11:58:21, atak z tej wsi: ,5,5
+		Taran F O, z ,472|600 ,tu-gina-ludzie, dystans: ,97, wysłany: ,2021/02/04 07:30:51, dojdzie: ,2021/02/06,10:22:01, atak z tej wsi: ,3,5
+		Taran ???, z ,395|628 ,Hasarin, dystans: ,81, wysłany: ,2021/02/04 16:21:12, dojdzie: ,2021/02/06,10:37:16, atak z tej wsi: ,2,3
+		Taran Full O, z ,453|579 ,spoko of poland, dystans: ,70, wysłany: ,2021/02/04 22:17:49, dojdzie: ,2021/02/06,11:05:58, atak z tej wsi: ,4,5
+		Taran, z ,420|578 ,mapik777, dystans: ,43, wysłany: ,2021/02/05 11:11:12, dojdzie: ,2021/02/06,09:39:18, atak z tej wsi: ,1,2
+
+	395|549
+		Taran fejk, z ,473|617 ,endyydne, dystans: ,103, wysłany: ,2021/02/04 06:25:05, dojdzie: ,2021/02/06,12:18:49, atak z tej wsi: ,4,5
+		Taran Full O, z ,479|544 ,Waheed, dystans: ,84, wysłany: ,2021/02/04 11:42:01, dojdzie: ,2021/02/06,07:31:40, atak z tej wsi: ,1,2
+		Taran, z ,485|542 ,Waheed, dystans: ,90, wysłany: ,2021/02/04 13:22:37, dojdzie: ,2021/02/06,12:23:37, atak z tej wsi: ,4,5
+		Taran, z ,474|571 ,Waheed, dystans: ,82, wysłany: ,2021/02/04 13:24:19, dojdzie: ,2021/02/06,08:07:00, atak z tej wsi: ,2,4
+
+	395|550
+		Taran, z ,344|568 ,soyer789, dystans: ,54, wysłany: ,2021/02/05 09:14:57, dojdzie: ,2021/02/06,13:25:03, atak z tej wsi: ,2,3
+		Taran, z ,444|604 ,Qhorrin, dystans: ,72, wysłany: ,2021/02/05 00:03:35, dojdzie: ,2021/02/06,14:02:16, atak z tej wsi: ,5,6
+CoTyTutajRobisz
+
+	399|586
+		Taran, z ,500|626 ,OrelQ, dystans: ,108, wysłany: ,2021/02/04 00:43:31, dojdzie: ,2021/02/06,09:18:17, atak z tej wsi: ,1,4
+		Taran, z ,421|615 ,luuko2201, dystans: ,36, wysłany: ,2021/02/05 14:41:23, dojdzie: ,2021/02/06,09:38:54, atak z tej wsi: ,2,3
+		Taran, z ,489|565 ,Waheed, dystans: ,92, wysłany: ,2021/02/04 11:40:55, dojdzie: ,2021/02/06,11:48:58, atak z tej wsi: ,5,5
+		Taran off, z ,466|593 ,ChudyMaximum, dystans: ,67, wysłany: ,2021/02/04 22:24:23, dojdzie: ,2021/02/06,09:29:32, atak z tej wsi: ,1,1
+		Taran, z ,458|623 ,jarkeS, dystans: ,69, wysłany: ,2021/02/04 21:27:51, dojdzie: ,2021/02/06,09:44:09, atak z tej wsi: ,1,1
+		Taran, z ,480|590 ,Qhorrin, dystans: ,81, wysłany: ,2021/02/04 18:15:23, dojdzie: ,2021/02/06,12:29:43, atak z tej wsi: ,1,6
+		Taran, z ,352|558 ,2000Benek, dystans: ,54, wysłany: ,2021/02/05 07:14:28, dojdzie: ,2021/02/06,11:44:06, atak z tej wsi: ,1,1
+
+	399|573
+		Taran, z ,494|616 ,OrelQ, dystans: ,104, wysłany: ,2021/02/04 09:31:31, dojdzie: ,2021/02/06,15:50:14, atak z tej wsi: ,5,5
+		Taran, z ,439|618 ,OrelQ, dystans: ,60, wysłany: ,2021/02/05 08:37:24, dojdzie: ,2021/02/06,15:58:54, atak z tej wsi: ,2,2
+		Taran, z ,417|626 ,luuko2201, dystans: ,55, wysłany: ,2021/02/05 03:03:42, dojdzie: ,2021/02/06,08:12:52, atak z tej wsi: ,1,6
+		Taran, z ,455|657 ,Karłowaty Bór, dystans: ,100, wysłany: ,2021/02/04 07:20:07, dojdzie: ,2021/02/06,11:54:58, atak z tej wsi: ,1,1
+		Taran 1/5, z ,484|563 ,tu-gina-ludzie, dystans: ,85, wysłany: ,2021/02/04 16:15:18, dojdzie: ,2021/02/06,12:49:52, atak z tej wsi: ,9,13
+		Taran, z ,460|579 ,jarkeS, dystans: ,61, wysłany: ,2021/02/04 23:39:41, dojdzie: ,2021/02/06,07:35:08, atak z tej wsi: ,1,3
+		Taran off, z ,439|608 ,micky8, dystans: ,53, wysłany: ,2021/02/05 06:38:48, dojdzie: ,2021/02/06,10:19:45, atak z tej wsi: ,1,1
+
+	402|570
+		Taran, z ,459|638 ,OrelQ, dystans: ,88, wysłany: ,2021/02/04 14:35:10, dojdzie: ,2021/02/06,12:47:58, atak z tej wsi: ,1,4
+		Taran, z ,470|568 ,spoko of poland, dystans: ,68, wysłany: ,2021/02/04 20:17:18, dojdzie: ,2021/02/06,07:43:13, atak z tej wsi: ,2,5
+		Taran, z ,408|624 ,spoko of poland, dystans: ,54, wysłany: ,2021/02/05 07:09:47, dojdzie: ,2021/02/06,11:27:40, atak z tej wsi: ,1,4
+		Taran 1/3, z ,450|589 ,spoko of poland, dystans: ,51, wysłany: ,2021/02/05 08:39:35, dojdzie: ,2021/02/06,11:32:49, atak z tej wsi: ,4,6
+		Taran, z ,487|560 ,Waheed, dystans: ,85, wysłany: ,2021/02/04 13:45:00, dojdzie: ,2021/02/06,10:19:34, atak z tej wsi: ,3,4
+		Taran, z ,482|596 ,Waheed, dystans: ,84, wysłany: ,2021/02/04 16:26:50, dojdzie: ,2021/02/06,12:15:33, atak z tej wsi: ,1,3
+		Taran, z ,465|584 ,zarowa wielki, dystans: ,64, wysłany: ,2021/02/04 21:46:13, dojdzie: ,2021/02/06,07:23:00, atak z tej wsi: ,1,5
+		Taran, z ,419|618 ,sliwastaremiasto, dystans: ,50, wysłany: ,2021/02/05 11:24:42, dojdzie: ,2021/02/06,13:56:00, atak z tej wsi: ,1,1
+
+	399|576
+		Taran, z ,424|633 ,OrelQ, dystans: ,62, wysłany: ,2021/02/05 00:24:30, dojdzie: ,2021/02/06,08:49:33, atak z tej wsi: ,1,5
+		Taran, z ,444|610 ,OrelQ, dystans: ,56, wysłany: ,2021/02/05 08:37:55, dojdzie: ,2021/02/06,14:00:26, atak z tej wsi: ,3,3
+		Taran, z ,453|573 ,SweetPain, dystans: ,54, wysłany: ,2021/02/05 04:15:38, dojdzie: ,2021/02/06,08:25:45, atak z tej wsi: ,2,6
+		Taran, z ,468|596 ,Lord Zygfryd, dystans: ,71, wysłany: ,2021/02/04 18:38:34, dojdzie: ,2021/02/06,08:03:34, atak z tej wsi: ,3,6
+		Taran, z ,462|583 ,jarkeS, dystans: ,63, wysłany: ,2021/02/04 23:30:52, dojdzie: ,2021/02/06,08:31:44, atak z tej wsi: ,3,3
+		Taran, z ,472|599 ,21mati21, dystans: ,76, wysłany: ,2021/02/04 18:18:52, dojdzie: ,2021/02/06,10:10:40, atak z tej wsi: ,1,2
+
+	400|568
+		Taran, z ,432|618 ,OrelQ, dystans: ,59, wysłany: ,2021/02/05 08:38:33, dojdzie: ,2021/02/06,15:33:39, atak z tej wsi: ,1,5
+		Taran 1/4, z ,479|587 ,spoko of poland, dystans: ,81, wysłany: ,2021/02/04 13:34:50, dojdzie: ,2021/02/06,07:53:59, atak z tej wsi: ,6,11
+		Taran, z ,405|635 ,soyer789, dystans: ,67, wysłany: ,2021/02/04 23:54:34, dojdzie: ,2021/02/06,10:54:08, atak z tej wsi: ,1,2
+		Taran off, z ,451|580 ,ChudyMaximum, dystans: ,52, wysłany: ,2021/02/05 09:19:43, dojdzie: ,2021/02/06,12:37:00, atak z tej wsi: ,1,1
+		Taran, z ,445|581 ,słodkimisiek, dystans: ,46, wysłany: ,2021/02/05 10:48:47, dojdzie: ,2021/02/06,11:12:32, atak z tej wsi: ,1,1
+		Taran, z ,427|626 ,Qhorrin, dystans: ,63, wysłany: ,2021/02/05 00:04:18, dojdzie: ,2021/02/06,09:23:34, atak z tej wsi: ,1,3
+		Taran, z ,482|599 ,zarowa wielki, dystans: ,87, wysłany: ,2021/02/04 15:14:57, dojdzie: ,2021/02/06,12:54:27, atak z tej wsi: ,5,5
+		Taran, z ,478|605 ,zarowa wielki, dystans: ,86, wysłany: ,2021/02/04 15:16:08, dojdzie: ,2021/02/06,12:13:58, atak z tej wsi: ,3,5
+		Taran, z ,465|584 ,zarowa wielki, dystans: ,66, wysłany: ,2021/02/04 21:46:37, dojdzie: ,2021/02/06,08:38:30, atak z tej wsi: ,3,5
+		Taran, z ,371|548 ,2000Benek, dystans: ,35, wysłany: ,2021/02/05 16:05:20, dojdzie: ,2021/02/06,10:26:12, atak z tej wsi: ,1,1
+
+	400|574
+		Taran, z ,428|618 ,OrelQ, dystans: ,52, wysłany: ,2021/02/05 08:38:57, dojdzie: ,2021/02/06,11:48:45, atak z tej wsi: ,1,4
+		Taran, z ,447|613 ,Karłowaty Bór, dystans: ,61, wysłany: ,2021/02/05 06:19:58, dojdzie: ,2021/02/06,14:08:32, atak z tej wsi: ,4,4
+		Taran, z ,437|632 ,jarkeS, dystans: ,68, wysłany: ,2021/02/04 21:28:27, dojdzie: ,2021/02/06,09:18:21, atak z tej wsi: ,1,1
+		Taran, z ,434|629 ,Qhorrin, dystans: ,64, wysłany: ,2021/02/05 00:01:16, dojdzie: ,2021/02/06,09:41:55, atak z tej wsi: ,1,5
+		Taran, z ,467|591 ,21mati21, dystans: ,69, wysłany: ,2021/02/04 21:01:03, dojdzie: ,2021/02/06,09:01:08, atak z tej wsi: ,2,2
+		Taran, z ,446|578 ,21mati21, dystans: ,46, wysłany: ,2021/02/05 09:29:58, dojdzie: ,2021/02/06,09:32:54, atak z tej wsi: ,2,2
+		Taran, z ,412|614 ,sliwastaremiasto, dystans: ,41, wysłany: ,2021/02/05 11:27:17, dojdzie: ,2021/02/06,09:12:19, atak z tej wsi: ,1,1
+
+	399|565
+		Taran, z ,395|616 ,OrelQ, dystans: ,51, wysłany: ,2021/02/05 09:54:58, dojdzie: ,2021/02/06,12:33:37, atak z tej wsi: ,1,6
+		Taran, z ,483|595 ,spoko of poland, dystans: ,89, wysłany: ,2021/02/04 09:02:02, dojdzie: ,2021/02/06,07:29:25, atak z tej wsi: ,2,5
+		Taran, z ,408|635 ,soyer789, dystans: ,70, wysłany: ,2021/02/04 23:58:44, dojdzie: ,2021/02/06,12:44:14, atak z tej wsi: ,2,4
+		Taran, z ,416|631 ,soyer789, dystans: ,68, wysłany: ,2021/02/05 00:00:07, dojdzie: ,2021/02/06,11:29:56, atak z tej wsi: ,3,3
+		Taran, z ,464|598 ,Lord Zygfryd, dystans: ,72, wysłany: ,2021/02/04 20:44:33, dojdzie: ,2021/02/06,10:42:36, atak z tej wsi: ,5,6
+		Taran, z ,485|543 ,Waheed, dystans: ,88, wysłany: ,2021/02/04 13:45:37, dojdzie: ,2021/02/06,11:59:39, atak z tej wsi: ,4,6
+		Taran off, z ,463|599 ,mapik777, dystans: ,72, wysłany: ,2021/02/04 21:37:55, dojdzie: ,2021/02/06,11:22:38, atak z tej wsi: ,2,6
+		Taran, z ,397|605 ,sliwastaremiasto, dystans: ,40, wysłany: ,2021/02/05 14:21:34, dojdzie: ,2021/02/06,11:13:08, atak z tej wsi: ,1,1
+
+	399|570
+		Taran, z ,398|616 ,OrelQ, dystans: ,46, wysłany: ,2021/02/05 09:56:22, dojdzie: ,2021/02/06,09:54:13, atak z tej wsi: ,1,4
+		Taran, z ,432|599 ,soyer789, dystans: ,43, wysłany: ,2021/02/05 11:35:43, dojdzie: ,2021/02/06,10:28:35, atak z tej wsi: ,1,2
+		Taran, z ,383|609 ,soyer789, dystans: ,42, wysłany: ,2021/02/05 11:36:40, dojdzie: ,2021/02/06,09:33:59, atak z tej wsi: ,1,4
+		Taran, z ,397|612 ,jarkeS, dystans: ,42, wysłany: ,2021/02/05 10:32:16, dojdzie: ,2021/02/06,08:26:15, atak z tej wsi: ,1,1
+		Taran, z ,402|603 ,jarkeS, dystans: ,33, wysłany: ,2021/02/05 14:27:52, dojdzie: ,2021/02/06,07:43:22, atak z tej wsi: ,1,2
+
+	403|583
+		Taran, z ,413|623 ,OrelQ, dystans: ,41, wysłany: ,2021/02/05 14:04:53, dojdzie: ,2021/02/06,11:33:21, atak z tej wsi: ,1,3
+		Taran, z ,472|555 ,jarkeS, dystans: ,74, wysłany: ,2021/02/04 18:31:57, dojdzie: ,2021/02/06,09:18:59, atak z tej wsi: ,1,2
+		Taran, z ,473|584 ,uzimati, dystans: ,70, wysłany: ,2021/02/05 00:17:57, dojdzie: ,2021/02/06,12:45:41, atak z tej wsi: ,1,1
+		Taran, z ,368|570 ,criminals, dystans: ,37, wysłany: ,2021/02/05 15:12:10, dojdzie: ,2021/02/06,10:38:56, atak z tej wsi: ,1,2
+
+	398|572
+		Taran, z ,433|618 ,luuko2201, dystans: ,57, wysłany: ,2021/02/05 02:06:39, dojdzie: ,2021/02/06,08:12:57, atak z tej wsi: ,2,5
+		Taran, z ,385|604 ,Karłowaty Bór, dystans: ,34, wysłany: ,2021/02/05 14:39:29, dojdzie: ,2021/02/06,08:38:52, atak z tej wsi: ,1,5
+		Taran 1/4, z ,479|587 ,spoko of poland, dystans: ,82, wysłany: ,2021/02/04 13:34:44, dojdzie: ,2021/02/06,08:29:01, atak z tej wsi: ,8,11
+		Taran, z ,422|599 ,soyer789, dystans: ,36, wysłany: ,2021/02/05 15:19:42, dojdzie: ,2021/02/06,10:08:36, atak z tej wsi: ,1,1
+		Taran, z ,483|578 ,Qhorrin, dystans: ,85, wysłany: ,2021/02/04 12:00:08, dojdzie: ,2021/02/06,08:23:00, atak z tej wsi: ,3,5
+		Taran, z ,483|578 ,Qhorrin, dystans: ,85, wysłany: ,2021/02/04 12:00:31, dojdzie: ,2021/02/06,08:23:23, atak z tej wsi: ,4,5
+		Taran, z ,476|578 ,uzimati, dystans: ,78, wysłany: ,2021/02/04 16:23:13, dojdzie: ,2021/02/06,09:07:55, atak z tej wsi: ,1,1
+
+	399|578
+		Taran, z ,433|608 ,luuko2201, dystans: ,45, wysłany: ,2021/02/05 13:41:27, dojdzie: ,2021/02/06,13:18:26, atak z tej wsi: ,1,4
+		Taran, z ,344|568 ,soyer789, dystans: ,55, wysłany: ,2021/02/05 09:15:08, dojdzie: ,2021/02/06,14:22:03, atak z tej wsi: ,3,3
+		Taran, z ,474|561 ,ChudyMaximum, dystans: ,76, wysłany: ,2021/02/04 20:10:15, dojdzie: ,2021/02/06,12:13:28, atak z tej wsi: ,1,1
+
+	400|570
+		Taran, z ,441|581 ,luuko2201, dystans: ,42, wysłany: ,2021/02/05 13:42:19, dojdzie: ,2021/02/06,11:48:53, atak z tej wsi: ,1,1
+		Taran, z ,490|607 ,endyydne, dystans: ,97, wysłany: ,2021/02/04 06:29:22, dojdzie: ,2021/02/06,09:10:16, atak z tej wsi: ,4,14
+		Taran, z ,487|583 ,endyydne, dystans: ,87, wysłany: ,2021/02/04 12:08:41, dojdzie: ,2021/02/06,09:57:37, atak z tej wsi: ,4,15
+		Taran, z ,400|608 ,Karłowaty Bór, dystans: ,38, wysłany: ,2021/02/05 14:39:06, dojdzie: ,2021/02/06,10:26:36, atak z tej wsi: ,2,4
+		Taran, z ,381|605 ,Karłowaty Bór, dystans: ,39, wysłany: ,2021/02/05 14:40:08, dojdzie: ,2021/02/06,11:24:40, atak z tej wsi: ,2,5
+		Taran, z ,389|611 ,Karłowaty Bór, dystans: ,42, wysłany: ,2021/02/05 14:40:27, dojdzie: ,2021/02/06,12:47:00, atak z tej wsi: ,4,4
+		Taran 1/5, z ,484|563 ,tu-gina-ludzie, dystans: ,84, wysłany: ,2021/02/04 16:14:48, dojdzie: ,2021/02/06,12:08:54, atak z tej wsi: ,7,13
+		Taran, z ,347|563 ,soyer789, dystans: ,53, wysłany: ,2021/02/05 09:16:11, dojdzie: ,2021/02/06,13:06:49, atak z tej wsi: ,2,3
+		Taran, z ,440|586 ,mapik777, dystans: ,43, wysłany: ,2021/02/05 10:28:29, dojdzie: ,2021/02/06,08:54:46, atak z tej wsi: ,1,10
+		Taran off, z ,486|607 ,ChudyMaximum, dystans: ,93, wysłany: ,2021/02/04 10:14:07, dojdzie: ,2021/02/06,10:59:48, atak z tej wsi: ,1,3
+		Taran, z ,482|599 ,zarowa wielki, dystans: ,86, wysłany: ,2021/02/04 14:56:11, dojdzie: ,2021/02/06,12:14:13, atak z tej wsi: ,3,5
+		Taran, z ,413|617 ,sliwastaremiasto, dystans: ,48, wysłany: ,2021/02/05 11:26:07, dojdzie: ,2021/02/06,12:50:01, atak z tej wsi: ,1,1
+
+	398|587
+		Taran, z ,421|615 ,luuko2201, dystans: ,36, wysłany: ,2021/02/05 14:40:30, dojdzie: ,2021/02/06,09:32:51, atak z tej wsi: ,1,3
+		Taran, z ,447|622 ,Karłowaty Bór, dystans: ,60, wysłany: ,2021/02/05 06:19:41, dojdzie: ,2021/02/06,13:41:26, atak z tej wsi: ,3,3
+		Taran 1/4, z ,479|587 ,spoko of poland, dystans: ,81, wysłany: ,2021/02/04 16:25:56, dojdzie: ,2021/02/06,10:37:11, atak z tej wsi: ,9,11
+		Taran, z ,449|580 ,spoko of poland, dystans: ,51, wysłany: ,2021/02/05 07:12:31, dojdzie: ,2021/02/06,10:01:13, atak z tej wsi: ,5,10
+		Taran, z ,455|614 ,Lord Zygfryd, dystans: ,63, wysłany: ,2021/02/04 23:13:09, dojdzie: ,2021/02/06,08:04:08, atak z tej wsi: ,1,1
+		Taran, z ,494|576 ,Waheed, dystans: ,96, wysłany: ,2021/02/04 10:02:18, dojdzie: ,2021/02/06,12:21:56, atak z tej wsi: ,4,4
+		Taran, z ,488|563 ,Waheed, dystans: ,93, wysłany: ,2021/02/04 11:36:38, dojdzie: ,2021/02/06,12:07:25, atak z tej wsi: ,3,3
+		Taran, z ,471|583 ,jarkeS, dystans: ,73, wysłany: ,2021/02/04 18:31:46, dojdzie: ,2021/02/06,08:36:26, atak z tej wsi: ,1,4
+		Taran, z ,460|583 ,jarkeS, dystans: ,62, wysłany: ,2021/02/04 23:31:27, dojdzie: ,2021/02/06,07:52:59, atak z tej wsi: ,1,1
+		Taran, z ,433|603 ,Qhorrin, dystans: ,38, wysłany: ,2021/02/05 15:18:51, dojdzie: ,2021/02/06,11:21:28, atak z tej wsi: ,1,1
+		Taran, z ,372|551 ,2000Benek, dystans: ,44, wysłany: ,2021/02/05 16:03:56, dojdzie: ,2021/02/06,15:11:39, atak z tej wsi: ,1,1
+
+	398|586
+		Taran, z ,421|615 ,luuko2201, dystans: ,37, wysłany: ,2021/02/05 14:41:14, dojdzie: ,2021/02/06,09:57:54, atak z tej wsi: ,3,3
+		Taran, z ,451|604 ,Karłowaty Bór, dystans: ,55, wysłany: ,2021/02/05 06:20:16, dojdzie: ,2021/02/06,11:29:26, atak z tej wsi: ,4,4
+		Taran, z ,458|586 ,spoko of poland, dystans: ,60, wysłany: ,2021/02/05 07:10:33, dojdzie: ,2021/02/06,14:25:33, atak z tej wsi: ,5,6
+		Taran, z ,430|599 ,soyer789, dystans: ,34, wysłany: ,2021/02/05 15:21:44, dojdzie: ,2021/02/06,09:21:06, atak z tej wsi: ,1,2
+		Taran, z ,430|599 ,soyer789, dystans: ,34, wysłany: ,2021/02/05 15:21:52, dojdzie: ,2021/02/06,09:21:14, atak z tej wsi: ,2,2
+		Taran, z ,425|606 ,soyer789, dystans: ,33, wysłany: ,2021/02/05 15:23:02, dojdzie: ,2021/02/06,08:53:03, atak z tej wsi: ,1,1
+		Taran, z ,487|563 ,Waheed, dystans: ,91, wysłany: ,2021/02/04 11:41:34, dojdzie: ,2021/02/06,11:34:12, atak z tej wsi: ,3,5
+		Taran, z ,423|627 ,Waheed, dystans: ,48, wysłany: ,2021/02/05 09:42:11, dojdzie: ,2021/02/06,10:42:50, atak z tej wsi: ,1,1
+		Taran, z ,459|574 ,ChudyMaximum, dystans: ,62, wysłany: ,2021/02/04 22:37:27, dojdzie: ,2021/02/06,07:00:14, atak z tej wsi: ,1,1
+		Taran, z ,457|578 ,słodkimisiek, dystans: ,59, wysłany: ,2021/02/05 07:11:47, dojdzie: ,2021/02/06,14:12:24, atak z tej wsi: ,3,3
+		Taran, z ,486|582 ,uzimati, dystans: ,88, wysłany: ,2021/02/04 12:15:49, dojdzie: ,2021/02/06,10:08:39, atak z tej wsi: ,1,1
+
+	397|569
+		Taran, z ,436|571 ,luuko2201, dystans: ,39, wysłany: ,2021/02/05 14:42:28, dojdzie: ,2021/02/06,11:02:49, atak z tej wsi: ,1,3
+		Taran, z ,485|602 ,endyydne, dystans: ,93, wysłany: ,2021/02/04 09:46:07, dojdzie: ,2021/02/06,10:43:07, atak z tej wsi: ,5,10
+		Taran, z ,456|624 ,Karłowaty Bór, dystans: ,80, wysłany: ,2021/02/04 18:39:33, dojdzie: ,2021/02/06,12:40:10, atak z tej wsi: ,2,4
+		Taran, z ,391|605 ,Karłowaty Bór, dystans: ,36, wysłany: ,2021/02/05 14:39:47, dojdzie: ,2021/02/06,09:40:18, atak z tej wsi: ,1,4
+		Taran, z ,483|595 ,spoko of poland, dystans: ,89, wysłany: ,2021/02/04 11:11:15, dojdzie: ,2021/02/06,09:58:53, atak z tej wsi: ,5,5
+		Taran, z ,476|602 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 11:14:20, dojdzie: ,2021/02/06,07:49:49, atak z tej wsi: ,2,2
+		Taran 1/4, z ,479|587 ,spoko of poland, dystans: ,83, wysłany: ,2021/02/04 11:50:06, dojdzie: ,2021/02/06,07:33:36, atak z tej wsi: ,3,11
+		Taran, z ,473|601 ,spoko of poland, dystans: ,82, wysłany: ,2021/02/04 16:26:22, dojdzie: ,2021/02/06,11:23:19, atak z tej wsi: ,3,5
+		Taran, z ,391|604 ,spoko of poland, dystans: ,35, wysłany: ,2021/02/05 14:22:07, dojdzie: ,2021/02/06,08:51:50, atak z tej wsi: ,5,16
+		Taran, z ,408|635 ,soyer789, dystans: ,66, wysłany: ,2021/02/04 23:58:04, dojdzie: ,2021/02/06,10:49:01, atak z tej wsi: ,1,4
+		Taran, z ,474|560 ,uzimati, dystans: ,77, wysłany: ,2021/02/04 20:13:19, dojdzie: ,2021/02/06,12:35:57, atak z tej wsi: ,3,4
+		Taran, z ,465|584 ,zarowa wielki, dystans: ,69, wysłany: ,2021/02/04 21:46:53, dojdzie: ,2021/02/06,10:02:58, atak z tej wsi: ,4,5
+		Taran, z ,438|591 ,zarowa wielki, dystans: ,46, wysłany: ,2021/02/05 12:05:30, dojdzie: ,2021/02/06,12:19:33, atak z tej wsi: ,5,5
+		Taran, z ,453|596 ,Sir Lukas II, dystans: ,62, wysłany: ,2021/02/05 01:24:38, dojdzie: ,2021/02/06,09:47:25, atak z tej wsi: ,3,3
+
+	396|589
+		Taran, z ,435|573 ,FetaAkaMeta, dystans: ,42, wysłany: ,2021/02/05 14:36:06, dojdzie: ,2021/02/06,12:33:26, atak z tej wsi: ,2,3
+		Taran, z ,474|553 ,SweetPain, dystans: ,85, wysłany: ,2021/02/04 12:56:23, dojdzie: ,2021/02/06,09:40:58, atak z tej wsi: ,5,5
+		Taran, z ,428|573 ,SweetPain, dystans: ,35, wysłany: ,2021/02/05 13:50:18, dojdzie: ,2021/02/06,08:28:20, atak z tej wsi: ,3,3
+		Taran, z ,472|604 ,spoko of poland, dystans: ,77, wysłany: ,2021/02/04 18:14:13, dojdzie: ,2021/02/06,10:35:02, atak z tej wsi: ,6,10
+		Taran, z ,381|619 ,soyer789, dystans: ,33, wysłany: ,2021/02/05 15:24:33, dojdzie: ,2021/02/06,08:52:43, atak z tej wsi: ,1,1
+		Taran, z ,463|589 ,jarkeS, dystans: ,67, wysłany: ,2021/02/04 21:28:17, dojdzie: ,2021/02/06,08:22:02, atak z tej wsi: ,2,4
+		Taran, z ,443|584 ,jarkeS, dystans: ,47, wysłany: ,2021/02/05 08:35:30, dojdzie: ,2021/02/06,09:12:32, atak z tej wsi: ,1,1
+		Taran, z ,485|593 ,uzimati, dystans: ,89, wysłany: ,2021/02/04 12:15:28, dojdzie: ,2021/02/06,10:39:31, atak z tej wsi: ,1,1
+
+	397|586
+		Taran, z ,436|572 ,FetaAkaMeta, dystans: ,41, wysłany: ,2021/02/05 14:36:26, dojdzie: ,2021/02/06,12:11:20, atak z tej wsi: ,1,1
+		Taran, z ,486|557 ,Zelke, dystans: ,93, wysłany: ,2021/02/04 08:31:48, dojdzie: ,2021/02/06,09:16:59, atak z tej wsi: ,1,1
+		Taran, z ,428|572 ,mapik777, dystans: ,34, wysłany: ,2021/02/05 15:06:43, dojdzie: ,2021/02/06,08:49:41, atak z tej wsi: ,3,4
+		Taran, z ,433|604 ,Qhorrin, dystans: ,40, wysłany: ,2021/02/05 15:17:44, dojdzie: ,2021/02/06,12:15:32, atak z tej wsi: ,1,1
+		Taran, z ,364|564 ,criminals, dystans: ,39, wysłany: ,2021/02/05 15:10:40, dojdzie: ,2021/02/06,11:50:05, atak z tej wsi: ,1,2
+
+	399|582
+		Taran off, z ,492|613 ,endyydne, dystans: ,98, wysłany: ,2021/02/04 06:04:31, dojdzie: ,2021/02/06,09:07:59, atak z tej wsi: ,2,4
+		Taran, z ,423|604 ,soyer789, dystans: ,32, wysłany: ,2021/02/05 15:27:00, dojdzie: ,2021/02/06,08:24:26, atak z tej wsi: ,1,1
+		Taran, z ,434|630 ,Lord Zygfryd, dystans: ,59, wysłany: ,2021/02/05 00:11:30, dojdzie: ,2021/02/06,07:07:55, atak z tej wsi: ,1,1
+		Taran, z ,434|567 ,Waheed, dystans: ,38, wysłany: ,2021/02/05 15:14:05, dojdzie: ,2021/02/06,11:04:03, atak z tej wsi: ,1,1
+		Taran off, z ,451|590 ,ChudyMaximum, dystans: ,52, wysłany: ,2021/02/05 09:19:29, dojdzie: ,2021/02/06,12:43:36, atak z tej wsi: ,1,5
+		Taran, z ,465|594 ,jarkeS, dystans: ,67, wysłany: ,2021/02/04 21:28:05, dojdzie: ,2021/02/06,08:24:23, atak z tej wsi: ,1,4
+		Taran off, z ,440|611 ,micky8, dystans: ,50, wysłany: ,2021/02/05 06:39:19, dojdzie: ,2021/02/06,08:48:41, atak z tej wsi: ,1,1
+
+	396|575
+		Taran, z ,470|569 ,endyydne, dystans: ,74, wysłany: ,2021/02/04 19:04:18, dojdzie: ,2021/02/06,09:44:24, atak z tej wsi: ,2,5
+		Taran, z ,454|574 ,SweetPain, dystans: ,58, wysłany: ,2021/02/05 04:14:00, dojdzie: ,2021/02/06,10:26:46, atak z tej wsi: ,1,2
+		Taran, z ,476|602 ,spoko of poland, dystans: ,84, wysłany: ,2021/02/04 11:14:46, dojdzie: ,2021/02/06,07:13:19, atak z tej wsi: ,1,2
+		Taran, z ,412|638 ,soyer789, dystans: ,65, wysłany: ,2021/02/04 23:55:43, dojdzie: ,2021/02/06,09:46:58, atak z tej wsi: ,1,1
+		Taran, z ,428|588 ,soyer789, dystans: ,34, wysłany: ,2021/02/05 15:25:22, dojdzie: ,2021/02/06,09:24:44, atak z tej wsi: ,1,1
+		Taran, z ,477|567 ,ChudyMaximum, dystans: ,81, wysłany: ,2021/02/04 20:09:43, dojdzie: ,2021/02/06,14:33:17, atak z tej wsi: ,1,1
+		Taran, z ,475|575 ,uzimati, dystans: ,79, wysłany: ,2021/02/04 16:25:45, dojdzie: ,2021/02/06,09:34:30, atak z tej wsi: ,1,1
+		Taran, z ,366|549 ,criminals, dystans: ,39, wysłany: ,2021/02/05 15:11:02, dojdzie: ,2021/02/06,11:51:38, atak z tej wsi: ,1,1
+		Taran, z ,415|619 ,sliwastaremiasto, dystans: ,47, wysłany: ,2021/02/05 11:26:31, dojdzie: ,2021/02/06,12:24:14, atak z tej wsi: ,1,1
+
+	399|584
+		Taran, z ,476|619 ,pasztetinio, dystans: ,84, wysłany: ,2021/02/04 14:11:27, dojdzie: ,2021/02/06,10:14:37, atak z tej wsi: ,3,10
+		Taran, z ,450|584 ,SweetPain, dystans: ,51, wysłany: ,2021/02/05 05:32:02, dojdzie: ,2021/02/06,08:05:47, atak z tej wsi: ,1,6
+		Taran, z ,460|588 ,spoko of poland, dystans: ,61, wysłany: ,2021/02/05 02:19:27, dojdzie: ,2021/02/06,10:09:48, atak z tej wsi: ,2,2
+		Taran, z ,479|544 ,Waheed, dystans: ,89, wysłany: ,2021/02/04 11:42:08, dojdzie: ,2021/02/06,10:17:13, atak z tej wsi: ,2,2
+		Taran, z ,483|581 ,Qhorrin, dystans: ,84, wysłany: ,2021/02/04 18:14:09, dojdzie: ,2021/02/06,14:00:49, atak z tej wsi: ,7,10
+		Taran, z ,462|645 ,uzimati, dystans: ,87, wysłany: ,2021/02/04 12:16:06, dojdzie: ,2021/02/06,09:56:30, atak z tej wsi: ,1,1
+
+	399|572
+		Taran, z ,474|603 ,pasztetinio, dystans: ,81, wysłany: ,2021/02/04 17:06:34, dojdzie: ,2021/02/06,11:22:38, atak z tej wsi: ,3,6
+		Taran 1/5, z ,484|563 ,tu-gina-ludzie, dystans: ,85, wysłany: ,2021/02/04 16:15:51, dojdzie: ,2021/02/06,12:46:56, atak z tej wsi: ,8,13
+		Taran, z ,478|568 ,SweetPain, dystans: ,79, wysłany: ,2021/02/04 14:52:15, dojdzie: ,2021/02/06,08:04:10, atak z tej wsi: ,1,5
+		Taran, z ,452|593 ,SweetPain, dystans: ,57, wysłany: ,2021/02/05 04:12:46, dojdzie: ,2021/02/06,09:54:17, atak z tej wsi: ,1,1
+		Taran 1/3, z ,450|589 ,spoko of poland, dystans: ,53, wysłany: ,2021/02/05 08:39:13, dojdzie: ,2021/02/06,12:39:11, atak z tej wsi: ,5,6
+		Taran, z ,426|611 ,soyer789, dystans: ,47, wysłany: ,2021/02/05 11:31:21, dojdzie: ,2021/02/06,12:13:40, atak z tej wsi: ,1,3
+		Taran, z ,473|570 ,Waheed, dystans: ,74, wysłany: ,2021/02/04 22:05:59, dojdzie: ,2021/02/06,12:39:19, atak z tej wsi: ,3,3
+		Taran, z ,476|582 ,uzimati, dystans: ,77, wysłany: ,2021/02/04 16:24:18, dojdzie: ,2021/02/06,08:50:45, atak z tej wsi: ,2,5
+		Taran, z ,475|558 ,uzimati, dystans: ,77, wysłany: ,2021/02/04 16:25:16, dojdzie: ,2021/02/06,08:40:13, atak z tej wsi: ,1,1
+		Taran, z ,478|605 ,zarowa wielki, dystans: ,85, wysłany: ,2021/02/04 14:57:21, dojdzie: ,2021/02/06,11:32:50, atak z tej wsi: ,2,5
+		Taran, z ,467|572 ,Sir Lukas II, dystans: ,68, wysłany: ,2021/02/05 01:21:52, dojdzie: ,2021/02/06,12:46:52, atak z tej wsi: ,2,2
+		Taran, z ,413|612 ,sliwastaremiasto, dystans: ,42, wysłany: ,2021/02/05 11:26:55, dojdzie: ,2021/02/06,09:31:16, atak z tej wsi: ,1,1
+
+	400|584
+		Taran, z ,474|622 ,Karłowaty Bór, dystans: ,83, wysłany: ,2021/02/04 14:12:20, dojdzie: ,2021/02/06,09:31:55, atak z tej wsi: ,1,3
+		Taran, z ,457|624 ,Zelke, dystans: ,69, wysłany: ,2021/02/04 21:21:46, dojdzie: ,2021/02/06,09:37:51, atak z tej wsi: ,1,1
+		Taran, z ,438|587 ,Lord Zygfryd, dystans: ,38, wysłany: ,2021/02/05 12:02:35, dojdzie: ,2021/02/06,07:53:46, atak z tej wsi: ,1,1
+		Taran, z ,473|576 ,Waheed, dystans: ,73, wysłany: ,2021/02/04 22:06:20, dojdzie: ,2021/02/06,12:21:14, atak z tej wsi: ,3,5
+		Taran, z ,478|596 ,jarkeS, dystans: ,78, wysłany: ,2021/02/04 14:50:48, dojdzie: ,2021/02/06,07:56:58, atak z tej wsi: ,1,1
+		Taran, z ,426|631 ,Qhorrin, dystans: ,53, wysłany: ,2021/02/05 09:57:07, dojdzie: ,2021/02/06,13:55:37, atak z tej wsi: ,1,3
+		Taran, z ,469|582 ,uzimati, dystans: ,69, wysłany: ,2021/02/05 00:16:53, dojdzie: ,2021/02/06,12:14:03, atak z tej wsi: ,1,1
+
+	401|581
+		Taran, z ,458|586 ,spoko of poland, dystans: ,57, wysłany: ,2021/02/05 07:10:51, dojdzie: ,2021/02/06,12:58:56, atak z tej wsi: ,4,6
+		Taran, z ,469|608 ,Zelke, dystans: ,73, wysłany: ,2021/02/04 21:21:09, dojdzie: ,2021/02/06,11:27:32, atak z tej wsi: ,1,1
+		Taran, z ,458|619 ,Waheed, dystans: ,68, wysłany: ,2021/02/05 01:06:25, dojdzie: ,2021/02/06,12:47:13, atak z tej wsi: ,1,2
+		Taran off, z ,470|623 ,ChudyMaximum, dystans: ,80, wysłany: ,2021/02/04 20:09:57, dojdzie: ,2021/02/06,14:14:14, atak z tej wsi: ,1,1
+		Taran, z ,475|563 ,ChudyMaximum, dystans: ,76, wysłany: ,2021/02/04 20:10:29, dojdzie: ,2021/02/06,11:50:25, atak z tej wsi: ,1,1
+		Taran, z ,465|566 ,ChudyMaximum, dystans: ,65, wysłany: ,2021/02/04 22:24:41, dojdzie: ,2021/02/06,08:38:53, atak z tej wsi: ,1,1
+		Taran, z ,458|574 ,ChudyMaximum, dystans: ,57, wysłany: ,2021/02/05 09:19:12, dojdzie: ,2021/02/06,15:13:50, atak z tej wsi: ,1,1
+		Taran, z ,479|551 ,uzimati, dystans: ,83, wysłany: ,2021/02/04 16:22:35, dojdzie: ,2021/02/06,11:54:10, atak z tej wsi: ,1,1
+		Taran, z ,476|567 ,uzimati, dystans: ,76, wysłany: ,2021/02/04 20:12:28, dojdzie: ,2021/02/06,11:56:42, atak z tej wsi: ,1,1
+
+	402|579
+		Taran, z ,458|586 ,spoko of poland, dystans: ,56, wysłany: ,2021/02/05 07:11:15, dojdzie: ,2021/02/06,12:34:52, atak z tej wsi: ,2,6
+		Taran off, z ,351|548 ,micky8, dystans: ,59, wysłany: ,2021/02/05 03:22:20, dojdzie: ,2021/02/06,10:27:25, atak z tej wsi: ,1,1
+
+	401|576
+		Taran 1/3, z ,450|589 ,spoko of poland, dystans: ,50, wysłany: ,2021/02/05 08:40:04, dojdzie: ,2021/02/06,11:04:17, atak z tej wsi: ,2,6
+		Taran, z ,475|605 ,Zelke, dystans: ,79, wysłany: ,2021/02/04 21:22:50, dojdzie: ,2021/02/06,14:46:35, atak z tej wsi: ,1,1
+		Taran, z ,453|612 ,Lord Zygfryd, dystans: ,63, wysłany: ,2021/02/05 00:11:00, dojdzie: ,2021/02/06,09:07:26, atak z tej wsi: ,1,1
+		Taran, z ,485|581 ,Waheed, dystans: ,84, wysłany: ,2021/02/04 16:28:01, dojdzie: ,2021/02/06,12:17:40, atak z tej wsi: ,3,4
+		Taran, z ,470|578 ,Waheed, dystans: ,69, wysłany: ,2021/02/04 22:08:11, dojdzie: ,2021/02/06,10:05:21, atak z tej wsi: ,2,4
+		Taran off, z ,447|573 ,ChudyMaximum, dystans: ,46, wysłany: ,2021/02/05 09:20:17, dojdzie: ,2021/02/06,09:20:51, atak z tej wsi: ,1,1
+		Taran, z ,353|539 ,micky8, dystans: ,60, wysłany: ,2021/02/05 02:44:11, dojdzie: ,2021/02/06,10:18:06, atak z tej wsi: ,1,1
+		Taran, z ,414|612 ,sliwastaremiasto, dystans: ,38, wysłany: ,2021/02/05 14:20:44, dojdzie: ,2021/02/06,10:16:50, atak z tej wsi: ,1,1
+
+	401|570
+		Taran, z ,416|631 ,soyer789, dystans: ,62, wysłany: ,2021/02/04 23:59:28, dojdzie: ,2021/02/06,08:42:31, atak z tej wsi: ,1,3
+		Taran, z ,453|614 ,Lord Zygfryd, dystans: ,68, wysłany: ,2021/02/04 20:44:49, dojdzie: ,2021/02/06,08:13:29, atak z tej wsi: ,1,1
+		Taran, z ,481|584 ,Waheed, dystans: ,81, wysłany: ,2021/02/04 16:29:11, dojdzie: ,2021/02/06,10:47:11, atak z tej wsi: ,4,5
+		Taran, z ,470|582 ,uzimati, dystans: ,70, wysłany: ,2021/02/04 20:13:33, dojdzie: ,2021/02/06,08:42:10, atak z tej wsi: ,1,1
+
+	399|567
+		Taran, z ,416|631 ,soyer789, dystans: ,66, wysłany: ,2021/02/04 23:59:57, dojdzie: ,2021/02/06,10:29:19, atak z tej wsi: ,2,3
+		Taran, z ,465|608 ,Lord Zygfryd, dystans: ,77, wysłany: ,2021/02/04 18:05:08, dojdzie: ,2021/02/06,10:33:12, atak z tej wsi: ,1,1
+		Taran, z ,482|587 ,Waheed, dystans: ,85, wysłany: ,2021/02/04 16:28:30, dojdzie: ,2021/02/06,12:56:30, atak z tej wsi: ,3,4
+		Taran, z ,480|569 ,Waheed, dystans: ,81, wysłany: ,2021/02/04 20:16:10, dojdzie: ,2021/02/06,14:28:11, atak z tej wsi: ,4,4
+		Taran, z ,456|623 ,jarkeS, dystans: ,79, wysłany: ,2021/02/04 16:25:06, dojdzie: ,2021/02/06,10:02:10, atak z tej wsi: ,2,4
+		Taran, z ,480|599 ,21mati21, dystans: ,87, wysłany: ,2021/02/04 13:48:32, dojdzie: ,2021/02/06,11:10:09, atak z tej wsi: ,1,2
+		Taran, z ,414|604 ,sliwastaremiasto, dystans: ,39, wysłany: ,2021/02/05 14:22:12, dojdzie: ,2021/02/06,11:09:51, atak z tej wsi: ,1,1
+
+	398|573
+		Taran, z ,423|600 ,soyer789, dystans: ,36, wysłany: ,2021/02/05 15:20:44, dojdzie: ,2021/02/06,10:30:38, atak z tej wsi: ,1,1
+		Taran, z ,438|584 ,Lord Zygfryd, dystans: ,41, wysłany: ,2021/02/05 11:38:44, dojdzie: ,2021/02/06,09:15:09, atak z tej wsi: ,1,1
+		Taran, z ,482|584 ,Waheed, dystans: ,84, wysłany: ,2021/02/04 16:27:20, dojdzie: ,2021/02/06,12:34:45, atak z tej wsi: ,4,4
+		Taran, z ,472|571 ,Waheed, dystans: ,74, wysłany: ,2021/02/04 22:06:59, dojdzie: ,2021/02/06,12:40:20, atak z tej wsi: ,4,5
+		Taran, z ,477|572 ,mapik777, dystans: ,79, wysłany: ,2021/02/04 17:33:24, dojdzie: ,2021/02/06,10:42:21, atak z tej wsi: ,2,6
+
+	399|581
+		Taran, z ,462|582 ,jarkeS, dystans: ,63, wysłany: ,2021/02/04 23:31:16, dojdzie: ,2021/02/06,08:20:16, atak z tej wsi: ,1,5
+		Taran, z ,449|582 ,jarkeS, dystans: ,50, wysłany: ,2021/02/05 08:35:18, dojdzie: ,2021/02/06,10:38:06, atak z tej wsi: ,1,1
+		Taran, z ,492|592 ,uzimati, dystans: ,93, wysłany: ,2021/02/04 12:15:15, dojdzie: ,2021/02/06,13:01:46, atak z tej wsi: ,1,1
+		Taran off, z ,437|608 ,uzimati, dystans: ,46, wysłany: ,2021/02/05 12:08:58, dojdzie: ,2021/02/06,12:25:42, atak z tej wsi: ,1,1
+		Taran, z ,432|591 ,zarowa wielki, dystans: ,34, wysłany: ,2021/02/05 15:23:47, dojdzie: ,2021/02/06,09:21:20, atak z tej wsi: ,1,1
+		Taran, z ,445|570 ,Demurral, dystans: ,47, wysłany: ,2021/02/05 15:05:47, dojdzie: ,2021/02/06,15:43:49, atak z tej wsi: ,1,1
+Bebikson
+
+	402|524
+		Taran, z ,634|511 ,dsffdfdsfdf, dystans: ,232, wysłany: ,2021/02/01 06:50:58, dojdzie: ,2021/02/06,07:52:21, atak z tej wsi: ,1,1
+		Taran, z ,470|569 ,endyydne, dystans: ,81, wysłany: ,2021/02/04 19:04:34, dojdzie: ,2021/02/06,13:32:44, atak z tej wsi: ,4,5
+		Taran, z ,468|553 ,SweetPain, dystans: ,72, wysłany: ,2021/02/04 20:51:12, dojdzie: ,2021/02/06,10:24:01, atak z tej wsi: ,1,1
+		Taran, z ,461|592 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:59:00, dojdzie: ,2021/02/06,07:52:22, atak z tej wsi: ,2,6
+		Taran, z ,423|603 ,soyer789, dystans: ,81, wysłany: ,2021/02/04 19:31:43, dojdzie: ,2021/02/06,14:06:12, atak z tej wsi: ,4,6
+		Taran, z ,485|542 ,Waheed, dystans: ,84, wysłany: ,2021/02/04 13:22:46, dojdzie: ,2021/02/06,09:36:49, atak z tej wsi: ,3,5
+		Taran, z ,429|613 ,mapik777, dystans: ,93, wysłany: ,2021/02/04 10:17:21, dojdzie: ,2021/02/06,10:43:46, atak z tej wsi: ,7,12
+		Taran, z ,440|573 ,Qhorrin, dystans: ,62, wysłany: ,2021/02/05 00:09:00, dojdzie: ,2021/02/06,08:26:45, atak z tej wsi: ,1,3
+		Taran, z ,445|568 ,Qhorrin, dystans: ,61, wysłany: ,2021/02/05 00:10:24, dojdzie: ,2021/02/06,08:12:59, atak z tej wsi: ,1,3
+		Taran, z ,454|560 ,Qhorrin, dystans: ,63, wysłany: ,2021/02/05 00:11:56, dojdzie: ,2021/02/06,09:08:22, atak z tej wsi: ,2,4
+		Taran, z ,468|561 ,Qhorrin, dystans: ,75, wysłany: ,2021/02/05 00:17:21, dojdzie: ,2021/02/06,15:41:50, atak z tej wsi: ,2,2
+		Taran, z ,461|559 ,Sir Lukas II, dystans: ,68, wysłany: ,2021/02/05 01:15:14, dojdzie: ,2021/02/06,12:58:59, atak z tej wsi: ,3,3
+		Taran, z ,380|560 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:30:22, dojdzie: ,2021/02/06,08:28:49, atak z tej wsi: ,1,15
+
+	414|533
+		Taran, z ,485|619 ,OrelQ, dystans: ,111, wysłany: ,2021/02/04 00:38:33, dojdzie: ,2021/02/06,10:43:35, atak z tej wsi: ,1,3
+		Taran, z ,445|592 ,mapik777, dystans: ,66, wysłany: ,2021/02/05 00:27:22, dojdzie: ,2021/02/06,11:10:07, atak z tej wsi: ,3,12
+		Taran, z ,480|590 ,Qhorrin, dystans: ,87, wysłany: ,2021/02/04 18:14:52, dojdzie: ,2021/02/06,15:40:04, atak z tej wsi: ,6,6
+		Taran, z ,471|591 ,uzimati, dystans: ,81, wysłany: ,2021/02/04 20:11:43, dojdzie: ,2021/02/06,14:32:58, atak z tej wsi: ,3,4
+		Taran, z ,471|550 ,Sir Lukas II, dystans: ,59, wysłany: ,2021/02/05 01:18:17, dojdzie: ,2021/02/06,08:17:05, atak z tej wsi: ,1,3
+
+	405|529
+		Taran, z ,491|611 ,OrelQ, dystans: ,118, wysłany: ,2021/02/04 00:41:56, dojdzie: ,2021/02/06,14:35:17, atak z tej wsi: ,2,3
+		Taran, z ,474|620 ,OrelQ, dystans: ,114, wysłany: ,2021/02/04 00:42:25, dojdzie: ,2021/02/06,12:11:13, atak z tej wsi: ,2,4
+		Taran, z ,482|600 ,endyydne, dystans: ,104, wysłany: ,2021/02/04 07:18:20, dojdzie: ,2021/02/06,13:51:23, atak z tej wsi: ,1,3
+		Taran, z ,474|565 ,SweetPain, dystans: ,77, wysłany: ,2021/02/04 20:57:02, dojdzie: ,2021/02/06,13:29:07, atak z tej wsi: ,1,1
+		Taran, z ,407|616 ,spoko of poland, dystans: ,87, wysłany: ,2021/02/04 11:32:37, dojdzie: ,2021/02/06,08:52:05, atak z tej wsi: ,3,4
+		Taran, z ,465|593 ,Lord Zygfryd, dystans: ,87, wysłany: ,2021/02/04 12:50:17, dojdzie: ,2021/02/06,10:31:45, atak z tej wsi: ,3,6
+		Taran, z ,351|510 ,Qwasedzx, dystans: ,57, wysłany: ,2021/02/05 06:49:47, dojdzie: ,2021/02/06,12:38:42, atak z tej wsi: ,1,2
+		Taran, z ,465|594 ,jarkeS, dystans: ,88, wysłany: ,2021/02/04 11:39:27, dojdzie: ,2021/02/06,09:43:48, atak z tej wsi: ,2,4
+		Taran, z ,451|571 ,Qhorrin, dystans: ,62, wysłany: ,2021/02/05 00:14:55, dojdzie: ,2021/02/06,08:41:28, atak z tej wsi: ,2,3
+
+	431|518
+		Taran, z ,477|629 ,OrelQ, dystans: ,120, wysłany: ,2021/02/04 00:42:10, dojdzie: ,2021/02/06,15:16:59, atak z tej wsi: ,3,3
+		Taran, z ,427|571 ,FetaAkaMeta, dystans: ,53, wysłany: ,2021/02/05 09:06:10, dojdzie: ,2021/02/06,12:47:07, atak z tej wsi: ,3,4
+		Taran, z ,411|589 ,tu-gina-ludzie, dystans: ,73, wysłany: ,2021/02/04 22:09:57, dojdzie: ,2021/02/06,12:35:02, atak z tej wsi: ,3,4
+		Taran, z ,437|592 ,Hasarin, dystans: ,74, wysłany: ,2021/02/04 21:28:15, dojdzie: ,2021/02/06,12:08:20, atak z tej wsi: ,4,5
+		Taran, z ,411|594 ,Hasarin, dystans: ,78, wysłany: ,2021/02/04 21:32:04, dojdzie: ,2021/02/06,14:27:55, atak z tej wsi: ,4,4
+		Taran, z ,446|590 ,21mati21, dystans: ,73, wysłany: ,2021/02/04 18:21:52, dojdzie: ,2021/02/06,08:40:10, atak z tej wsi: ,1,1
+		Taran, z ,443|594 ,zarowa wielki, dystans: ,76, wysłany: ,2021/02/04 15:28:02, dojdzie: ,2021/02/06,07:32:28, atak z tej wsi: ,1,3
+
+	422|532
+		Taran, z ,460|624 ,OrelQ, dystans: ,99, wysłany: ,2021/02/04 09:34:05, dojdzie: ,2021/02/06,13:24:40, atak z tej wsi: ,2,2
+		Taran, z ,385|604 ,Karłowaty Bór, dystans: ,80, wysłany: ,2021/02/04 21:27:29, dojdzie: ,2021/02/06,15:37:11, atak z tej wsi: ,3,5
+		Taran, z ,461|588 ,spoko of poland, dystans: ,68, wysłany: ,2021/02/04 21:55:36, dojdzie: ,2021/02/06,09:28:10, atak z tej wsi: ,7,15
+		Taran, z ,482|584 ,Waheed, dystans: ,79, wysłany: ,2021/02/04 16:27:01, dojdzie: ,2021/02/06,09:48:12, atak z tej wsi: ,2,4
+
+	426|524
+		Taran, z ,465|595 ,luuko2201, dystans: ,81, wysłany: ,2021/02/04 14:18:57, dojdzie: ,2021/02/06,08:30:24, atak z tej wsi: ,1,3
+		Taran, z ,430|578 ,FetaAkaMeta, dystans: ,54, wysłany: ,2021/02/05 09:03:10, dojdzie: ,2021/02/06,13:15:17, atak z tej wsi: ,3,4
+		Taran, z ,432|580 ,FetaAkaMeta, dystans: ,56, wysłany: ,2021/02/05 09:19:20, dojdzie: ,2021/02/06,14:39:21, atak z tej wsi: ,3,4
+		Taran, z ,401|571 ,Qwasedzx, dystans: ,53, wysłany: ,2021/02/05 06:49:29, dojdzie: ,2021/02/06,10:33:05, atak z tej wsi: ,1,1
+		Taran, z ,469|592 ,21mati21, dystans: ,80, wysłany: ,2021/02/04 18:20:32, dojdzie: ,2021/02/06,12:14:45, atak z tej wsi: ,1,1
+		Taran, z ,421|563 ,Amazingovsky., dystans: ,39, wysłany: ,2021/02/05 11:59:16, dojdzie: ,2021/02/06,08:28:00, atak z tej wsi: ,1,1
+
+	418|531
+		Taran, z ,476|597 ,luuko2201, dystans: ,87, wysłany: ,2021/02/04 14:19:30, dojdzie: ,2021/02/06,12:05:15, atak z tej wsi: ,4,4
+		Taran, z ,385|604 ,Karłowaty Bór, dystans: ,80, wysłany: ,2021/02/04 21:27:40, dojdzie: ,2021/02/06,15:11:11, atak z tej wsi: ,2,5
+		Taran, z ,390|606 ,Karłowaty Bór, dystans: ,80, wysłany: ,2021/02/04 21:28:58, dojdzie: ,2021/02/06,15:10:44, atak z tej wsi: ,2,3
+		Taran, z ,388|615 ,Hasarin, dystans: ,89, wysłany: ,2021/02/04 15:15:16, dojdzie: ,2021/02/06,13:42:39, atak z tej wsi: ,1,3
+		Taran, z ,450|584 ,SweetPain, dystans: ,61, wysłany: ,2021/02/05 04:37:35, dojdzie: ,2021/02/06,12:52:18, atak z tej wsi: ,3,6
+		Taran, z ,378|563 ,Qwasedzx, dystans: ,51, wysłany: ,2021/02/05 06:51:15, dojdzie: ,2021/02/06,09:32:02, atak z tej wsi: ,1,1
+
+	432|524
+		Taran, z ,476|597 ,luuko2201, dystans: ,85, wysłany: ,2021/02/04 14:20:42, dojdzie: ,2021/02/06,10:44:17, atak z tej wsi: ,2,4
+		Taran, z ,407|575 ,FetaAkaMeta, dystans: ,56, wysłany: ,2021/02/05 09:21:26, dojdzie: ,2021/02/06,14:56:22, atak z tej wsi: ,4,4
+		Taran, z ,483|616 ,endyydne, dystans: ,105, wysłany: ,2021/02/04 06:24:14, dojdzie: ,2021/02/06,13:11:25, atak z tej wsi: ,9,11
+		Taran, z ,439|594 ,Hasarin, dystans: ,70, wysłany: ,2021/02/04 21:29:14, dojdzie: ,2021/02/06,10:07:38, atak z tej wsi: ,2,3
+		Taran, z ,473|581 ,Sir Lukas II, dystans: ,70, wysłany: ,2021/02/05 01:28:18, dojdzie: ,2021/02/06,14:02:29, atak z tej wsi: ,1,2
+
+	422|538
+		Taran, z ,439|580 ,FetaAkaMeta, dystans: ,45, wysłany: ,2021/02/05 08:58:12, dojdzie: ,2021/02/06,08:34:08, atak z tej wsi: ,1,5
+		Taran, z ,387|583 ,FetaAkaMeta, dystans: ,57, wysłany: ,2021/02/05 09:12:02, dojdzie: ,2021/02/06,14:53:33, atak z tej wsi: ,4,4
+		Taran, z ,390|605 ,Karłowaty Bór, dystans: ,74, wysłany: ,2021/02/04 21:43:56, dojdzie: ,2021/02/06,12:24:13, atak z tej wsi: ,1,1
+		Taran, z ,411|584 ,tu-gina-ludzie, dystans: ,47, wysłany: ,2021/02/05 10:07:03, dojdzie: ,2021/02/06,10:45:04, atak z tej wsi: ,3,11
+		Taran, z ,464|589 ,spoko of poland, dystans: ,66, wysłany: ,2021/02/04 22:15:41, dojdzie: ,2021/02/06,08:40:19, atak z tej wsi: ,4,12
+		Taran, z ,408|635 ,soyer789, dystans: ,98, wysłany: ,2021/02/04 12:25:13, dojdzie: ,2021/02/06,15:27:52, atak z tej wsi: ,3,4
+		Taran, z ,396|593 ,Sir Lukas II, dystans: ,60, wysłany: ,2021/02/05 01:16:35, dojdzie: ,2021/02/06,08:57:42, atak z tej wsi: ,1,2
+		Taran, z ,373|547 ,Jogurciq, dystans: ,49, wysłany: ,2021/02/05 11:08:49, dojdzie: ,2021/02/06,13:05:41, atak z tej wsi: ,9,12
+
+	427|521
+		Taran, z ,430|579 ,FetaAkaMeta, dystans: ,58, wysłany: ,2021/02/05 09:04:36, dojdzie: ,2021/02/06,15:19:32, atak z tej wsi: ,3,4
+		Taran, z ,424|579 ,FetaAkaMeta, dystans: ,58, wysłany: ,2021/02/05 09:11:13, dojdzie: ,2021/02/06,15:26:08, atak z tej wsi: ,4,4
+		Taran, z ,487|594 ,endyydne, dystans: ,94, wysłany: ,2021/02/04 07:18:41, dojdzie: ,2021/02/06,08:31:36, atak z tej wsi: ,1,4
+		Taran, z ,483|598 ,spoko of poland, dystans: ,95, wysłany: ,2021/02/04 11:37:20, dojdzie: ,2021/02/06,13:12:39, atak z tej wsi: ,4,4
+		Taran, z ,381|564 ,Qwasedzx, dystans: ,62, wysłany: ,2021/02/05 06:51:43, dojdzie: ,2021/02/06,15:39:29, atak z tej wsi: ,1,1
+
+	427|525
+		Taran, z ,432|568 ,FetaAkaMeta, dystans: ,43, wysłany: ,2021/02/05 09:06:36, dojdzie: ,2021/02/06,07:39:24, atak z tej wsi: ,1,3
+		Taran, z ,485|602 ,endyydne, dystans: ,96, wysłany: ,2021/02/04 06:21:43, dojdzie: ,2021/02/06,08:34:14, atak z tej wsi: ,2,10
+		Taran, z ,468|542 ,jarkeS, dystans: ,44, wysłany: ,2021/02/05 13:12:23, dojdzie: ,2021/02/06,12:19:24, atak z tej wsi: ,3,5
+		Taran, z ,484|553 ,Qhorrin, dystans: ,63, wysłany: ,2021/02/05 00:12:21, dojdzie: ,2021/02/06,09:16:54, atak z tej wsi: ,1,5
+		Taran, z ,485|553 ,Qhorrin, dystans: ,64, wysłany: ,2021/02/05 00:13:36, dojdzie: ,2021/02/06,09:46:15, atak z tej wsi: ,1,4
+		Taran, z ,372|598 ,zarowa wielki, dystans: ,91, wysłany: ,2021/02/04 16:08:45, dojdzie: ,2021/02/06,15:45:00, atak z tej wsi: ,2,4
+		Taran, z ,375|544 ,Jogurciq, dystans: ,55, wysłany: ,2021/02/05 10:14:07, dojdzie: ,2021/02/06,15:04:12, atak z tej wsi: ,4,4
+
+	423|531
+		Taran, z ,462|549 ,FetaAkaMeta, dystans: ,42, wysłany: ,2021/02/05 09:17:14, dojdzie: ,2021/02/06,07:39:32, atak z tej wsi: ,1,2
+
+	432|522
+		Taran, z ,427|570 ,FetaAkaMeta, dystans: ,48, wysłany: ,2021/02/05 09:18:43, dojdzie: ,2021/02/06,10:26:50, atak z tej wsi: ,2,5
+		Taran, z ,473|617 ,endyydne, dystans: ,103, wysłany: ,2021/02/04 06:24:46, dojdzie: ,2021/02/06,12:18:12, atak z tej wsi: ,3,5
+		Taran, z ,406|584 ,tu-gina-ludzie, dystans: ,67, wysłany: ,2021/02/04 21:29:37, dojdzie: ,2021/02/06,08:30:35, atak z tej wsi: ,1,5
+		Taran, z ,468|596 ,Lord Zygfryd, dystans: ,82, wysłany: ,2021/02/04 12:44:37, dojdzie: ,2021/02/06,07:36:15, atak z tej wsi: ,1,6
+
+	424|523
+		Taran, z ,432|580 ,FetaAkaMeta, dystans: ,57, wysłany: ,2021/02/05 09:19:30, dojdzie: ,2021/02/06,15:18:12, atak z tej wsi: ,4,4
+		Taran, z ,454|566 ,endyydne, dystans: ,52, wysłany: ,2021/02/05 06:52:26, dojdzie: ,2021/02/06,10:10:54, atak z tej wsi: ,1,2
+		Taran, z ,436|619 ,spoko of poland, dystans: ,96, wysłany: ,2021/02/04 08:31:34, dojdzie: ,2021/02/06,10:54:55, atak z tej wsi: ,5,6
+		Taran, z ,499|528 ,Waheed, dystans: ,75, wysłany: ,2021/02/04 16:32:17, dojdzie: ,2021/02/06,07:41:14, atak z tej wsi: ,1,3
+		Taran, z ,352|557 ,criminals, dystans: ,79, wysłany: ,2021/02/04 19:06:06, dojdzie: ,2021/02/06,12:34:21, atak z tej wsi: ,1,1
+		Taran, z ,377|546 ,Jogurciq, dystans: ,52, wysłany: ,2021/02/05 10:12:42, dojdzie: ,2021/02/06,13:27:53, atak z tej wsi: ,3,5
+
+	431|517
+		Taran, z ,487|594 ,endyydne, dystans: ,95, wysłany: ,2021/02/04 07:19:02, dojdzie: ,2021/02/06,08:54:21, atak z tej wsi: ,3,4
+		Taran, z ,487|583 ,endyydne, dystans: ,86, wysłany: ,2021/02/04 12:08:50, dojdzie: ,2021/02/06,09:13:43, atak z tej wsi: ,3,15
+		Taran, z ,407|604 ,Hasarin, dystans: ,90, wysłany: ,2021/02/04 08:47:14, dojdzie: ,2021/02/06,07:47:32, atak z tej wsi: ,1,4
+		Taran, z ,443|586 ,Hasarin, dystans: ,70, wysłany: ,2021/02/04 21:09:00, dojdzie: ,2021/02/06,09:37:37, atak z tej wsi: ,1,3
+		Taran, z ,416|590 ,Hasarin, dystans: ,74, wysłany: ,2021/02/04 21:30:40, dojdzie: ,2021/02/06,12:19:35, atak z tej wsi: ,3,4
+		Taran, z ,421|598 ,soyer789, dystans: ,81, wysłany: ,2021/02/04 19:29:03, dojdzie: ,2021/02/06,13:59:31, atak z tej wsi: ,6,6
+		Taran, z ,473|570 ,Waheed, dystans: ,67, wysłany: ,2021/02/04 22:05:48, dojdzie: ,2021/02/06,09:19:03, atak z tej wsi: ,2,3
+		Taran, z ,358|569 ,Qwasedzx, dystans: ,89, wysłany: ,2021/02/04 16:49:34, dojdzie: ,2021/02/06,15:30:24, atak z tej wsi: ,2,4
+		Taran, z ,358|569 ,Qwasedzx, dystans: ,89, wysłany: ,2021/02/04 16:50:08, dojdzie: ,2021/02/06,15:30:58, atak z tej wsi: ,3,4
+		Taran, z ,483|581 ,Qhorrin, dystans: ,82, wysłany: ,2021/02/04 18:13:53, dojdzie: ,2021/02/06,13:10:49, atak z tej wsi: ,4,10
+
+	410|536
+		Taran, z ,485|602 ,endyydne, dystans: ,99, wysłany: ,2021/02/04 10:17:02, dojdzie: ,2021/02/06,14:19:04, atak z tej wsi: ,9,10
+		Taran, z ,387|615 ,Hasarin, dystans: ,82, wysłany: ,2021/02/04 15:14:54, dojdzie: ,2021/02/06,10:06:09, atak z tej wsi: ,1,3
+		Taran, z ,358|590 ,Hasarin, dystans: ,74, wysłany: ,2021/02/04 16:39:16, dojdzie: ,2021/02/06,07:41:58, atak z tej wsi: ,1,4
+		Taran, z ,444|604 ,Qhorrin, dystans: ,76, wysłany: ,2021/02/05 00:03:26, dojdzie: ,2021/02/06,15:39:15, atak z tej wsi: ,6,6
+		Taran, z ,392|594 ,Sir Lukas II, dystans: ,60, wysłany: ,2021/02/05 01:32:05, dojdzie: ,2021/02/06,09:09:51, atak z tej wsi: ,1,5
+
+	408|532
+		Taran, z ,471|561 ,endyydne, dystans: ,69, wysłany: ,2021/02/04 22:09:30, dojdzie: ,2021/02/06,10:16:49, atak z tej wsi: ,4,11
+		Taran, z ,472|604 ,spoko of poland, dystans: ,96, wysłany: ,2021/02/04 08:54:55, dojdzie: ,2021/02/06,11:05:19, atak z tej wsi: ,8,10
+		Taran, z ,488|563 ,Waheed, dystans: ,85, wysłany: ,2021/02/04 11:35:59, dojdzie: ,2021/02/06,08:17:07, atak z tej wsi: ,2,3
+		Taran, z ,476|582 ,uzimati, dystans: ,84, wysłany: ,2021/02/04 16:23:53, dojdzie: ,2021/02/06,12:21:31, atak z tej wsi: ,4,5
+
+	428|522
+		Taran, z ,453|563 ,endyydne, dystans: ,48, wysłany: ,2021/02/05 06:52:51, dojdzie: ,2021/02/06,07:53:31, atak z tej wsi: ,2,6
+		Taran, z ,460|609 ,Zelke, dystans: ,92, wysłany: ,2021/02/04 08:49:41, dojdzie: ,2021/02/06,09:06:31, atak z tej wsi: ,1,1
+		Taran, z ,480|569 ,Waheed, dystans: ,70, wysłany: ,2021/02/04 20:15:48, dojdzie: ,2021/02/06,08:46:12, atak z tej wsi: ,1,4
+		Taran, z ,473|576 ,Waheed, dystans: ,70, wysłany: ,2021/02/04 22:06:10, dojdzie: ,2021/02/06,10:42:48, atak z tej wsi: ,2,5
+		Taran, z ,489|569 ,Waheed, dystans: ,77, wysłany: ,2021/02/04 22:37:01, dojdzie: ,2021/02/06,14:43:28, atak z tej wsi: ,2,3
+		Taran, z ,468|542 ,jarkeS, dystans: ,44, wysłany: ,2021/02/05 13:06:17, dojdzie: ,2021/02/06,12:23:50, atak z tej wsi: ,4,5
+
+	418|532
+		Taran, z ,388|605 ,Karłowaty Bór, dystans: ,78, wysłany: ,2021/02/04 21:28:13, dojdzie: ,2021/02/06,14:34:36, atak z tej wsi: ,3,4
+		Taran, z ,472|604 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:55:43, dojdzie: ,2021/02/06,07:48:13, atak z tej wsi: ,2,10
+		Taran, z ,383|561 ,Jogurciq, dystans: ,45, wysłany: ,2021/02/05 10:29:29, dojdzie: ,2021/02/06,10:09:54, atak z tej wsi: ,1,1
+		Taran, z ,377|551 ,Jogurciq, dystans: ,45, wysłany: ,2021/02/05 11:05:49, dojdzie: ,2021/02/06,10:37:57, atak z tej wsi: ,4,16
+		Taran, z ,373|547 ,Jogurciq, dystans: ,47, wysłany: ,2021/02/05 11:09:22, dojdzie: ,2021/02/06,11:51:42, atak z tej wsi: ,7,12
+
+	429|530
+		Taran, z ,461|601 ,Karłowaty Bór, dystans: ,77, wysłany: ,2021/02/04 21:44:58, dojdzie: ,2021/02/06,14:18:39, atak z tej wsi: ,1,3
+		Taran, z ,473|601 ,spoko of poland, dystans: ,83, wysłany: ,2021/02/04 15:09:21, dojdzie: ,2021/02/06,10:39:37, atak z tej wsi: ,2,5
+		Taran, z ,379|566 ,Qwasedzx, dystans: ,61, wysłany: ,2021/02/05 06:51:30, dojdzie: ,2021/02/06,14:56:52, atak z tej wsi: ,1,1
+		Taran, z ,434|574 ,słodkimisiek, dystans: ,44, wysłany: ,2021/02/05 10:55:43, dojdzie: ,2021/02/06,09:59:34, atak z tej wsi: ,2,4
+
+	426|519
+		Taran, z ,472|600 ,tu-gina-ludzie, dystans: ,93, wysłany: ,2021/02/04 09:35:24, dojdzie: ,2021/02/06,10:06:21, atak z tej wsi: ,2,5
+
+	427|519
+		Taran, z ,472|600 ,tu-gina-ludzie, dystans: ,92, wysłany: ,2021/02/04 09:35:58, dojdzie: ,2021/02/06,09:51:36, atak z tej wsi: ,1,5
+
+	444|485
+		Taran, z ,485|571 ,tu-gina-ludzie, dystans: ,95, wysłany: ,2021/02/04 09:42:52, dojdzie: ,2021/02/06,11:20:10, atak z tej wsi: ,1,4
+
+	409|542
+		Taran, z ,484|567 ,tu-gina-ludzie, dystans: ,79, wysłany: ,2021/02/04 16:18:45, dojdzie: ,2021/02/06,09:29:16, atak z tej wsi: ,3,20
+		Taran, z ,393|630 ,Hasarin, dystans: ,89, wysłany: ,2021/02/04 16:33:24, dojdzie: ,2021/02/06,15:08:29, atak z tej wsi: ,3,3
+		Taran, z ,478|593 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 11:33:48, dojdzie: ,2021/02/06,08:15:06, atak z tej wsi: ,1,1
+		Taran, z ,458|585 ,spoko of poland, dystans: ,65, wysłany: ,2021/02/04 22:14:09, dojdzie: ,2021/02/06,08:11:24, atak z tej wsi: ,8,18
+		Taran, z ,373|562 ,Jogurciq, dystans: ,41, wysłany: ,2021/02/05 11:08:32, dojdzie: ,2021/02/06,08:35:29, atak z tej wsi: ,1,1
+
+	406|539
+		Taran, z ,484|567 ,tu-gina-ludzie, dystans: ,82, wysłany: ,2021/02/04 16:19:20, dojdzie: ,2021/02/06,11:29:07, atak z tej wsi: ,6,20
+		Taran, z ,386|623 ,Hasarin, dystans: ,86, wysłany: ,2021/02/04 17:09:17, dojdzie: ,2021/02/06,14:07:40, atak z tej wsi: ,4,5
+		Taran, z ,475|561 ,SweetPain, dystans: ,72, wysłany: ,2021/02/04 20:53:09, dojdzie: ,2021/02/06,10:36:21, atak z tej wsi: ,2,3
+		Taran, z ,447|587 ,SweetPain, dystans: ,63, wysłany: ,2021/02/05 04:45:43, dojdzie: ,2021/02/06,13:38:25, atak z tej wsi: ,1,3
+		Taran, z ,486|571 ,Waheed, dystans: ,86, wysłany: ,2021/02/04 13:21:54, dojdzie: ,2021/02/06,10:14:29, atak z tej wsi: ,3,5
+		Taran, z ,453|609 ,Waheed, dystans: ,84, wysłany: ,2021/02/04 13:23:51, dojdzie: ,2021/02/06,09:18:42, atak z tej wsi: ,1,4
+
+	415|532
+		Taran, z ,389|618 ,Hasarin, dystans: ,89, wysłany: ,2021/02/04 16:19:53, dojdzie: ,2021/02/06,15:07:31, atak z tej wsi: ,2,3
+		Taran, z ,403|625 ,spoko of poland, dystans: ,93, wysłany: ,2021/02/04 08:57:00, dojdzie: ,2021/02/06,09:47:21, atak z tej wsi: ,2,5
+		Taran, z ,377|551 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 11:06:17, dojdzie: ,2021/02/06,09:13:57, atak z tej wsi: ,2,16
+
+	410|535
+		Taran, z ,384|620 ,Hasarin, dystans: ,88, wysłany: ,2021/02/04 17:09:35, dojdzie: ,2021/02/06,15:27:19, atak z tej wsi: ,6,6
+		Taran, z ,352|509 ,Qwasedzx, dystans: ,63, wysłany: ,2021/02/05 06:50:03, dojdzie: ,2021/02/06,15:56:20, atak z tej wsi: ,2,2
+		Taran, z ,483|578 ,Qhorrin, dystans: ,84, wysłany: ,2021/02/04 11:59:20, dojdzie: ,2021/02/06,08:06:55, atak z tej wsi: ,1,5
+
+	436|520
+		Taran, z ,437|592 ,Hasarin, dystans: ,72, wysłany: ,2021/02/04 21:28:05, dojdzie: ,2021/02/06,10:58:18, atak z tej wsi: ,3,5
+		Taran, z ,464|598 ,Lord Zygfryd, dystans: ,82, wysłany: ,2021/02/04 12:45:26, dojdzie: ,2021/02/06,07:55:14, atak z tej wsi: ,2,6
+		Taran, z ,353|567 ,Qwasedzx, dystans: ,95, wysłany: ,2021/02/04 10:59:34, dojdzie: ,2021/02/06,12:40:17, atak z tej wsi: ,3,3
+
+	423|523
+		Taran, z ,454|574 ,SweetPain, dystans: ,59, wysłany: ,2021/02/05 04:14:15, dojdzie: ,2021/02/06,11:19:19, atak z tej wsi: ,2,2
+		Taran, z ,479|587 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 11:30:40, dojdzie: ,2021/02/06,07:48:13, atak z tej wsi: ,4,11
+		Taran, z ,358|569 ,Qwasedzx, dystans: ,79, wysłany: ,2021/02/04 16:49:23, dojdzie: ,2021/02/06,10:17:50, atak z tej wsi: ,1,4
+		Taran, z ,378|546 ,Jogurciq, dystans: ,50, wysłany: ,2021/02/05 11:05:18, dojdzie: ,2021/02/06,13:24:35, atak z tej wsi: ,1,2
+
+	415|531
+		Topór, z ,475|585 ,spoko of poland, dystans: ,80, wysłany: ,2021/02/04 18:50:37, dojdzie: ,2021/02/06,12:53:10, atak z tej wsi: ,4,4
+
+	431|521
+		Taran, z ,477|601 ,mapik777, dystans: ,92, wysłany: ,2021/02/04 10:20:21, dojdzie: ,2021/02/06,10:24:10, atak z tej wsi: ,5,10
+		Taran, z ,445|592 ,mapik777, dystans: ,72, wysłany: ,2021/02/05 00:27:41, dojdzie: ,2021/02/06,14:09:09, atak z tej wsi: ,6,12
+rugasz
+
+	406|561
+		Taran, z ,460|627 ,OrelQ, dystans: ,85, wysłany: ,2021/02/04 18:00:44, dojdzie: ,2021/02/06,14:25:36, atak z tej wsi: ,4,4
+		Taran off, z ,484|563 ,tu-gina-ludzie, dystans: ,78, wysłany: ,2021/02/04 16:15:00, dojdzie: ,2021/02/06,08:53:18, atak z tej wsi: ,1,13
+		Taran, z ,432|599 ,soyer789, dystans: ,46, wysłany: ,2021/02/05 11:35:20, dojdzie: ,2021/02/06,11:34:11, atak z tej wsi: ,2,2
+		Taran, z ,469|589 ,mapik777, dystans: ,68, wysłany: ,2021/02/05 00:28:13, dojdzie: ,2021/02/06,12:22:39, atak z tej wsi: ,6,13
+		Taran, z ,468|561 ,Qhorrin, dystans: ,62, wysłany: ,2021/02/05 00:17:27, dojdzie: ,2021/02/06,08:34:57, atak z tej wsi: ,1,2
+
+	409|562
+		Taran, z ,429|617 ,OrelQ, dystans: ,58, wysłany: ,2021/02/05 08:36:35, dojdzie: ,2021/02/06,15:05:26, atak z tej wsi: ,5,5
+		Taran, z ,400|632 ,Hasarin, dystans: ,70, wysłany: ,2021/02/04 21:33:57, dojdzie: ,2021/02/06,10:19:27, atak z tej wsi: ,2,4
+		Taran, z ,391|604 ,spoko of poland, dystans: ,45, wysłany: ,2021/02/05 09:00:15, dojdzie: ,2021/02/06,08:48:13, atak z tej wsi: ,4,16
+		Taran fejk, z ,480|608 ,Waheed, dystans: ,84, wysłany: ,2021/02/04 13:23:14, dojdzie: ,2021/02/06,09:26:57, atak z tej wsi: ,3,4
+		Taran, z ,465|533 ,Sir Lukas II, dystans: ,63, wysłany: ,2021/02/05 01:27:06, dojdzie: ,2021/02/06,10:17:50, atak z tej wsi: ,1,2
+
+	435|558
+		Taran, z ,439|618 ,OrelQ, dystans: ,60, wysłany: ,2021/02/05 08:37:12, dojdzie: ,2021/02/06,15:56:21, atak z tej wsi: ,1,2
+		Taran, z ,440|632 ,mapik777, dystans: ,74, wysłany: ,2021/02/05 00:24:51, dojdzie: ,2021/02/06,15:02:37, atak z tej wsi: ,4,4
+		Taran, z ,467|600 ,ChudyMaximum, dystans: ,52, wysłany: ,2021/02/05 11:34:20, dojdzie: ,2021/02/06,15:04:23, atak z tej wsi: ,9,13
+
+	401|560
+		Taran, z ,395|616 ,OrelQ, dystans: ,56, wysłany: ,2021/02/05 08:39:21, dojdzie: ,2021/02/06,13:59:22, atak z tej wsi: ,5,6
+		Taran off 3 iz 1 wsi, z ,483|595 ,spoko of poland, dystans: ,89, wysłany: ,2021/02/04 09:01:48, dojdzie: ,2021/02/06,07:27:58, atak z tej wsi: ,1,5
+		Taran, z ,383|609 ,soyer789, dystans: ,52, wysłany: ,2021/02/05 11:36:29, dojdzie: ,2021/02/06,14:47:46, atak z tej wsi: ,2,4
+		Taran, z ,429|613 ,mapik777, dystans: ,59, wysłany: ,2021/02/05 00:25:10, dojdzie: ,2021/02/06,07:38:21, atak z tej wsi: ,1,12
+
+	407|564
+		Taran, z ,395|616 ,OrelQ, dystans: ,53, wysłany: ,2021/02/05 09:54:45, dojdzie: ,2021/02/06,13:42:28, atak z tej wsi: ,4,6
+		Taran, z ,384|600 ,OrelQ, dystans: ,42, wysłany: ,2021/02/05 14:23:16, dojdzie: ,2021/02/06,12:38:16, atak z tej wsi: ,2,6
+		Taran, z ,469|616 ,Karłowaty Bór, dystans: ,80, wysłany: ,2021/02/04 21:47:11, dojdzie: ,2021/02/06,15:55:56, atak z tej wsi: ,2,2
+		Taran, z ,384|607 ,Alexis12213, dystans: ,48, wysłany: ,2021/02/05 13:09:56, dojdzie: ,2021/02/06,14:33:50, atak z tej wsi: ,1,3
+
+	408|563
+		Taran, z ,421|617 ,OrelQ, dystans: ,55, wysłany: ,2021/02/05 10:00:01, dojdzie: ,2021/02/06,14:55:44, atak z tej wsi: ,3,4
+		Taran, z ,394|606 ,OrelQ, dystans: ,45, wysłany: ,2021/02/05 10:01:56, dojdzie: ,2021/02/06,09:35:07, atak z tej wsi: ,1,3
+		Taran, z ,471|592 ,Sir Lukas II, dystans: ,69, wysłany: ,2021/02/05 01:25:15, dojdzie: ,2021/02/06,13:32:34, atak z tej wsi: ,2,2
+
+	408|550
+		Taran, z ,378|590 ,OrelQ, dystans: ,50, wysłany: ,2021/02/05 10:00:44, dojdzie: ,2021/02/06,12:03:14, atak z tej wsi: ,2,6
+		Taran, z ,472|549 ,Sir Lukas II, dystans: ,64, wysłany: ,2021/02/05 01:26:18, dojdzie: ,2021/02/06,10:46:32, atak z tej wsi: ,2,3
+
+	421|558
+		Taran, z ,385|599 ,OrelQ, dystans: ,54, wysłany: ,2021/02/05 10:01:07, dojdzie: ,2021/02/06,14:26:10, atak z tej wsi: ,2,3
+		Taran, z ,468|613 ,Puciaty, dystans: ,72, wysłany: ,2021/02/04 20:34:56, dojdzie: ,2021/02/06,10:15:46, atak z tej wsi: ,1,1
+		Taran, z ,400|606 ,Puciaty, dystans: ,52, wysłany: ,2021/02/05 05:48:20, dojdzie: ,2021/02/06,09:05:37, atak z tej wsi: ,1,1
+		Taran, z ,456|624 ,Karłowaty Bór, dystans: ,74, wysłany: ,2021/02/04 21:40:18, dojdzie: ,2021/02/06,12:34:52, atak z tej wsi: ,1,4
+		Taran, z ,426|611 ,soyer789, dystans: ,53, wysłany: ,2021/02/05 11:30:35, dojdzie: ,2021/02/06,15:14:11, atak z tej wsi: ,2,3
+		Taran, z ,426|609 ,soyer789, dystans: ,51, wysłany: ,2021/02/05 11:33:32, dojdzie: ,2021/02/06,14:14:56, atak z tej wsi: ,2,3
+		Taran, z ,469|566 ,ChudyMaximum, dystans: ,48, wysłany: ,2021/02/05 11:07:18, dojdzie: ,2021/02/06,12:27:59, atak z tej wsi: ,8,15
+		szlachcic, z ,477|506 ,Alexis12213, dystans: ,76, wysłany: ,2021/02/04 17:14:10, dojdzie: ,2021/02/06,09:02:17, atak z tej wsi: ,1,1
+		Taran, z ,457|567 ,Alexis12213, dystans: ,37, wysłany: ,2021/02/05 13:17:12, dojdzie: ,2021/02/06,08:36:50, atak z tej wsi: ,1,1
+		Taran, z ,386|548 ,Alexis12213, dystans: ,36, wysłany: ,2021/02/05 14:29:30, dojdzie: ,2021/02/06,09:27:01, atak z tej wsi: ,3,4
+
+	395|543
+		Taran, z ,382|598 ,OrelQ, dystans: ,56, wysłany: ,2021/02/05 10:02:43, dojdzie: ,2021/02/06,15:28:50, atak z tej wsi: ,3,3
+		Taran, z ,391|600 ,OrelQ, dystans: ,57, wysłany: ,2021/02/05 10:03:57, dojdzie: ,2021/02/06,15:49:35, atak z tej wsi: ,3,3
+		Taran, z ,411|584 ,tu-gina-ludzie, dystans: ,44, wysłany: ,2021/02/05 10:06:22, dojdzie: ,2021/02/06,09:01:43, atak z tej wsi: ,1,11
+		taran fejk, z ,384|620 ,Hasarin, dystans: ,77, wysłany: ,2021/02/04 17:09:25, dojdzie: ,2021/02/06,09:40:05, atak z tej wsi: ,1,6
+		Taran, z ,442|596 ,Hasarin, dystans: ,70, wysłany: ,2021/02/04 21:29:20, dojdzie: ,2021/02/06,10:23:01, atak z tej wsi: ,2,4
+		Taran, z ,404|578 ,Alexis12213, dystans: ,36, wysłany: ,2021/02/05 13:07:38, dojdzie: ,2021/02/06,07:56:58, atak z tej wsi: ,2,3
+		taran fejk, z ,475|571 ,słodkimisiek, dystans: ,84, wysłany: ,2021/02/04 11:26:57, dojdzie: ,2021/02/06,07:35:39, atak z tej wsi: ,1,1
+		Taran, z ,349|572 ,Jogurciq, dystans: ,54, wysłany: ,2021/02/05 11:07:15, dojdzie: ,2021/02/06,15:26:34, atak z tej wsi: ,7,12
+
+	404|552
+		Taran, z ,391|598 ,OrelQ, dystans: ,47, wysłany: ,2021/02/05 10:03:07, dojdzie: ,2021/02/06,10:56:56, atak z tej wsi: ,1,2
+		Taran fejk, z ,395|628 ,Hasarin, dystans: ,76, wysłany: ,2021/02/04 16:21:24, dojdzie: ,2021/02/06,08:12:59, atak z tej wsi: ,1,3
+
+	404|556
+		Taran, z ,389|598 ,OrelQ, dystans: ,44, wysłany: ,2021/02/05 10:03:25, dojdzie: ,2021/02/06,09:17:07, atak z tej wsi: ,1,3
+		Taran fejk, z ,467|626 ,Hasarin, dystans: ,94, wysłany: ,2021/02/04 07:37:59, dojdzie: ,2021/02/06,08:40:58, atak z tej wsi: ,1,4
+		Taran off, z ,486|571 ,Waheed, dystans: ,83, wysłany: ,2021/02/04 13:22:02, dojdzie: ,2021/02/06,08:47:04, atak z tej wsi: ,2,5
+		Taran, z ,466|591 ,Qhorrin, dystans: ,71, wysłany: ,2021/02/04 23:59:54, dojdzie: ,2021/02/06,13:04:48, atak z tej wsi: ,3,6
+
+	404|555
+		Taran, z ,387|604 ,OrelQ, dystans: ,51, wysłany: ,2021/02/05 10:04:06, dojdzie: ,2021/02/06,13:04:54, atak z tej wsi: ,1,2
+		Taran, z ,400|598 ,Puciaty, dystans: ,43, wysłany: ,2021/02/05 14:37:52, dojdzie: ,2021/02/06,13:07:25, atak z tej wsi: ,5,5
+		Taran, z ,453|563 ,endyydne, dystans: ,49, wysłany: ,2021/02/05 06:53:14, dojdzie: ,2021/02/06,08:44:46, atak z tej wsi: ,4,6
+		Taran off, z ,488|563 ,Waheed, dystans: ,84, wysłany: ,2021/02/04 11:36:07, dojdzie: ,2021/02/06,07:32:59, atak z tej wsi: ,1,3
+
+	406|556
+		Taran, z ,405|613 ,OrelQ, dystans: ,57, wysłany: ,2021/02/05 10:07:26, dojdzie: ,2021/02/06,15:48:57, atak z tej wsi: ,3,3
+		Taran off, z ,492|613 ,endyydne, dystans: ,103, wysłany: ,2021/02/04 06:05:51, dojdzie: ,2021/02/06,11:50:04, atak z tej wsi: ,4,4
+		Taran off, z ,482|599 ,zarowa wielki, dystans: ,87, wysłany: ,2021/02/04 15:15:43, dojdzie: ,2021/02/06,12:44:31, atak z tej wsi: ,4,5
+		Taran off, z ,478|605 ,zarowa wielki, dystans: ,87, wysłany: ,2021/02/04 15:16:51, dojdzie: ,2021/02/06,12:38:29, atak z tej wsi: ,5,5
+
+	423|560
+		Taran, z ,473|614 ,Puciaty, dystans: ,73, wysłany: ,2021/02/04 18:42:20, dojdzie: ,2021/02/06,09:02:07, atak z tej wsi: ,1,2
+		Taran, z ,402|598 ,Puciaty, dystans: ,43, wysłany: ,2021/02/05 12:00:27, dojdzie: ,2021/02/06,10:37:13, atak z tej wsi: ,1,1
+		Taran, z ,400|595 ,Puciaty, dystans: ,41, wysłany: ,2021/02/05 12:25:01, dojdzie: ,2021/02/06,10:13:47, atak z tej wsi: ,1,1
+		Taran, z ,486|548 ,Alexis12213, dystans: ,64, wysłany: ,2021/02/05 00:00:06, dojdzie: ,2021/02/06,09:24:15, atak z tej wsi: ,1,1
+		Taran, z ,465|560 ,Alexis12213, dystans: ,42, wysłany: ,2021/02/05 10:46:02, dojdzie: ,2021/02/06,08:38:32, atak z tej wsi: ,1,1
+		Taran, z ,443|589 ,Alexis12213, dystans: ,35, wysłany: ,2021/02/05 14:30:39, dojdzie: ,2021/02/06,08:51:32, atak z tej wsi: ,1,1
+
+	423|558
+		Taran, z ,391|623 ,Puciaty, dystans: ,72, wysłany: ,2021/02/04 19:41:17, dojdzie: ,2021/02/06,09:25:20, atak z tej wsi: ,1,1
+		Taran, z ,483|596 ,Puciaty, dystans: ,71, wysłany: ,2021/02/04 21:03:59, dojdzie: ,2021/02/06,10:03:24, atak z tej wsi: ,1,1
+		Taran, z ,485|586 ,Puciaty, dystans: ,68, wysłany: ,2021/02/04 21:11:10, dojdzie: ,2021/02/06,08:37:05, atak z tej wsi: ,1,1
+		Taran, z ,395|601 ,Puciaty, dystans: ,51, wysłany: ,2021/02/05 06:23:53, dojdzie: ,2021/02/06,09:07:25, atak z tej wsi: ,1,1
+		Taran, z ,459|591 ,Alexis12213, dystans: ,48, wysłany: ,2021/02/05 08:47:37, dojdzie: ,2021/02/06,10:13:45, atak z tej wsi: ,1,1
+		Taran, z ,452|586 ,Alexis12213, dystans: ,40, wysłany: ,2021/02/05 12:39:04, dojdzie: ,2021/02/06,09:38:47, atak z tej wsi: ,1,1
+
+	417|563
+		Taran, z ,479|591 ,Puciaty, dystans: ,68, wysłany: ,2021/02/04 21:05:54, dojdzie: ,2021/02/06,08:31:49, atak z tej wsi: ,1,1
+		Taran off, z ,491|615 ,Alexis12213, dystans: ,90, wysłany: ,2021/02/04 10:28:55, dojdzie: ,2021/02/06,09:35:16, atak z tej wsi: ,1,1
+		Taran off, z ,488|614 ,Alexis12213, dystans: ,87, wysłany: ,2021/02/04 11:40:45, dojdzie: ,2021/02/06,09:12:34, atak z tej wsi: ,1,1
+		Taran, z ,480|536 ,Alexis12213, dystans: ,68, wysłany: ,2021/02/04 22:42:14, dojdzie: ,2021/02/06,10:24:10, atak z tej wsi: ,1,1
+		Taran, z ,470|591 ,Alexis12213, dystans: ,59, wysłany: ,2021/02/05 00:04:08, dojdzie: ,2021/02/06,07:17:19, atak z tej wsi: ,1,1
+		Taran, z ,465|557 ,Alexis12213, dystans: ,48, wysłany: ,2021/02/05 13:10:16, dojdzie: ,2021/02/06,14:21:56, atak z tej wsi: ,1,1
+
+	424|559
+		Taran, z ,390|622 ,Puciaty, dystans: ,71, wysłany: ,2021/02/04 21:19:35, dojdzie: ,2021/02/06,10:36:45, atak z tej wsi: ,1,1
+		Taran, z ,478|589 ,Puciaty, dystans: ,61, wysłany: ,2021/02/05 04:22:27, dojdzie: ,2021/02/06,12:32:53, atak z tej wsi: ,1,1
+		Taran, z ,396|607 ,Puciaty, dystans: ,55, wysłany: ,2021/02/05 04:30:36, dojdzie: ,2021/02/06,09:27:09, atak z tej wsi: ,1,1
+		Taran, z ,401|595 ,Puciaty, dystans: ,42, wysłany: ,2021/02/05 12:22:40, dojdzie: ,2021/02/06,10:37:40, atak z tej wsi: ,3,4
+		Taran, z ,493|544 ,Alexis12213, dystans: ,70, wysłany: ,2021/02/04 21:31:41, dojdzie: ,2021/02/06,10:18:18, atak z tej wsi: ,1,1
+		Taran, z ,460|574 ,Alexis12213, dystans: ,39, wysłany: ,2021/02/05 12:43:49, dojdzie: ,2021/02/06,09:02:34, atak z tej wsi: ,1,1
+
+	421|559
+		Taran, z ,481|586 ,Puciaty, dystans: ,65, wysłany: ,2021/02/04 21:22:10, dojdzie: ,2021/02/06,07:38:16, atak z tej wsi: ,1,1
+		Taran, z ,491|541 ,Alexis12213, dystans: ,72, wysłany: ,2021/02/04 21:29:51, dojdzie: ,2021/02/06,11:08:31, atak z tej wsi: ,1,1
+		Taran, z ,484|587 ,Alexis12213, dystans: ,68, wysłany: ,2021/02/04 21:47:06, dojdzie: ,2021/02/06,09:41:32, atak z tej wsi: ,1,1
+		Taran, z ,487|550 ,Alexis12213, dystans: ,66, wysłany: ,2021/02/04 23:43:02, dojdzie: ,2021/02/06,10:24:38, atak z tej wsi: ,1,1
+		Taran, z ,473|587 ,Alexis12213, dystans: ,59, wysłany: ,2021/02/05 00:25:59, dojdzie: ,2021/02/06,07:11:35, atak z tej wsi: ,1,1
+		Taran, z ,469|580 ,Alexis12213, dystans: ,52, wysłany: ,2021/02/05 08:43:27, dojdzie: ,2021/02/06,12:00:43, atak z tej wsi: ,1,1
+
+	424|558
+		Taran, z ,482|586 ,Puciaty, dystans: ,64, wysłany: ,2021/02/04 21:27:33, dojdzie: ,2021/02/06,07:00:12, atak z tej wsi: ,1,1
+		Taran, z ,400|602 ,Puciaty, dystans: ,50, wysłany: ,2021/02/05 07:50:48, dojdzie: ,2021/02/06,09:57:03, atak z tej wsi: ,1,1
+		Taran, z ,401|600 ,Puciaty, dystans: ,47, wysłany: ,2021/02/05 14:36:28, dojdzie: ,2021/02/06,15:32:52, atak z tej wsi: ,4,4
+		Taran, z ,490|533 ,Alexis12213, dystans: ,70, wysłany: ,2021/02/04 21:30:21, dojdzie: ,2021/02/06,10:15:51, atak z tej wsi: ,1,1
+		Taran, z ,485|546 ,Alexis12213, dystans: ,62, wysłany: ,2021/02/05 00:01:49, dojdzie: ,2021/02/06,08:24:36, atak z tej wsi: ,1,1
+		Taran, z ,470|579 ,Alexis12213, dystans: ,50, wysłany: ,2021/02/05 08:46:48, dojdzie: ,2021/02/06,11:07:01, atak z tej wsi: ,1,1
+		Taran, z ,461|583 ,Alexis12213, dystans: ,44, wysłany: ,2021/02/05 08:51:27, dojdzie: ,2021/02/06,08:06:54, atak z tej wsi: ,1,1
+		Taran, z ,378|551 ,Alexis12213, dystans: ,46, wysłany: ,2021/02/05 13:08:57, dojdzie: ,2021/02/06,13:23:00, atak z tej wsi: ,2,3
+
+	419|564
+		Topór, z ,473|614 ,Puciaty, dystans: ,73, wysłany: ,2021/02/04 23:18:34, dojdzie: ,2021/02/06,13:38:22, atak z tej wsi: ,2,2
+		Taran, z ,400|598 ,Puciaty, dystans: ,38, wysłany: ,2021/02/05 14:38:16, dojdzie: ,2021/02/06,10:55:24, atak z tej wsi: ,3,5
+		Taran, z ,398|594 ,Puciaty, dystans: ,36, wysłany: ,2021/02/05 14:42:11, dojdzie: ,2021/02/06,09:46:33, atak z tej wsi: ,2,3
+		Taran, z ,480|593 ,Alexis12213, dystans: ,67, wysłany: ,2021/02/04 22:56:43, dojdzie: ,2021/02/06,10:07:25, atak z tej wsi: ,1,1
+		Taran, z ,483|546 ,Alexis12213, dystans: ,66, wysłany: ,2021/02/04 23:43:30, dojdzie: ,2021/02/06,10:21:05, atak z tej wsi: ,1,1
+		Taran, z ,476|598 ,Alexis12213, dystans: ,66, wysłany: ,2021/02/04 23:44:35, dojdzie: ,2021/02/06,10:18:39, atak z tej wsi: ,1,1
+		Taran, z ,475|588 ,Alexis12213, dystans: ,60, wysłany: ,2021/02/05 00:03:33, dojdzie: ,2021/02/06,07:47:30, atak z tej wsi: ,1,1
+		Taran, z ,469|587 ,Alexis12213, dystans: ,55, wysłany: ,2021/02/05 05:28:32, dojdzie: ,2021/02/06,10:08:25, atak z tej wsi: ,1,1
+		Taran, z ,454|582 ,Alexis12213, dystans: ,39, wysłany: ,2021/02/05 12:43:09, dojdzie: ,2021/02/06,09:13:04, atak z tej wsi: ,1,1
+		Taran, z ,452|582 ,Alexis12213, dystans: ,37, wysłany: ,2021/02/05 13:15:56, dojdzie: ,2021/02/06,08:50:37, atak z tej wsi: ,1,1
+
+	422|558
+		Taran, z ,394|610 ,Puciaty, dystans: ,59, wysłany: ,2021/02/05 04:23:58, dojdzie: ,2021/02/06,11:09:34, atak z tej wsi: ,1,1
+		Taran, z ,423|613 ,soyer789, dystans: ,55, wysłany: ,2021/02/05 09:17:20, dojdzie: ,2021/02/06,13:56:22, atak z tej wsi: ,1,1
+		Taran, z ,488|525 ,Alexis12213, dystans: ,73, wysłany: ,2021/02/04 18:47:40, dojdzie: ,2021/02/06,09:13:37, atak z tej wsi: ,1,1
+		Taran, z ,467|586 ,Alexis12213, dystans: ,53, wysłany: ,2021/02/05 08:42:52, dojdzie: ,2021/02/06,12:19:07, atak z tej wsi: ,1,1
+		Taran, z ,455|587 ,Alexis12213, dystans: ,43, wysłany: ,2021/02/05 10:34:01, dojdzie: ,2021/02/06,09:26:53, atak z tej wsi: ,1,1
+		Taran, z ,446|585 ,Alexis12213, dystans: ,36, wysłany: ,2021/02/05 14:30:02, dojdzie: ,2021/02/06,09:18:56, atak z tej wsi: ,1,1
+		Taran, z ,453|571 ,Alexis12213, dystans: ,33, wysłany: ,2021/02/05 14:32:29, dojdzie: ,2021/02/06,08:02:58, atak z tej wsi: ,1,1
+
+	425|558
+		Taran, z ,394|608 ,Puciaty, dystans: ,58, wysłany: ,2021/02/05 04:27:27, dojdzie: ,2021/02/06,11:05:54, atak z tej wsi: ,1,1
+		Taran, z ,400|598 ,Puciaty, dystans: ,47, wysłany: ,2021/02/05 08:27:13, dojdzie: ,2021/02/06,09:01:16, atak z tej wsi: ,1,5
+		Taran, z ,488|530 ,Alexis12213, dystans: ,68, wysłany: ,2021/02/04 21:30:48, dojdzie: ,2021/02/06,09:25:14, atak z tej wsi: ,1,1
+		Taran, z ,472|515 ,Alexis12213, dystans: ,63, wysłany: ,2021/02/05 00:00:50, dojdzie: ,2021/02/06,09:11:32, atak z tej wsi: ,1,1
+		Taran, z ,486|549 ,Alexis12213, dystans: ,61, wysłany: ,2021/02/05 00:02:59, dojdzie: ,2021/02/06,08:09:52, atak z tej wsi: ,1,1
+		Taran, z ,381|548 ,Alexis12213, dystans: ,45, wysłany: ,2021/02/05 08:50:57, dojdzie: ,2021/02/06,08:21:01, atak z tej wsi: ,1,1
+
+	424|560
+		Taran, z ,398|600 ,Puciaty, dystans: ,47, wysłany: ,2021/02/05 08:18:02, dojdzie: ,2021/02/06,09:08:53, atak z tej wsi: ,1,1
+		Taran, z ,404|598 ,Puciaty, dystans: ,42, wysłany: ,2021/02/05 12:21:37, dojdzie: ,2021/02/06,10:43:33, atak z tej wsi: ,1,1
+		Taran, z ,494|530 ,Alexis12213, dystans: ,76, wysłany: ,2021/02/04 17:14:52, dojdzie: ,2021/02/06,08:54:48, atak z tej wsi: ,1,1
+		Taran, z ,484|530 ,Alexis12213, dystans: ,67, wysłany: ,2021/02/04 23:42:11, dojdzie: ,2021/02/06,10:38:30, atak z tej wsi: ,1,1
+		Taran, z ,490|548 ,Alexis12213, dystans: ,67, wysłany: ,2021/02/04 23:42:36, dojdzie: ,2021/02/06,10:38:55, atak z tej wsi: ,1,1
+		Taran, z ,478|597 ,Alexis12213, dystans: ,65, wysłany: ,2021/02/04 23:59:03, dojdzie: ,2021/02/06,10:04:40, atak z tej wsi: ,1,1
+
+	418|562
+		Taran, z ,399|600 ,Puciaty, dystans: ,42, wysłany: ,2021/02/05 12:23:42, dojdzie: ,2021/02/06,10:31:22, atak z tej wsi: ,1,1
+		Taran, z ,401|600 ,Puciaty, dystans: ,41, wysłany: ,2021/02/05 12:25:59, dojdzie: ,2021/02/06,10:06:54, atak z tej wsi: ,1,4
+		Taran off, z ,491|532 ,Alexis12213, dystans: ,78, wysłany: ,2021/02/04 16:24:12, dojdzie: ,2021/02/06,09:30:35, atak z tej wsi: ,1,1
+		Taran, z ,477|532 ,Alexis12213, dystans: ,66, wysłany: ,2021/02/04 23:58:36, dojdzie: ,2021/02/06,10:27:00, atak z tej wsi: ,1,1
+		Taran, z ,473|592 ,Alexis12213, dystans: ,62, wysłany: ,2021/02/05 00:01:19, dojdzie: ,2021/02/06,08:39:08, atak z tej wsi: ,1,1
+		Taran, z ,465|572 ,Alexis12213, dystans: ,48, wysłany: ,2021/02/05 08:49:30, dojdzie: ,2021/02/06,09:51:07, atak z tej wsi: ,1,1
+
+	402|557
+		Taran, z ,401|600 ,Puciaty, dystans: ,43, wysłany: ,2021/02/05 14:36:19, dojdzie: ,2021/02/06,13:00:26, atak z tej wsi: ,3,4
+		Taran off, z ,485|602 ,endyydne, dystans: ,94, wysłany: ,2021/02/04 10:17:20, dojdzie: ,2021/02/06,11:27:46, atak z tej wsi: ,7,10
+		Taran, z ,484|567 ,tu-gina-ludzie, dystans: ,82, wysłany: ,2021/02/04 17:41:30, dojdzie: ,2021/02/06,12:42:59, atak z tej wsi: ,9,20
+		Taranoff 3 z tej wsi, z ,483|595 ,spoko of poland, dystans: ,89, wysłany: ,2021/02/04 09:01:41, dojdzie: ,2021/02/06,07:37:39, atak z tej wsi: ,3,5
+		Taran fejk, z ,494|575 ,Waheed, dystans: ,93, wysłany: ,2021/02/04 11:37:06, dojdzie: ,2021/02/06,12:26:36, atak z tej wsi: ,5,5
+		Taran off, z ,489|565 ,Waheed, dystans: ,87, wysłany: ,2021/02/04 11:40:38, dojdzie: ,2021/02/06,09:10:51, atak z tej wsi: ,4,5
+
+	419|563
+		Taran, z ,401|600 ,Puciaty, dystans: ,41, wysłany: ,2021/02/05 14:36:38, dojdzie: ,2021/02/06,12:02:26, atak z tej wsi: ,2,4
+		Taran, z ,401|595 ,Puciaty, dystans: ,36, wysłany: ,2021/02/05 14:36:50, dojdzie: ,2021/02/06,09:44:11, atak z tej wsi: ,2,4
+		Taran, z ,488|570 ,Waheed, dystans: ,69, wysłany: ,2021/02/04 22:41:52, dojdzie: ,2021/02/06,10:49:11, atak z tej wsi: ,1,3
+		Taran, z ,476|594 ,Alexis12213, dystans: ,64, wysłany: ,2021/02/04 23:59:36, dojdzie: ,2021/02/06,09:47:14, atak z tej wsi: ,1,1
+		Taran, z ,473|585 ,Alexis12213, dystans: ,58, wysłany: ,2021/02/05 05:26:11, dojdzie: ,2021/02/06,11:48:21, atak z tej wsi: ,1,1
+		Taran, z ,469|573 ,Alexis12213, dystans: ,50, wysłany: ,2021/02/05 08:44:17, dojdzie: ,2021/02/06,11:17:44, atak z tej wsi: ,1,1
+		Taran, z ,468|576 ,Alexis12213, dystans: ,50, wysłany: ,2021/02/05 08:44:49, dojdzie: ,2021/02/06,11:09:02, atak z tej wsi: ,1,1
+		Taran, z ,378|552 ,Alexis12213, dystans: ,42, wysłany: ,2021/02/05 10:44:43, dojdzie: ,2021/02/06,08:51:17, atak z tej wsi: ,1,1
+
+	410|560
+		Taran, z ,401|595 ,Puciaty, dystans: ,36, wysłany: ,2021/02/05 14:36:57, dojdzie: ,2021/02/06,09:26:17, atak z tej wsi: ,1,4
+		Taran, z ,436|623 ,spoko of poland, dystans: ,68, wysłany: ,2021/02/04 22:16:56, dojdzie: ,2021/02/06,09:46:45, atak z tej wsi: ,2,5
+		Taran, z ,451|590 ,ChudyMaximum, dystans: ,50, wysłany: ,2021/02/05 11:03:53, dojdzie: ,2021/02/06,13:31:29, atak z tej wsi: ,4,5
+
+	407|550
+		Taran, z ,401|595 ,Puciaty, dystans: ,45, wysłany: ,2021/02/05 14:37:15, dojdzie: ,2021/02/06,14:15:56, atak z tej wsi: ,4,4
+		Taran off, z ,484|567 ,tu-gina-ludzie, dystans: ,78, wysłany: ,2021/02/04 16:19:38, dojdzie: ,2021/02/06,09:23:50, atak z tej wsi: ,2,20
+		Taran fejk, z ,394|628 ,Hasarin, dystans: ,79, wysłany: ,2021/02/04 15:35:35, dojdzie: ,2021/02/06,08:46:42, atak z tej wsi: ,2,4
+		Taran fejk, z ,489|598 ,spoko of poland, dystans: ,95, wysłany: ,2021/02/04 11:38:57, dojdzie: ,2021/02/06,13:08:12, atak z tej wsi: ,3,4
+		Taran off, z ,489|586 ,zarowa wielki, dystans: ,89, wysłany: ,2021/02/04 15:48:13, dojdzie: ,2021/02/06,14:26:48, atak z tej wsi: ,6,6
+
+	407|557
+		Taran, z ,400|598 ,Puciaty, dystans: ,41, wysłany: ,2021/02/05 14:38:00, dojdzie: ,2021/02/06,12:17:47, atak z tej wsi: ,4,5
+		Taran, z ,473|595 ,21mati21, dystans: ,76, wysłany: ,2021/02/04 18:20:51, dojdzie: ,2021/02/06,10:00:47, atak z tej wsi: ,1,2
+
+	405|561
+		Taran, z ,400|598 ,Puciaty, dystans: ,37, wysłany: ,2021/02/05 14:38:07, dojdzie: ,2021/02/06,10:04:53, atak z tej wsi: ,2,5
+		Taran, z ,426|610 ,FetaAkaMeta, dystans: ,53, wysłany: ,2021/02/05 09:10:44, dojdzie: ,2021/02/06,12:56:41, atak z tej wsi: ,3,3
+		Taran off, z ,492|613 ,endyydne, dystans: ,101, wysłany: ,2021/02/04 06:05:33, dojdzie: ,2021/02/06,10:52:55, atak z tej wsi: ,3,4
+		Taran, z ,463|593 ,Qhorrin, dystans: ,66, wysłany: ,2021/02/05 00:16:00, dojdzie: ,2021/02/06,10:46:04, atak z tej wsi: ,1,4
+		Taran, z ,471|591 ,uzimati, dystans: ,72, wysłany: ,2021/02/04 20:11:25, dojdzie: ,2021/02/06,09:56:59, atak z tej wsi: ,1,4
+		Taran, z ,473|571 ,Sir Lukas II, dystans: ,68, wysłany: ,2021/02/05 01:24:53, dojdzie: ,2021/02/06,13:12:44, atak z tej wsi: ,1,2
+
+	412|558
+		Taran, z ,398|594 ,Puciaty, dystans: ,38, wysłany: ,2021/02/05 14:39:01, dojdzie: ,2021/02/06,10:46:06, atak z tej wsi: ,3,3
+		Taran off, z ,492|613 ,endyydne, dystans: ,97, wysłany: ,2021/02/04 06:06:19, dojdzie: ,2021/02/06,08:40:09, atak z tej wsi: ,1,4
+		Taran, z ,447|622 ,Karłowaty Bór, dystans: ,72, wysłany: ,2021/02/04 21:31:07, dojdzie: ,2021/02/06,11:30:39, atak z tej wsi: ,2,3
+		Taran, z ,382|620 ,Hasarin, dystans: ,68, wysłany: ,2021/02/04 20:03:56, dojdzie: ,2021/02/06,07:56:20, atak z tej wsi: ,1,4
+		Taran, z ,450|589 ,spoko of poland, dystans: ,49, wysłany: ,2021/02/05 08:39:56, dojdzie: ,2021/02/06,10:12:27, atak z tej wsi: ,1,6
+		Taran, z ,455|583 ,ChudyMaximum, dystans: ,49, wysłany: ,2021/02/05 11:19:08, dojdzie: ,2021/02/06,13:13:30, atak z tej wsi: ,9,17
+		Taran, z ,429|629 ,Qhorrin, dystans: ,73, wysłany: ,2021/02/04 23:58:41, dojdzie: ,2021/02/06,14:00:08, atak z tej wsi: ,3,3
+
+	407|555
+		Taran, z ,454|549 ,FetaAkaMeta, dystans: ,47, wysłany: ,2021/02/05 09:00:30, dojdzie: ,2021/02/06,09:41:10, atak z tej wsi: ,2,5
+		Taran, z ,461|545 ,endyydne, dystans: ,54, wysłany: ,2021/02/05 07:17:43, dojdzie: ,2021/02/06,11:53:55, atak z tej wsi: ,3,3
+		Taran off, z ,484|567 ,tu-gina-ludzie, dystans: ,77, wysłany: ,2021/02/04 16:19:13, dojdzie: ,2021/02/06,08:54:31, atak z tej wsi: ,1,20
+		Taran, z ,466|591 ,Qhorrin, dystans: ,69, wysłany: ,2021/02/05 00:15:49, dojdzie: ,2021/02/06,12:15:41, atak z tej wsi: ,2,6
+		Taran, z ,453|596 ,Sir Lukas II, dystans: ,61, wysłany: ,2021/02/05 01:24:17, dojdzie: ,2021/02/06,09:29:54, atak z tej wsi: ,2,3
+
+	409|555
+		Taran, z ,427|609 ,FetaAkaMeta, dystans: ,56, wysłany: ,2021/02/05 09:13:10, dojdzie: ,2021/02/06,14:51:57, atak z tej wsi: ,3,3
+		Taran, z ,404|634 ,Hasarin, dystans: ,79, wysłany: ,2021/02/04 21:36:40, dojdzie: ,2021/02/06,14:50:22, atak z tej wsi: ,2,4
+		Taran, z ,471|550 ,Sir Lukas II, dystans: ,62, wysłany: ,2021/02/05 01:18:48, dojdzie: ,2021/02/06,09:42:35, atak z tej wsi: ,2,3
+
+	402|541
+		Taran off, z ,482|603 ,endyydne, dystans: ,101, wysłany: ,2021/02/04 06:21:11, dojdzie: ,2021/02/06,11:04:05, atak z tej wsi: ,7,12
+		Taran, z ,411|590 ,tu-gina-ludzie, dystans: ,49, wysłany: ,2021/02/05 13:28:15, dojdzie: ,2021/02/06,15:25:07, atak z tej wsi: ,1,1
+		Taran fejk, z ,395|630 ,Hasarin, dystans: ,89, wysłany: ,2021/02/04 16:34:28, dojdzie: ,2021/02/06,15:04:18, atak z tej wsi: ,3,3
+		Taran, z ,379|616 ,Hasarin, dystans: ,78, wysłany: ,2021/02/04 19:57:53, dojdzie: ,2021/02/06,12:49:22, atak z tej wsi: ,3,5
+		Taran, z ,464|581 ,uzimati, dystans: ,73, wysłany: ,2021/02/05 00:18:14, dojdzie: ,2021/02/06,14:43:58, atak z tej wsi: ,3,4
+		Taran, z ,461|559 ,Sir Lukas II, dystans: ,61, wysłany: ,2021/02/05 01:15:05, dojdzie: ,2021/02/06,09:22:44, atak z tej wsi: ,2,3
+
+	401|555
+		Taran off, z ,490|607 ,endyydne, dystans: ,103, wysłany: ,2021/02/04 06:22:07, dojdzie: ,2021/02/06,12:03:17, atak z tej wsi: ,8,14
+		Taran fejk, z ,467|626 ,Hasarin, dystans: ,96, wysłany: ,2021/02/04 11:33:53, dojdzie: ,2021/02/06,14:03:12, atak z tej wsi: ,3,4
+		Taran fejk, z ,393|630 ,Hasarin, dystans: ,75, wysłany: ,2021/02/04 16:33:13, dojdzie: ,2021/02/06,07:50:16, atak z tej wsi: ,1,3
+		Taran, z ,461|588 ,spoko of poland, dystans: ,68, wysłany: ,2021/02/04 21:55:02, dojdzie: ,2021/02/06,09:34:55, atak z tej wsi: ,9,15
+		Taran, z ,458|585 ,spoko of poland, dystans: ,64, wysłany: ,2021/02/04 22:14:21, dojdzie: ,2021/02/06,07:47:15, atak z tej wsi: ,3,18
+		Taran, z ,429|613 ,mapik777, dystans: ,64, wysłany: ,2021/02/05 00:24:29, dojdzie: ,2021/02/06,09:57:08, atak z tej wsi: ,4,12
+
+	411|553
+		Taran off, z ,490|607 ,endyydne, dystans: ,95, wysłany: ,2021/02/04 08:33:19, dojdzie: ,2021/02/06,10:23:42, atak z tej wsi: ,5,14
+		Taran off, z ,498|532 ,Waheed, dystans: ,89, wysłany: ,2021/02/04 16:33:15, dojdzie: ,2021/02/06,15:10:05, atak z tej wsi: ,3,3
+
+	401|572
+		Taran off, z ,483|616 ,endyydne, dystans: ,93, wysłany: ,2021/02/04 09:31:41, dojdzie: ,2021/02/06,09:59:47, atak z tej wsi: ,4,11
+		Taran, z ,388|605 ,Karłowaty Bór, dystans: ,35, wysłany: ,2021/02/05 14:39:19, dojdzie: ,2021/02/06,09:07:42, atak z tej wsi: ,1,4
+		Taran, z ,436|619 ,spoko of poland, dystans: ,58, wysłany: ,2021/02/05 02:20:28, dojdzie: ,2021/02/06,08:51:44, atak z tej wsi: ,4,6
+		Taran, z ,466|592 ,ChudyMaximum, dystans: ,68, wysłany: ,2021/02/04 20:10:50, dojdzie: ,2021/02/06,07:36:03, atak z tej wsi: ,1,1
+		Taran, z ,443|588 ,zarowa wielki, dystans: ,44, wysłany: ,2021/02/05 08:53:50, dojdzie: ,2021/02/06,08:18:21, atak z tej wsi: ,1,1
+
+	401|549
+		Taran, z ,454|566 ,endyydne, dystans: ,55, wysłany: ,2021/02/05 06:52:34, dojdzie: ,2021/02/06,11:51:56, atak z tej wsi: ,2,2
+		Taran off, z ,490|581 ,spoko of poland, dystans: ,94, wysłany: ,2021/02/04 08:34:35, dojdzie: ,2021/02/06,09:50:08, atak z tej wsi: ,2,4
+		Taran fejk, z ,490|560 ,Waheed, dystans: ,89, wysłany: ,2021/02/04 13:22:17, dojdzie: ,2021/02/06,12:04:42, atak z tej wsi: ,3,5
+		Taran, z ,346|521 ,Qwasedzx, dystans: ,61, wysłany: ,2021/02/05 06:50:45, dojdzie: ,2021/02/06,14:59:24, atak z tej wsi: ,2,2
+		Taran, z ,446|605 ,zarowa wielki, dystans: ,71, wysłany: ,2021/02/04 18:44:55, dojdzie: ,2021/02/06,08:09:55, atak z tej wsi: ,1,3
+
+	403|561
+		Taran, z ,453|563 ,endyydne, dystans: ,50, wysłany: ,2021/02/05 06:53:02, dojdzie: ,2021/02/06,08:56:47, atak z tej wsi: ,5,6
+		Taran, z ,472|581 ,Sir Lukas II, dystans: ,71, wysłany: ,2021/02/05 01:20:34, dojdzie: ,2021/02/06,14:45:34, atak z tej wsi: ,2,2
+		Taran, z ,349|572 ,Jogurciq, dystans: ,55, wysłany: ,2021/02/05 11:07:21, dojdzie: ,2021/02/06,15:49:31, atak z tej wsi: ,8,12
+
+	409|551
+		Taran, z ,461|545 ,endyydne, dystans: ,52, wysłany: ,2021/02/05 07:17:37, dojdzie: ,2021/02/06,10:33:24, atak z tej wsi: ,2,3
+		Taran, z ,473|589 ,mapik777, dystans: ,74, wysłany: ,2021/02/04 19:10:06, dojdzie: ,2021/02/06,09:56:04, atak z tej wsi: ,3,6
+		Taran, z ,452|555 ,ChudyMaximum, dystans: ,43, wysłany: ,2021/02/05 11:08:48, dojdzie: ,2021/02/06,09:38:21, atak z tej wsi: ,8,15
+
+	398|563
+		Taran off, z ,483|618 ,pasztetinio, dystans: ,101, wysłany: ,2021/02/04 06:36:48, dojdzie: ,2021/02/06,11:20:38, atak z tej wsi: ,4,11
+		Taran off, z ,479|587 ,spoko of poland, dystans: ,84, wysłany: ,2021/02/04 11:49:57, dojdzie: ,2021/02/06,07:49:58, atak z tej wsi: ,5,11
+		Taran, z ,466|587 ,spoko of poland, dystans: ,72, wysłany: ,2021/02/04 18:49:43, dojdzie: ,2021/02/06,08:23:12, atak z tej wsi: ,1,4
+		Taran, z ,453|579 ,spoko of poland, dystans: ,57, wysłany: ,2021/02/05 07:08:34, dojdzie: ,2021/02/06,12:58:34, atak z tej wsi: ,5,5
+		Taran off, z ,480|601 ,Lord Zygfryd, dystans: ,90, wysłany: ,2021/02/04 09:25:51, dojdzie: ,2021/02/06,08:30:08, atak z tej wsi: ,1,1
+		Taran off, z ,473|591 ,mapik777, dystans: ,80, wysłany: ,2021/02/04 15:06:23, dojdzie: ,2021/02/06,08:48:08, atak z tej wsi: ,2,5
+		Taran, z ,434|574 ,słodkimisiek, dystans: ,37, wysłany: ,2021/02/05 12:48:35, dojdzie: ,2021/02/06,08:24:55, atak z tej wsi: ,1,4
+		Taran, z ,444|604 ,Qhorrin, dystans: ,61, wysłany: ,2021/02/05 00:02:59, dojdzie: ,2021/02/06,08:08:36, atak z tej wsi: ,2,6
+		Taran, z ,405|617 ,21mati21, dystans: ,54, wysłany: ,2021/02/05 04:47:32, dojdzie: ,2021/02/06,09:09:09, atak z tej wsi: ,1,1
+
+	434|557
+		Taran, z ,389|611 ,Karłowaty Bór, dystans: ,70, wysłany: ,2021/02/04 21:29:24, dojdzie: ,2021/02/06,10:06:02, atak z tej wsi: ,2,4
+		Taran, z ,411|587 ,tu-gina-ludzie, dystans: ,37, wysłany: ,2021/02/05 13:27:06, dojdzie: ,2021/02/06,09:08:25, atak z tej wsi: ,1,3
+		Taran fejk, z ,358|590 ,Hasarin, dystans: ,82, wysłany: ,2021/02/04 16:39:38, dojdzie: ,2021/02/06,11:48:52, atak z tej wsi: ,3,4
+		Taran, z ,391|628 ,Hasarin, dystans: ,83, wysłany: ,2021/02/04 19:58:12, dojdzie: ,2021/02/06,15:12:09, atak z tej wsi: ,4,4
+		Taran, z ,404|577 ,Alexis12213, dystans: ,36, wysłany: ,2021/02/05 13:07:24, dojdzie: ,2021/02/06,07:54:08, atak z tej wsi: ,1,3
+		Taran, z ,361|533 ,criminals, dystans: ,76, wysłany: ,2021/02/04 19:08:41, dojdzie: ,2021/02/06,11:10:03, atak z tej wsi: ,1,1
+
+	402|553
+		Taran off, z ,484|563 ,tu-gina-ludzie, dystans: ,82, wysłany: ,2021/02/04 16:12:05, dojdzie: ,2021/02/06,11:13:34, atak z tej wsi: ,6,13
+		Taran off, z ,483|578 ,Qhorrin, dystans: ,84, wysłany: ,2021/02/04 11:59:30, dojdzie: ,2021/02/06,08:08:34, atak z tej wsi: ,2,5
+		Taran, z ,466|591 ,Qhorrin, dystans: ,74, wysłany: ,2021/02/05 00:00:10, dojdzie: ,2021/02/06,14:46:09, atak z tej wsi: ,6,6
+
+	406|562
+		Taran, z ,484|567 ,tu-gina-ludzie, dystans: ,78, wysłany: ,2021/02/04 17:41:36, dojdzie: ,2021/02/06,10:24:07, atak z tej wsi: ,4,20
+
+	397|548
+		Taran, z ,411|584 ,tu-gina-ludzie, dystans: ,38, wysłany: ,2021/02/05 13:27:00, dojdzie: ,2021/02/06,09:34:04, atak z tej wsi: ,2,11
+		Taran off, z ,490|581 ,spoko of poland, dystans: ,98, wysłany: ,2021/02/04 08:36:00, dojdzie: ,2021/02/06,11:59:47, atak z tej wsi: ,4,4
+		Taran, z ,349|518 ,Qwasedzx, dystans: ,56, wysłany: ,2021/02/05 06:49:39, dojdzie: ,2021/02/06,12:18:31, atak z tej wsi: ,1,2
+		Taran, z ,353|518 ,Qwasedzx, dystans: ,53, wysłany: ,2021/02/05 06:51:03, dojdzie: ,2021/02/06,10:35:15, atak z tej wsi: ,1,1
+		Taran, z ,457|578 ,słodkimisiek, dystans: ,67, wysłany: ,2021/02/04 22:36:55, dojdzie: ,2021/02/06,09:33:14, atak z tej wsi: ,2,3
+		Taran, z ,466|535 ,Sir Lukas II, dystans: ,70, wysłany: ,2021/02/05 01:27:49, dojdzie: ,2021/02/06,14:02:00, atak z tej wsi: ,2,3
+		Taran, z ,353|555 ,Jogurciq, dystans: ,44, wysłany: ,2021/02/05 10:11:34, dojdzie: ,2021/02/06,09:23:52, atak z tej wsi: ,1,4
+		Taran, z ,362|508 ,Jogurciq, dystans: ,53, wysłany: ,2021/02/05 10:14:15, dojdzie: ,2021/02/06,13:55:12, atak z tej wsi: ,8,12
+
+	408|544
+		Taran, z ,410|588 ,tu-gina-ludzie, dystans: ,44, wysłany: ,2021/02/05 13:27:43, dojdzie: ,2021/02/06,12:24:08, atak z tej wsi: ,1,3
+		Taran, z ,472|571 ,Waheed, dystans: ,69, wysłany: ,2021/02/04 22:06:39, dojdzie: ,2021/02/06,10:17:21, atak z tej wsi: ,2,5
+		Taran, z ,369|552 ,Alexis12213, dystans: ,39, wysłany: ,2021/02/05 13:08:12, dojdzie: ,2021/02/06,09:52:19, atak z tej wsi: ,2,3
+
+	404|551
+		Taran fejk, z ,394|628 ,Hasarin, dystans: ,77, wysłany: ,2021/02/04 15:33:18, dojdzie: ,2021/02/06,07:59:46, atak z tej wsi: ,1,4
+		Taran off, z ,479|587 ,spoko of poland, dystans: ,83, wysłany: ,2021/02/04 11:50:55, dojdzie: ,2021/02/06,07:10:41, atak z tej wsi: ,1,11
+		Taran, z ,461|591 ,spoko of poland, dystans: ,69, wysłany: ,2021/02/04 21:44:52, dojdzie: ,2021/02/06,10:00:57, atak z tej wsi: ,9,14
+		Taran, z ,456|545 ,Amazingovsky., dystans: ,52, wysłany: ,2021/02/05 11:57:49, dojdzie: ,2021/02/06,15:13:36, atak z tej wsi: ,1,1
+
+	408|564
+		Taran, z ,400|632 ,Hasarin, dystans: ,68, wysłany: ,2021/02/04 21:34:05, dojdzie: ,2021/02/06,09:13:45, atak z tej wsi: ,1,4
+		Taran off, z ,492|521 ,Waheed, dystans: ,94, wysłany: ,2021/02/04 11:43:39, dojdzie: ,2021/02/06,12:52:36, atak z tej wsi: ,1,1
+		Taran, z ,429|629 ,Qhorrin, dystans: ,68, wysłany: ,2021/02/04 23:58:58, dojdzie: ,2021/02/06,11:33:35, atak z tej wsi: ,1,3
+
+	405|555
+		Taran, z ,404|634 ,Hasarin, dystans: ,79, wysłany: ,2021/02/04 21:36:48, dojdzie: ,2021/02/06,14:45:44, atak z tej wsi: ,1,4
+		Taran, z ,463|599 ,mapik777, dystans: ,72, wysłany: ,2021/02/04 21:37:25, dojdzie: ,2021/02/06,11:32:27, atak z tej wsi: ,3,6
+
+	402|558
+		Taran off, z ,490|581 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:34:41, dojdzie: ,2021/02/06,07:57:04, atak z tej wsi: ,1,4
+		Taran off, z ,472|604 ,spoko of poland, dystans: ,83, wysłany: ,2021/02/04 15:11:27, dojdzie: ,2021/02/06,10:49:00, atak z tej wsi: ,7,10
+		Taran, z ,480|544 ,Waheed, dystans: ,79, wysłany: ,2021/02/04 20:16:24, dojdzie: ,2021/02/06,13:32:51, atak z tej wsi: ,5,5
+
+	399|558
+		Taran off, z ,479|587 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 11:50:24, dojdzie: ,2021/02/06,08:09:35, atak z tej wsi: ,7,11
+		Taran, z ,465|559 ,Qhorrin, dystans: ,66, wysłany: ,2021/02/05 00:13:26, dojdzie: ,2021/02/06,10:36:10, atak z tej wsi: ,2,3
+		Taran, z ,465|584 ,zarowa wielki, dystans: ,70, wysłany: ,2021/02/04 21:47:33, dojdzie: ,2021/02/06,10:44:20, atak z tej wsi: ,5,5
+
+	405|563
+		Taran off, z ,473|601 ,spoko of poland, dystans: ,77, wysłany: ,2021/02/04 15:09:41, dojdzie: ,2021/02/06,07:43:59, atak z tej wsi: ,1,5
+
+	400|556
+		Taran, z ,458|585 ,spoko of poland, dystans: ,64, wysłany: ,2021/02/04 21:56:20, dojdzie: ,2021/02/06,07:42:46, atak z tej wsi: ,2,18
+		Taran, z ,470|577 ,21mati21, dystans: ,73, wysłany: ,2021/02/04 18:20:44, dojdzie: ,2021/02/06,08:24:33, atak z tej wsi: ,1,1
+		Taran, z ,472|540 ,Sir Lukas II, dystans: ,73, wysłany: ,2021/02/05 01:25:45, dojdzie: ,2021/02/06,15:50:38, atak z tej wsi: ,2,2
+
+	403|559
+		Taran, z ,464|589 ,spoko of poland, dystans: ,67, wysłany: ,2021/02/04 22:16:16, dojdzie: ,2021/02/06,09:40:35, atak z tej wsi: ,7,12
+		Taran, z ,383|609 ,soyer789, dystans: ,53, wysłany: ,2021/02/05 11:36:09, dojdzie: ,2021/02/06,15:39:01, atak z tej wsi: ,4,4
+		Taran, z ,434|629 ,Qhorrin, dystans: ,76, wysłany: ,2021/02/05 00:01:49, dojdzie: ,2021/02/06,15:54:14, atak z tej wsi: ,4,5
+		Taran, z ,465|559 ,Qhorrin, dystans: ,62, wysłany: ,2021/02/05 00:13:15, dojdzie: ,2021/02/06,08:30:45, atak z tej wsi: ,1,3
+		Taran, z ,471|550 ,Sir Lukas II, dystans: ,68, wysłany: ,2021/02/05 01:18:32, dojdzie: ,2021/02/06,13:02:04, atak z tej wsi: ,3,3
+		Taran, z ,458|527 ,Sir Lukas II, dystans: ,63, wysłany: ,2021/02/05 01:25:01, dojdzie: ,2021/02/06,10:33:31, atak z tej wsi: ,1,3
+
+	402|559
+		Taran, z ,436|623 ,spoko of poland, dystans: ,72, wysłany: ,2021/02/04 22:17:12, dojdzie: ,2021/02/06,12:01:55, atak z tej wsi: ,4,5
+		Taran, z ,391|604 ,spoko of poland, dystans: ,46, wysłany: ,2021/02/05 09:00:36, dojdzie: ,2021/02/06,09:08:15, atak z tej wsi: ,6,16
+		Taran, z ,341|502 ,criminals, dystans: ,83, wysłany: ,2021/02/04 19:09:05, dojdzie: ,2021/02/06,14:38:02, atak z tej wsi: ,1,1
+		Taran, z ,461|560 ,Sir Lukas II, dystans: ,59, wysłany: ,2021/02/05 01:27:18, dojdzie: ,2021/02/06,08:11:19, atak z tej wsi: ,1,2
+		Taran, z ,353|555 ,Jogurciq, dystans: ,49, wysłany: ,2021/02/05 10:11:48, dojdzie: ,2021/02/06,11:48:08, atak z tej wsi: ,2,4
+
+	407|569
+		Taran, z ,464|589 ,spoko of poland, dystans: ,60, wysłany: ,2021/02/05 02:19:58, dojdzie: ,2021/02/06,09:47:41, atak z tej wsi: ,8,12
+		Taran, z ,426|609 ,soyer789, dystans: ,44, wysłany: ,2021/02/05 11:33:54, dojdzie: ,2021/02/06,10:37:45, atak z tej wsi: ,1,3
+		Taran, z ,480|544 ,Waheed, dystans: ,77, wysłany: ,2021/02/04 20:16:34, dojdzie: ,2021/02/06,12:27:53, atak z tej wsi: ,4,5
+		Taran off, z ,488|538 ,ChudyMaximum, dystans: ,86, wysłany: ,2021/02/04 11:27:18, dojdzie: ,2021/02/06,08:37:36, atak z tej wsi: ,1,1
+		Taran, z ,439|596 ,słodkimisiek, dystans: ,41, wysłany: ,2021/02/05 10:50:58, dojdzie: ,2021/02/06,08:39:22, atak z tej wsi: ,1,1
+		Taran, z ,440|598 ,21mati21, dystans: ,43, wysłany: ,2021/02/05 09:30:23, dojdzie: ,2021/02/06,08:23:15, atak z tej wsi: ,1,2
+		Taran, z ,366|563 ,criminals, dystans: ,41, wysłany: ,2021/02/05 15:10:10, dojdzie: ,2021/02/06,12:45:04, atak z tej wsi: ,1,2
+		Taran, z ,422|616 ,sliwastaremiasto, dystans: ,49, wysłany: ,2021/02/05 11:25:29, dojdzie: ,2021/02/06,13:07:13, atak z tej wsi: ,1,1
+
+	402|563
+		Taran, z ,450|589 ,spoko of poland, dystans: ,54, wysłany: ,2021/02/05 08:39:23, dojdzie: ,2021/02/06,13:05:18, atak z tej wsi: ,6,6
+		Taran, z ,426|611 ,soyer789, dystans: ,53, wysłany: ,2021/02/05 11:30:50, dojdzie: ,2021/02/06,15:27:53, atak z tej wsi: ,3,3
+		Taran off, z ,485|581 ,Waheed, dystans: ,84, wysłany: ,2021/02/04 16:27:46, dojdzie: ,2021/02/06,12:41:49, atak z tej wsi: ,4,4
+		Taran off, z ,478|605 ,zarowa wielki, dystans: ,86, wysłany: ,2021/02/04 15:16:34, dojdzie: ,2021/02/06,12:30:07, atak z tej wsi: ,4,5
+		Taran, z ,465|584 ,zarowa wielki, dystans: ,66, wysłany: ,2021/02/04 21:47:04, dojdzie: ,2021/02/06,08:22:19, atak z tej wsi: ,2,5
+		Taran, z ,461|558 ,Sir Lukas II, dystans: ,59, wysłany: ,2021/02/05 01:21:19, dojdzie: ,2021/02/06,08:11:40, atak z tej wsi: ,1,2
+
+	406|563
+		Taran, z ,450|589 ,spoko of poland, dystans: ,51, wysłany: ,2021/02/05 08:39:45, dojdzie: ,2021/02/06,11:16:52, atak z tej wsi: ,3,6
+		Taran off, z ,495|527 ,Waheed, dystans: ,96, wysłany: ,2021/02/04 11:43:31, dojdzie: ,2021/02/06,13:43:40, atak z tej wsi: ,1,1
+		Taran off wieksze pół, z ,487|560 ,Waheed, dystans: ,81, wysłany: ,2021/02/04 13:44:48, dojdzie: ,2021/02/06,07:57:47, atak z tej wsi: ,1,4
+		Taran, z ,432|612 ,słodkimisiek, dystans: ,55, wysłany: ,2021/02/05 10:49:15, dojdzie: ,2021/02/06,15:42:43, atak z tej wsi: ,2,2
+		Taran off, z ,482|599 ,zarowa wielki, dystans: ,84, wysłany: ,2021/02/04 15:15:14, dojdzie: ,2021/02/06,11:03:13, atak z tej wsi: ,2,5
+		Taran off, z ,478|605 ,zarowa wielki, dystans: ,83, wysłany: ,2021/02/04 15:16:25, dojdzie: ,2021/02/06,10:41:15, atak z tej wsi: ,1,5
+
+	410|561
+		Taran, z ,391|606 ,spoko of poland, dystans: ,48, wysłany: ,2021/02/05 10:50:29, dojdzie: ,2021/02/06,12:16:57, atak z tej wsi: ,9,15
+		Taran, z ,484|553 ,Qhorrin, dystans: ,74, wysłany: ,2021/02/05 00:12:12, dojdzie: ,2021/02/06,14:58:11, atak z tej wsi: ,4,5
+
+	396|543
+		Taran off, z ,464|598 ,Lord Zygfryd, dystans: ,87, wysłany: ,2021/02/04 12:47:01, dojdzie: ,2021/02/06,10:20:06, atak z tej wsi: ,4,6
+		Taran off, z ,465|593 ,Lord Zygfryd, dystans: ,85, wysłany: ,2021/02/04 12:50:10, dojdzie: ,2021/02/06,09:13:02, atak z tej wsi: ,2,6
+		Taran, z ,477|572 ,mapik777, dystans: ,86, wysłany: ,2021/02/04 17:33:01, dojdzie: ,2021/02/06,14:21:37, atak z tej wsi: ,4,6
+		Taran, z ,454|560 ,Qhorrin, dystans: ,60, wysłany: ,2021/02/05 00:11:47, dojdzie: ,2021/02/06,07:40:32, atak z tej wsi: ,1,4
+
+	403|552
+		Taran fejk, z ,494|565 ,Waheed, dystans: ,91, wysłany: ,2021/02/04 11:37:29, dojdzie: ,2021/02/06,11:30:07, atak z tej wsi: ,2,4
+		Taran, z ,466|591 ,Qhorrin, dystans: ,74, wysłany: ,2021/02/05 00:00:20, dojdzie: ,2021/02/06,14:35:47, atak z tej wsi: ,5,6
+
+	408|566
+		Taran off, z ,499|528 ,Waheed, dystans: ,98, wysłany: ,2021/02/04 11:43:52, dojdzie: ,2021/02/06,15:05:35, atak z tej wsi: ,3,3
+		Taran, z ,472|602 ,Sir Lukas II, dystans: ,73, wysłany: ,2021/02/05 01:29:06, dojdzie: ,2021/02/06,15:43:48, atak z tej wsi: ,4,4
+		Taran, z ,373|547 ,Jogurciq, dystans: ,39, wysłany: ,2021/02/05 11:09:16, dojdzie: ,2021/02/06,07:53:47, atak z tej wsi: ,3,12
+
+	410|549
+		Taran off, z ,482|587 ,Waheed, dystans: ,81, wysłany: ,2021/02/04 16:28:16, dojdzie: ,2021/02/06,10:52:24, atak z tej wsi: ,2,4
+		Taran, z ,369|552 ,Alexis12213, dystans: ,41, wysłany: ,2021/02/05 13:08:03, dojdzie: ,2021/02/06,10:32:43, atak z tej wsi: ,3,3
+		Taran, z ,452|598 ,Sir Lukas II, dystans: ,64, wysłany: ,2021/02/05 01:29:41, dojdzie: ,2021/02/06,11:06:27, atak z tej wsi: ,2,5
+		Taran, z ,408|595 ,Amazingovsky., dystans: ,46, wysłany: ,2021/02/05 11:57:14, dojdzie: ,2021/02/06,11:56:06, atak z tej wsi: ,1,1
+
+	415|560
+		Taran, z ,480|588 ,Waheed, dystans: ,70, wysłany: ,2021/02/04 22:40:45, dojdzie: ,2021/02/06,11:32:27, atak z tej wsi: ,1,4
+		Taran, z ,444|571 ,ChudyMaximum, dystans: ,31, wysłany: ,2021/02/05 14:55:45, dojdzie: ,2021/02/06,07:05:00, atak z tej wsi: ,1,16
+
+	415|561
+		Taran, z ,488|570 ,Waheed, dystans: ,73, wysłany: ,2021/02/04 22:41:43, dojdzie: ,2021/02/06,13:00:15, atak z tej wsi: ,2,3
+
+	425|560
+		Taran, z ,490|537 ,Alexis12213, dystans: ,68, wysłany: ,2021/02/04 21:46:09, dojdzie: ,2021/02/06,09:40:49, atak z tej wsi: ,1,1
+		Taran, z ,386|608 ,Alexis12213, dystans: ,61, wysłany: ,2021/02/05 00:02:23, dojdzie: ,2021/02/06,08:15:05, atak z tej wsi: ,1,1
+		Taran, z ,468|583 ,Alexis12213, dystans: ,48, wysłany: ,2021/02/05 08:48:09, dojdzie: ,2021/02/06,10:12:03, atak z tej wsi: ,1,1
+		Taran, z ,465|586 ,Alexis12213, dystans: ,47, wysłany: ,2021/02/05 08:49:58, dojdzie: ,2021/02/06,09:40:50, atak z tej wsi: ,1,1
+		Taran, z ,447|586 ,Alexis12213, dystans: ,34, wysłany: ,2021/02/05 14:32:02, dojdzie: ,2021/02/06,08:16:23, atak z tej wsi: ,1,1
+
+	416|525
+		Taran, z ,378|556 ,Alexis12213, dystans: ,49, wysłany: ,2021/02/05 13:09:17, dojdzie: ,2021/02/06,14:41:49, atak z tej wsi: ,3,3
+
+	403|558
+		Taran, z ,483|581 ,Qhorrin, dystans: ,83, wysłany: ,2021/02/04 18:13:19, dojdzie: ,2021/02/06,13:34:35, atak z tej wsi: ,5,10
+		Taran, z ,464|581 ,uzimati, dystans: ,65, wysłany: ,2021/02/05 00:25:26, dojdzie: ,2021/02/06,10:22:41, atak z tej wsi: ,1,4
+
+	406|550
+		Taran, z ,444|604 ,Qhorrin, dystans: ,66, wysłany: ,2021/02/05 00:03:53, dojdzie: ,2021/02/06,10:27:20, atak z tej wsi: ,3,6
+
+	403|560
+		Taran, z ,474|560 ,uzimati, dystans: ,71, wysłany: ,2021/02/04 20:13:05, dojdzie: ,2021/02/06,09:11:50, atak z tej wsi: ,2,4
+
+	397|558
+		Taran, z ,461|557 ,Sir Lukas II, dystans: ,64, wysłany: ,2021/02/05 01:26:09, dojdzie: ,2021/02/06,10:46:23, atak z tej wsi: ,1,2
+
+	400|558
+		Taran, z ,461|559 ,Sir Lukas II, dystans: ,61, wysłany: ,2021/02/05 01:30:28, dojdzie: ,2021/02/06,09:16:58, atak z tej wsi: ,1,3
+DORODNY_OCHOTNIK
+
+	388|541
+		Zwiad, z ,526|655 ,Lord kamikadze161616, dystans: ,178, wysłany: ,2021/02/02 12:43:58, dojdzie: ,2021/02/06,09:57:37, atak z tej wsi: ,1,1
+		Taran, z ,395|588 ,FetaAkaMeta, dystans: ,47, wysłany: ,2021/02/05 09:11:44, dojdzie: ,2021/02/06,09:56:41, atak z tej wsi: ,2,5
+		Taran, z ,393|630 ,Hasarin, dystans: ,89, wysłany: ,2021/02/04 16:33:37, dojdzie: ,2021/02/06,14:59:16, atak z tej wsi: ,2,3
+		Taran, z ,475|585 ,spoko of poland, dystans: ,97, wysłany: ,2021/02/04 08:31:14, dojdzie: ,2021/02/06,11:17:54, atak z tej wsi: ,2,4
+		Taran, z ,464|589 ,spoko of poland, dystans: ,89, wysłany: ,2021/02/04 08:58:10, dojdzie: ,2021/02/06,07:47:11, atak z tej wsi: ,1,12
+		Taran, z ,466|586 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 11:40:20, dojdzie: ,2021/02/06,10:34:23, atak z tej wsi: ,3,3
+		Taran, z ,464|584 ,jarkeS, dystans: ,87, wysłany: ,2021/02/04 11:36:32, dojdzie: ,2021/02/06,09:05:19, atak z tej wsi: ,1,2
+		Taran, z ,471|583 ,jarkeS, dystans: ,93, wysłany: ,2021/02/04 11:38:28, dojdzie: ,2021/02/06,12:05:23, atak z tej wsi: ,2,4
+		Taran, z ,445|568 ,Qhorrin, dystans: ,63, wysłany: ,2021/02/05 00:09:46, dojdzie: ,2021/02/06,09:00:45, atak z tej wsi: ,2,3
+
+	455|545
+		Taran, z ,459|638 ,OrelQ, dystans: ,93, wysłany: ,2021/02/04 14:34:32, dojdzie: ,2021/02/06,15:03:29, atak z tej wsi: ,2,4
+		Taran, z ,413|537 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:54:26, dojdzie: ,2021/02/06,09:10:32, atak z tej wsi: ,7,16
+
+	455|541
+		Taran, z ,494|620 ,OrelQ, dystans: ,88, wysłany: ,2021/02/04 17:59:43, dojdzie: ,2021/02/06,15:52:54, atak z tej wsi: ,2,2
+
+	458|540
+		Taran, z ,486|619 ,OrelQ, dystans: ,83, wysłany: ,2021/02/04 17:59:49, dojdzie: ,2021/02/06,13:39:02, atak z tej wsi: ,3,3
+		Taran, z ,415|599 ,soyer789, dystans: ,73, wysłany: ,2021/02/04 21:51:05, dojdzie: ,2021/02/06,11:52:33, atak z tej wsi: ,1,3
+
+	470|546
+		Taran, z ,494|621 ,OrelQ, dystans: ,78, wysłany: ,2021/02/04 18:00:38, dojdzie: ,2021/02/06,11:01:28, atak z tej wsi: ,3,3
+		Taran, z ,406|596 ,Hasarin, dystans: ,81, wysłany: ,2021/02/04 15:10:15, dojdzie: ,2021/02/06,09:28:14, atak z tej wsi: ,2,6
+		Taran, z ,421|598 ,soyer789, dystans: ,71, wysłany: ,2021/02/04 19:28:52, dojdzie: ,2021/02/06,08:41:40, atak z tej wsi: ,1,6
+		Taran, z ,460|595 ,ChudyMaximum, dystans: ,50, wysłany: ,2021/02/05 11:44:07, dojdzie: ,2021/02/06,13:46:56, atak z tej wsi: ,4,14
+		Taran, z ,478|590 ,ChudyMaximum, dystans: ,44, wysłany: ,2021/02/05 12:02:47, dojdzie: ,2021/02/06,11:20:20, atak z tej wsi: ,3,13
+		Taran, z ,428|555 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:35:31, dojdzie: ,2021/02/06,08:57:48, atak z tej wsi: ,4,10
+
+	459|543
+		Taran, z ,494|615 ,OrelQ, dystans: ,80, wysłany: ,2021/02/04 18:01:45, dojdzie: ,2021/02/06,11:43:30, atak z tej wsi: ,1,6
+		Taran, z ,473|619 ,Karłowaty Bór, dystans: ,77, wysłany: ,2021/02/04 21:50:16, dojdzie: ,2021/02/06,14:05:14, atak z tej wsi: ,1,2
+		Taran, z ,408|613 ,Hasarin, dystans: ,86, wysłany: ,2021/02/04 15:13:50, dojdzie: ,2021/02/06,12:20:21, atak z tej wsi: ,3,5
+
+	453|539
+		Taran, z ,429|617 ,OrelQ, dystans: ,81, wysłany: ,2021/02/04 18:02:24, dojdzie: ,2021/02/06,12:32:40, atak z tej wsi: ,1,5
+		Taran, z ,408|551 ,Amazingovsky., dystans: ,46, wysłany: ,2021/02/05 11:56:11, dojdzie: ,2021/02/06,12:11:34, atak z tej wsi: ,1,1
+
+	459|549
+		Taran, z ,480|629 ,OrelQ, dystans: ,82, wysłany: ,2021/02/04 18:03:00, dojdzie: ,2021/02/06,13:07:42, atak z tej wsi: ,1,1
+		Taran, z ,391|606 ,spoko of poland, dystans: ,88, wysłany: ,2021/02/04 11:55:24, dojdzie: ,2021/02/06,10:08:13, atak z tej wsi: ,4,15
+		Taran, z ,478|590 ,ChudyMaximum, dystans: ,45, wysłany: ,2021/02/05 12:02:35, dojdzie: ,2021/02/06,11:34:43, atak z tej wsi: ,4,13
+
+	460|526
+		Taran, z ,475|611 ,OrelQ, dystans: ,86, wysłany: ,2021/02/04 18:04:13, dojdzie: ,2021/02/06,15:01:30, atak z tej wsi: ,1,2
+		Taran, z ,425|632 ,luuko2201, dystans: ,111, wysłany: ,2021/02/04 00:43:47, dojdzie: ,2021/02/06,10:52:11, atak z tej wsi: ,2,5
+		Taran, z ,438|573 ,FetaAkaMeta, dystans: ,51, wysłany: ,2021/02/05 09:16:10, dojdzie: ,2021/02/06,12:17:51, atak z tej wsi: ,4,5
+		Taran, z ,461|591 ,spoko of poland, dystans: ,65, wysłany: ,2021/02/04 21:44:41, dojdzie: ,2021/02/06,07:36:11, atak z tej wsi: ,1,14
+		Taran, z ,469|566 ,ChudyMaximum, dystans: ,41, wysłany: ,2021/02/05 11:06:43, dojdzie: ,2021/02/06,08:27:58, atak z tej wsi: ,4,15
+
+	453|557
+		Taran, z ,444|610 ,OrelQ, dystans: ,53, wysłany: ,2021/02/05 08:37:45, dojdzie: ,2021/02/06,12:37:43, atak z tej wsi: ,1,3
+		Taran, z ,391|605 ,Karłowaty Bór, dystans: ,78, wysłany: ,2021/02/04 21:28:28, dojdzie: ,2021/02/06,14:18:46, atak z tej wsi: ,4,4
+		Taran, z ,472|600 ,tu-gina-ludzie, dystans: ,47, wysłany: ,2021/02/05 13:25:16, dojdzie: ,2021/02/06,13:54:21, atak z tej wsi: ,5,5
+		Taran, z ,394|627 ,Hasarin, dystans: ,91, wysłany: ,2021/02/04 15:15:57, dojdzie: ,2021/02/06,14:56:49, atak z tej wsi: ,1,3
+		Taran, z ,414|645 ,soyer789, dystans: ,96, wysłany: ,2021/02/04 12:23:17, dojdzie: ,2021/02/06,14:31:14, atak z tej wsi: ,1,11
+		Taran, z ,462|629 ,mapik777, dystans: ,72, wysłany: ,2021/02/05 00:34:35, dojdzie: ,2021/02/06,14:22:06, atak z tej wsi: ,7,10
+		Taran, z ,373|561 ,Qwasedzx, dystans: ,80, wysłany: ,2021/02/04 16:52:21, dojdzie: ,2021/02/06,10:35:28, atak z tej wsi: ,1,3
+		Taran, z ,460|595 ,ChudyMaximum, dystans: ,38, wysłany: ,2021/02/05 11:43:57, dojdzie: ,2021/02/06,07:51:26, atak z tej wsi: ,1,14
+		Taran, z ,471|515 ,jarkeS, dystans: ,45, wysłany: ,2021/02/05 13:12:37, dojdzie: ,2021/02/06,13:00:34, atak z tej wsi: ,4,5
+		Taran, z ,434|629 ,Qhorrin, dystans: ,74, wysłany: ,2021/02/05 00:02:02, dojdzie: ,2021/02/06,14:49:03, atak z tej wsi: ,3,5
+
+	456|535
+		Taran, z ,463|591 ,OrelQ, dystans: ,56, wysłany: ,2021/02/05 09:59:31, dojdzie: ,2021/02/06,15:23:08, atak z tej wsi: ,2,3
+		Taran, z ,462|608 ,21mati21, dystans: ,73, wysłany: ,2021/02/04 18:26:13, dojdzie: ,2021/02/06,08:35:09, atak z tej wsi: ,1,2
+		Taran, z ,472|595 ,Sir Lukas II, dystans: ,62, wysłany: ,2021/02/05 01:17:48, dojdzie: ,2021/02/06,09:38:19, atak z tej wsi: ,1,4
+
+	455|538
+		Taran, z ,480|587 ,OrelQ, dystans: ,55, wysłany: ,2021/02/05 09:59:46, dojdzie: ,2021/02/06,14:38:48, atak z tej wsi: ,3,4
+
+	466|543
+		Taran, z ,498|590 ,OrelQ, dystans: ,56, wysłany: ,2021/02/05 10:01:19, dojdzie: ,2021/02/06,15:38:11, atak z tej wsi: ,1,2
+
+	381|549
+		Taran, z ,414|583 ,OrelQ, dystans: ,47, wysłany: ,2021/02/05 10:01:48, dojdzie: ,2021/02/06,10:42:28, atak z tej wsi: ,2,4
+		Taran, z ,394|628 ,Hasarin, dystans: ,80, wysłany: ,2021/02/04 15:33:27, dojdzie: ,2021/02/06,09:15:24, atak z tej wsi: ,3,4
+		Taran, z ,472|558 ,SweetPain, dystans: ,91, wysłany: ,2021/02/04 16:11:28, dojdzie: ,2021/02/06,15:49:05, atak z tej wsi: ,2,2
+		Taran, z ,458|585 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 11:39:46, dojdzie: ,2021/02/06,07:56:01, atak z tej wsi: ,5,18
+		Taran, z ,460|572 ,Lord Zygfryd, dystans: ,82, wysłany: ,2021/02/04 12:49:09, dojdzie: ,2021/02/06,07:40:24, atak z tej wsi: ,1,4
+		Taran, z ,465|593 ,Lord Zygfryd, dystans: ,94, wysłany: ,2021/02/04 12:50:04, dojdzie: ,2021/02/06,14:13:24, atak z tej wsi: ,6,6
+		Taran, z ,460|579 ,jarkeS, dystans: ,84, wysłany: ,2021/02/04 11:36:51, dojdzie: ,2021/02/06,07:37:37, atak z tej wsi: ,2,3
+		Taran, z ,456|552 ,Qhorrin, dystans: ,75, wysłany: ,2021/02/05 00:12:58, dojdzie: ,2021/02/06,15:18:36, atak z tej wsi: ,4,4
+		Taran, z ,336|541 ,Jogurciq, dystans: ,45, wysłany: ,2021/02/05 10:31:41, dojdzie: ,2021/02/06,10:19:59, atak z tej wsi: ,3,10
+
+	459|533
+		Taran, z ,437|624 ,luuko2201, dystans: ,93, wysłany: ,2021/02/04 14:17:53, dojdzie: ,2021/02/06,15:03:34, atak z tej wsi: ,3,5
+
+	387|547
+		Taran, z ,425|632 ,luuko2201, dystans: ,93, wysłany: ,2021/02/04 14:18:19, dojdzie: ,2021/02/06,14:47:55, atak z tej wsi: ,5,5
+		Taran, z ,489|580 ,tu-gina-ludzie, dystans: ,107, wysłany: ,2021/02/04 07:31:20, dojdzie: ,2021/02/06,15:21:30, atak z tej wsi: ,4,4
+		Taran, z ,467|556 ,SweetPain, dystans: ,80, wysłany: ,2021/02/04 16:10:54, dojdzie: ,2021/02/06,10:06:40, atak z tej wsi: ,1,3
+		Taran, z ,478|564 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 08:36:16, dojdzie: ,2021/02/06,08:49:13, atak z tej wsi: ,2,4
+		Taran, z ,474|583 ,spoko of poland, dystans: ,94, wysłany: ,2021/02/04 08:59:36, dojdzie: ,2021/02/06,10:01:55, atak z tej wsi: ,1,1
+		Taran, z ,347|563 ,soyer789, dystans: ,43, wysłany: ,2021/02/05 09:15:56, dojdzie: ,2021/02/06,07:42:13, atak z tej wsi: ,1,3
+		Taran, z ,465|593 ,Lord Zygfryd, dystans: ,90, wysłany: ,2021/02/04 12:49:40, dojdzie: ,2021/02/06,11:59:29, atak z tej wsi: ,4,6
+		Taran, z ,454|560 ,Qhorrin, dystans: ,68, wysłany: ,2021/02/05 00:11:18, dojdzie: ,2021/02/06,11:44:06, atak z tej wsi: ,3,4
+		Taran, z ,342|559 ,Jogurciq, dystans: ,46, wysłany: ,2021/02/05 11:06:45, dojdzie: ,2021/02/06,11:22:08, atak z tej wsi: ,1,2
+
+	468|539
+		Taran, z ,371|594 ,FetaAkaMeta, dystans: ,111, wysłany: ,2021/02/04 02:31:03, dojdzie: ,2021/02/06,12:35:40, atak z tej wsi: ,4,6
+		Taran, z ,438|580 ,FetaAkaMeta, dystans: ,50, wysłany: ,2021/02/05 09:02:21, dojdzie: ,2021/02/06,11:29:57, atak z tej wsi: ,2,5
+		Taran, z ,406|594 ,Hasarin, dystans: ,82, wysłany: ,2021/02/04 15:09:27, dojdzie: ,2021/02/06,10:19:26, atak z tej wsi: ,1,3
+		Taran, z ,428|626 ,Waheed, dystans: ,95, wysłany: ,2021/02/04 13:25:26, dojdzie: ,2021/02/06,15:17:46, atak z tej wsi: ,4,4
+		Taran, z ,469|589 ,mapik777, dystans: ,50, wysłany: ,2021/02/05 11:13:01, dojdzie: ,2021/02/06,13:15:50, atak z tej wsi: ,8,13
+		Taran, z ,395|571 ,piterb, dystans: ,79, wysłany: ,2021/02/04 15:22:49, dojdzie: ,2021/02/06,08:53:37, atak z tej wsi: ,1,1
+		Taran, z ,414|539 ,carl997, dystans: ,54, wysłany: ,2021/02/05 03:27:51, dojdzie: ,2021/02/06,07:35:21, atak z tej wsi: ,1,1
+
+	456|515
+		Taran, z ,430|616 ,FetaAkaMeta, dystans: ,104, wysłany: ,2021/02/04 02:32:30, dojdzie: ,2021/02/06,08:51:39, atak z tej wsi: ,1,3
+		Taran, z ,383|588 ,FetaAkaMeta, dystans: ,103, wysłany: ,2021/02/04 02:33:17, dojdzie: ,2021/02/06,08:19:28, atak z tej wsi: ,2,4
+		Taran, z ,441|601 ,Hasarin, dystans: ,87, wysłany: ,2021/02/04 11:30:51, dojdzie: ,2021/02/06,08:58:55, atak z tej wsi: ,2,2
+		Taran, z ,416|590 ,Hasarin, dystans: ,85, wysłany: ,2021/02/04 11:32:49, dojdzie: ,2021/02/06,07:49:04, atak z tej wsi: ,2,4
+		Taran, z ,411|594 ,Hasarin, dystans: ,90, wysłany: ,2021/02/04 11:33:35, dojdzie: ,2021/02/06,10:54:45, atak z tej wsi: ,2,4
+		Taran, z ,410|592 ,Hasarin, dystans: ,89, wysłany: ,2021/02/04 15:15:47, dojdzie: ,2021/02/06,13:58:43, atak z tej wsi: ,4,4
+		Taran, z ,441|585 ,Hasarin, dystans: ,71, wysłany: ,2021/02/04 21:00:59, dojdzie: ,2021/02/06,10:18:09, atak z tej wsi: ,2,3
+		Taran, z ,431|580 ,Hasarin, dystans: ,69, wysłany: ,2021/02/04 21:24:33, dojdzie: ,2021/02/06,09:40:51, atak z tej wsi: ,1,2
+		Taran, z ,436|582 ,Hasarin, dystans: ,69, wysłany: ,2021/02/04 21:25:10, dojdzie: ,2021/02/06,09:50:13, atak z tej wsi: ,1,2
+		Taran, z ,439|594 ,Hasarin, dystans: ,80, wysłany: ,2021/02/04 21:29:04, dojdzie: ,2021/02/06,15:34:19, atak z tej wsi: ,3,3
+		Taran, z ,422|594 ,soyer789, dystans: ,86, wysłany: ,2021/02/04 12:25:45, dojdzie: ,2021/02/06,09:13:26, atak z tej wsi: ,2,3
+		Taran, z ,465|598 ,Lord Zygfryd, dystans: ,83, wysłany: ,2021/02/04 12:51:08, dojdzie: ,2021/02/06,08:20:05, atak z tej wsi: ,2,2
+		Taran, z ,416|551 ,Qwasedzx, dystans: ,53, wysłany: ,2021/02/05 06:48:18, dojdzie: ,2021/02/06,10:50:00, atak z tej wsi: ,1,1
+		Taran, z ,424|555 ,Qwasedzx, dystans: ,51, wysłany: ,2021/02/05 06:48:57, dojdzie: ,2021/02/06,09:29:44, atak z tej wsi: ,1,1
+		Taran, z ,443|594 ,zarowa wielki, dystans: ,80, wysłany: ,2021/02/04 15:28:31, dojdzie: ,2021/02/06,09:10:28, atak z tej wsi: ,2,3
+
+	476|533
+		fejk, z ,387|583 ,FetaAkaMeta, dystans: ,102, wysłany: ,2021/02/04 02:32:50, dojdzie: ,2021/02/06,07:42:57, atak z tej wsi: ,1,4
+		Taran, z ,383|587 ,FetaAkaMeta, dystans: ,107, wysłany: ,2021/02/04 02:34:02, dojdzie: ,2021/02/06,10:34:41, atak z tej wsi: ,2,2
+		Taran, z ,387|589 ,FetaAkaMeta, dystans: ,105, wysłany: ,2021/02/04 02:35:09, dojdzie: ,2021/02/06,09:21:09, atak z tej wsi: ,1,3
+		Taran, z ,389|579 ,tu-gina-ludzie, dystans: ,98, wysłany: ,2021/02/04 07:32:03, dojdzie: ,2021/02/06,10:47:26, atak z tej wsi: ,1,1
+		Taran, z ,471|628 ,Hasarin, dystans: ,95, wysłany: ,2021/02/04 07:40:47, dojdzie: ,2021/02/06,09:13:39, atak z tej wsi: ,2,3
+		Taran, z ,406|590 ,Hasarin, dystans: ,90, wysłany: ,2021/02/04 15:08:37, dojdzie: ,2021/02/06,14:09:36, atak z tej wsi: ,4,4
+		Taran, z ,405|584 ,Hasarin, dystans: ,87, wysłany: ,2021/02/04 15:13:40, dojdzie: ,2021/02/06,12:45:30, atak z tej wsi: ,1,1
+		fejjk, z ,444|590 ,Hasarin, dystans: ,65, wysłany: ,2021/02/04 21:30:03, dojdzie: ,2021/02/06,07:32:48, atak z tej wsi: ,1,3
+		Taran, z ,428|603 ,soyer789, dystans: ,84, wysłany: ,2021/02/04 19:31:37, dojdzie: ,2021/02/06,15:44:00, atak z tej wsi: ,6,6
+		Taran, z ,389|553 ,Lord Zygfryd, dystans: ,89, wysłany: ,2021/02/04 12:42:46, dojdzie: ,2021/02/06,11:12:26, atak z tej wsi: ,1,1
+		fejk, z ,403|584 ,Xardin94, dystans: ,89, wysłany: ,2021/02/04 10:24:53, dojdzie: ,2021/02/06,08:47:43, atak z tej wsi: ,1,1
+		Taran, z ,417|535 ,carl997, dystans: ,59, wysłany: ,2021/02/05 03:28:08, dojdzie: ,2021/02/06,10:12:57, atak z tej wsi: ,1,2
+		Taran, z ,419|524 ,carl997, dystans: ,57, wysłany: ,2021/02/05 03:32:42, dojdzie: ,2021/02/06,09:36:01, atak z tej wsi: ,2,2
+
+	466|529
+		Taran, z ,383|588 ,FetaAkaMeta, dystans: ,101, wysłany: ,2021/02/04 02:33:42, dojdzie: ,2021/02/06,07:36:00, atak z tej wsi: ,1,4
+		Taran, z ,422|553 ,FetaAkaMeta, dystans: ,50, wysłany: ,2021/02/05 09:20:40, dojdzie: ,2021/02/06,11:26:55, atak z tej wsi: ,5,5
+		Taran, z ,407|604 ,Hasarin, dystans: ,95, wysłany: ,2021/02/04 08:47:02, dojdzie: ,2021/02/06,10:29:05, atak z tej wsi: ,4,4
+		Taran, z ,411|593 ,Hasarin, dystans: ,84, wysłany: ,2021/02/04 11:33:16, dojdzie: ,2021/02/06,07:30:20, atak z tej wsi: ,1,6
+		Taran, z ,441|591 ,Hasarin, dystans: ,66, wysłany: ,2021/02/04 21:25:43, dojdzie: ,2021/02/06,08:14:48, atak z tej wsi: ,1,5
+		Taran, z ,389|590 ,Xardin94, dystans: ,98, wysłany: ,2021/02/04 10:24:25, dojdzie: ,2021/02/06,13:34:15, atak z tej wsi: ,1,1
+		Taran, z ,466|591 ,Qhorrin, dystans: ,62, wysłany: ,2021/02/05 00:00:01, dojdzie: ,2021/02/06,08:17:31, atak z tej wsi: ,1,6
+
+	477|534
+		brak notatek, z ,387|589 ,FetaAkaMeta, dystans: ,105, wysłany: ,2021/02/04 02:34:40, dojdzie: ,2021/02/06,09:30:46, atak z tej wsi: ,2,3
+		fejk, z ,403|505 ,tu-gina-ludzie, dystans: ,79, wysłany: ,2021/02/04 16:18:02, dojdzie: ,2021/02/06,09:41:46, atak z tej wsi: ,1,2
+		Taran O, z ,477|601 ,mapik777, dystans: ,67, wysłany: ,2021/02/05 00:38:52, dojdzie: ,2021/02/06,11:32:37, atak z tej wsi: ,6,10
+		Taran O, z ,399|552 ,piterb, dystans: ,80, wysłany: ,2021/02/04 15:21:06, dojdzie: ,2021/02/06,09:02:39, atak z tej wsi: ,1,1
+		Taran O, z ,400|551 ,piterb, dystans: ,78, wysłany: ,2021/02/04 15:22:15, dojdzie: ,2021/02/06,08:26:26, atak z tej wsi: ,1,1
+		fejk, z ,397|543 ,criminals, dystans: ,80, wysłany: ,2021/02/04 19:08:58, dojdzie: ,2021/02/06,13:04:45, atak z tej wsi: ,1,1
+		Taran 1/2, z ,430|569 ,Sir Lukas II, dystans: ,58, wysłany: ,2021/02/05 01:13:45, dojdzie: ,2021/02/06,07:45:01, atak z tej wsi: ,2,3
+		Taran O, z ,423|542 ,carl997, dystans: ,54, wysłany: ,2021/02/05 03:26:26, dojdzie: ,2021/02/06,07:52:21, atak z tej wsi: ,1,1
+		fejk, z ,416|548 ,carl997, dystans: ,62, wysłany: ,2021/02/05 03:30:25, dojdzie: ,2021/02/06,12:06:14, atak z tej wsi: ,1,1
+
+	460|539
+		Taran, z ,425|640 ,FetaAkaMeta, dystans: ,106, wysłany: ,2021/02/04 02:35:30, dojdzie: ,2021/02/06,10:15:54, atak z tej wsi: ,1,5
+
+	464|543
+		Taran, z ,426|580 ,FetaAkaMeta, dystans: ,53, wysłany: ,2021/02/05 09:00:50, dojdzie: ,2021/02/06,12:38:16, atak z tej wsi: ,3,5
+		Taran, z ,457|606 ,Sir Lukas II, dystans: ,63, wysłany: ,2021/02/05 01:14:50, dojdzie: ,2021/02/06,10:15:42, atak z tej wsi: ,1,6
+
+	458|525
+		Taran, z ,432|568 ,FetaAkaMeta, dystans: ,50, wysłany: ,2021/02/05 09:06:44, dojdzie: ,2021/02/06,11:17:02, atak z tej wsi: ,3,3
+		Taran, z ,461|591 ,spoko of poland, dystans: ,66, wysłany: ,2021/02/04 21:44:34, dojdzie: ,2021/02/06,08:09:12, atak z tej wsi: ,6,14
+		Taran, z ,418|554 ,Qwasedzx, dystans: ,49, wysłany: ,2021/02/05 06:47:47, dojdzie: ,2021/02/06,08:31:44, atak z tej wsi: ,1,1
+		Taran, z ,444|571 ,ChudyMaximum, dystans: ,48, wysłany: ,2021/02/05 11:15:16, dojdzie: ,2021/02/06,12:17:52, atak z tej wsi: ,4,16
+		Taran, z ,472|595 ,Sir Lukas II, dystans: ,71, wysłany: ,2021/02/05 01:32:20, dojdzie: ,2021/02/06,14:43:09, atak z tej wsi: ,4,4
+
+	381|547
+		Taran, z ,427|575 ,FetaAkaMeta, dystans: ,53, wysłany: ,2021/02/05 09:08:33, dojdzie: ,2021/02/06,13:11:25, atak z tej wsi: ,3,4
+		Taran, z ,391|628 ,Hasarin, dystans: ,81, wysłany: ,2021/02/04 19:58:31, dojdzie: ,2021/02/06,14:28:59, atak z tej wsi: ,3,4
+		Taran, z ,452|552 ,SweetPain, dystans: ,71, wysłany: ,2021/02/04 20:57:08, dojdzie: ,2021/02/06,10:01:23, atak z tej wsi: ,3,3
+		Taran, z ,476|563 ,spoko of poland, dystans: ,96, wysłany: ,2021/02/04 08:38:15, dojdzie: ,2021/02/06,10:48:48, atak z tej wsi: ,4,4
+		Taran, z ,464|589 ,spoko of poland, dystans: ,93, wysłany: ,2021/02/04 08:58:02, dojdzie: ,2021/02/06,09:24:57, atak z tej wsi: ,6,12
+		Taran, z ,471|593 ,Zelke, dystans: ,101, wysłany: ,2021/02/04 08:49:52, dojdzie: ,2021/02/06,13:28:26, atak z tej wsi: ,3,5
+		Taran, z ,460|572 ,Lord Zygfryd, dystans: ,82, wysłany: ,2021/02/04 12:49:01, dojdzie: ,2021/02/06,07:58:26, atak z tej wsi: ,2,4
+		Taran, z ,474|571 ,Waheed, dystans: ,96, wysłany: ,2021/02/04 13:24:41, dojdzie: ,2021/02/06,15:26:09, atak z tej wsi: ,4,4
+		Taran, z ,446|554 ,Sir Lukas II, dystans: ,65, wysłany: ,2021/02/05 01:26:40, dojdzie: ,2021/02/06,11:29:39, atak z tej wsi: ,2,2
+
+	385|540
+		Taran, z ,439|559 ,FetaAkaMeta, dystans: ,57, wysłany: ,2021/02/05 09:10:35, dojdzie: ,2021/02/06,14:59:29, atak z tej wsi: ,1,1
+		Taran, z ,426|554 ,FetaAkaMeta, dystans: ,43, wysłany: ,2021/02/05 09:17:48, dojdzie: ,2021/02/06,07:51:41, atak z tej wsi: ,1,3
+		Taran, z ,476|563 ,spoko of poland, dystans: ,93, wysłany: ,2021/02/04 08:38:09, dojdzie: ,2021/02/06,09:31:20, atak z tej wsi: ,3,4
+		Taran, z ,470|568 ,spoko of poland, dystans: ,89, wysłany: ,2021/02/04 08:53:24, dojdzie: ,2021/02/06,07:30:04, atak z tej wsi: ,1,5
+		Taran, z ,428|622 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 11:37:52, dojdzie: ,2021/02/06,11:51:20, atak z tej wsi: ,6,6
+		Taran, z ,458|585 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 11:40:13, dojdzie: ,2021/02/06,08:20:05, atak z tej wsi: ,9,18
+		Taran, z ,469|589 ,mapik777, dystans: ,97, wysłany: ,2021/02/04 10:18:44, dojdzie: ,2021/02/06,12:57:42, atak z tej wsi: ,7,13
+		Taran, z ,463|589 ,jarkeS, dystans: ,92, wysłany: ,2021/02/04 11:37:27, dojdzie: ,2021/02/06,11:36:01, atak z tej wsi: ,4,4
+
+	452|541
+		Taran, z ,424|579 ,FetaAkaMeta, dystans: ,47, wysłany: ,2021/02/05 09:11:22, dojdzie: ,2021/02/06,09:46:25, atak z tej wsi: ,2,4
+
+	445|521
+		Taran, z ,426|571 ,FetaAkaMeta, dystans: ,53, wysłany: ,2021/02/05 09:20:21, dojdzie: ,2021/02/06,13:11:52, atak z tej wsi: ,4,5
+		Taran, z ,467|626 ,Hasarin, dystans: ,107, wysłany: ,2021/02/04 07:38:07, dojdzie: ,2021/02/06,15:30:37, atak z tej wsi: ,4,4
+		Taran, z ,411|596 ,Hasarin, dystans: ,82, wysłany: ,2021/02/04 15:07:56, dojdzie: ,2021/02/06,10:01:16, atak z tej wsi: ,3,6
+		Taran, z ,437|600 ,zarowa wielki, dystans: ,79, wysłany: ,2021/02/04 16:06:47, dojdzie: ,2021/02/06,09:28:09, atak z tej wsi: ,2,5
+
+	462|528
+		Taran, z ,422|553 ,FetaAkaMeta, dystans: ,47, wysłany: ,2021/02/05 09:20:54, dojdzie: ,2021/02/06,09:54:58, atak z tej wsi: ,1,5
+		Taran, z ,411|595 ,Hasarin, dystans: ,84, wysłany: ,2021/02/04 15:09:56, dojdzie: ,2021/02/06,11:01:15, atak z tej wsi: ,1,2
+		Taran, z ,423|555 ,Qwasedzx, dystans: ,47, wysłany: ,2021/02/05 06:48:39, dojdzie: ,2021/02/06,07:30:58, atak z tej wsi: ,1,1
+
+	386|543
+		Taran, z ,485|592 ,endyydne, dystans: ,110, wysłany: ,2021/02/04 06:22:57, dojdzie: ,2021/02/06,15:54:54, atak z tej wsi: ,3,3
+		Taran, z ,407|584 ,tu-gina-ludzie, dystans: ,46, wysłany: ,2021/02/05 13:27:49, dojdzie: ,2021/02/06,13:27:22, atak z tej wsi: ,1,5
+		Taran, z ,443|587 ,Hasarin, dystans: ,72, wysłany: ,2021/02/04 21:00:32, dojdzie: ,2021/02/06,10:30:45, atak z tej wsi: ,3,6
+		Taran, z ,478|564 ,spoko of poland, dystans: ,94, wysłany: ,2021/02/04 08:36:26, dojdzie: ,2021/02/06,09:45:23, atak z tej wsi: ,3,4
+		Taran, z ,464|589 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:57:46, dojdzie: ,2021/02/06,08:07:34, atak z tej wsi: ,2,12
+		Taran, z ,464|584 ,jarkeS, dystans: ,88, wysłany: ,2021/02/04 11:36:26, dojdzie: ,2021/02/06,09:30:10, atak z tej wsi: ,2,2
+		Taran, z ,471|583 ,jarkeS, dystans: ,93, wysłany: ,2021/02/04 11:38:42, dojdzie: ,2021/02/06,12:34:22, atak z tej wsi: ,3,4
+		Taran, z ,462|583 ,jarkeS, dystans: ,85, wysłany: ,2021/02/04 11:39:10, dojdzie: ,2021/02/06,08:23:01, atak z tej wsi: ,1,3
+		nieOpisany, z ,404|574 ,2000Benek, dystans: ,35, wysłany: ,2021/02/05 16:18:07, dojdzie: ,2021/02/06,10:58:20, atak z tej wsi: ,1,1
+		Taran, z ,344|553 ,Jogurciq, dystans: ,43, wysłany: ,2021/02/05 10:13:03, dojdzie: ,2021/02/06,08:42:15, atak z tej wsi: ,3,4
+
+	444|523
+		Taran, z ,482|603 ,endyydne, dystans: ,88, wysłany: ,2021/02/04 12:10:24, dojdzie: ,2021/02/06,10:18:06, atak z tej wsi: ,4,12
+		Taran, z ,420|585 ,tu-gina-ludzie, dystans: ,66, wysłany: ,2021/02/04 22:08:31, dojdzie: ,2021/02/06,08:46:07, atak z tej wsi: ,2,4
+
+	382|538
+		Taran, z ,474|550 ,endyydne, dystans: ,92, wysłany: ,2021/02/04 12:32:46, dojdzie: ,2021/02/06,12:52:07, atak z tej wsi: ,5,6
+		Taran O, z ,390|606 ,Karłowaty Bór, dystans: ,68, wysłany: ,2021/02/04 21:28:51, dojdzie: ,2021/02/06,09:08:30, atak z tej wsi: ,1,3
+		Taran, z ,438|594 ,Hasarin, dystans: ,79, wysłany: ,2021/02/04 21:30:19, dojdzie: ,2021/02/06,14:45:11, atak z tej wsi: ,1,2
+		Taran, z ,467|560 ,SweetPain, dystans: ,87, wysłany: ,2021/02/04 16:09:46, dojdzie: ,2021/02/06,13:53:32, atak z tej wsi: ,4,4
+		Taran, z ,468|554 ,SweetPain, dystans: ,87, wysłany: ,2021/02/04 16:11:10, dojdzie: ,2021/02/06,13:44:47, atak z tej wsi: ,1,2
+		Taran O, z ,460|588 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 08:34:15, dojdzie: ,2021/02/06,08:49:34, atak z tej wsi: ,1,2
+		Taran O, z ,458|591 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 08:37:26, dojdzie: ,2021/02/06,08:52:54, atak z tej wsi: ,1,1
+		Taran O, z ,464|576 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:38:34, dojdzie: ,2021/02/06,07:42:51, atak z tej wsi: ,1,1
+		Taran O, z ,470|568 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 08:53:33, dojdzie: ,2021/02/06,09:18:58, atak z tej wsi: ,5,5
+		Taran O, z ,457|587 ,spoko of poland, dystans: ,89, wysłany: ,2021/02/04 08:55:50, dojdzie: ,2021/02/06,07:35:28, atak z tej wsi: ,1,1
+		Taran O, z ,419|593 ,soyer789, dystans: ,66, wysłany: ,2021/02/05 00:03:05, dojdzie: ,2021/02/06,10:34:33, atak z tej wsi: ,1,2
+		Taran O, z ,457|578 ,słodkimisiek, dystans: ,85, wysłany: ,2021/02/04 11:27:04, dojdzie: ,2021/02/06,07:43:19, atak z tej wsi: ,1,3
+		Taran O, z ,448|592 ,słodkimisiek, dystans: ,85, wysłany: ,2021/02/04 11:28:49, dojdzie: ,2021/02/06,07:53:42, atak z tej wsi: ,1,1
+		fejk, z ,444|574 ,21mati21, dystans: ,71, wysłany: ,2021/02/04 18:25:53, dojdzie: ,2021/02/06,07:46:19, atak z tej wsi: ,1,1
+
+	379|549
+		Taran, z ,474|550 ,endyydne, dystans: ,95, wysłany: ,2021/02/04 12:33:34, dojdzie: ,2021/02/06,14:02:29, atak z tej wsi: ,6,6
+		Taran, z ,468|554 ,SweetPain, dystans: ,89, wysłany: ,2021/02/04 16:11:04, dojdzie: ,2021/02/06,14:36:42, atak z tej wsi: ,2,2
+		Taran, z ,470|568 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 08:38:45, dojdzie: ,2021/02/06,09:03:49, atak z tej wsi: ,4,5
+		Taran, z ,461|588 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:53:42, dojdzie: ,2021/02/06,08:11:16, atak z tej wsi: ,5,15
+		Taran, z ,461|592 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 08:58:36, dojdzie: ,2021/02/06,09:12:03, atak z tej wsi: ,5,6
+		Taran, z ,423|606 ,soyer789, dystans: ,72, wysłany: ,2021/02/04 21:51:49, dojdzie: ,2021/02/06,11:22:02, atak z tej wsi: ,2,5
+		Taran, z ,464|598 ,Lord Zygfryd, dystans: ,98, wysłany: ,2021/02/04 12:45:15, dojdzie: ,2021/02/06,15:51:16, atak z tej wsi: ,6,6
+		Taran, z ,469|576 ,Waheed, dystans: ,93, wysłany: ,2021/02/04 11:43:13, dojdzie: ,2021/02/06,12:39:33, atak z tej wsi: ,2,2
+		Taran, z ,437|618 ,słodkimisiek, dystans: ,90, wysłany: ,2021/02/04 11:26:50, dojdzie: ,2021/02/06,10:23:41, atak z tej wsi: ,1,1
+		Taran, z ,470|574 ,uzimati, dystans: ,94, wysłany: ,2021/02/04 12:15:08, dojdzie: ,2021/02/06,13:24:15, atak z tej wsi: ,2,2
+		Taran, z ,431|533 ,carl997, dystans: ,54, wysłany: ,2021/02/05 03:33:22, dojdzie: ,2021/02/06,07:53:33, atak z tej wsi: ,1,1
+		nieOpisany, z ,410|572 ,2000Benek, dystans: ,38, wysłany: ,2021/02/05 16:18:41, dojdzie: ,2021/02/06,12:24:57, atak z tej wsi: ,1,1
+		Taran, z ,336|541 ,Jogurciq, dystans: ,43, wysłany: ,2021/02/05 10:31:50, dojdzie: ,2021/02/06,09:18:39, atak z tej wsi: ,2,10
+
+	459|551
+		Taran, z ,447|622 ,Karłowaty Bór, dystans: ,72, wysłany: ,2021/02/04 21:30:51, dojdzie: ,2021/02/06,11:01:04, atak z tej wsi: ,1,3
+		Taran, z ,474|622 ,Karłowaty Bór, dystans: ,72, wysłany: ,2021/02/04 21:40:33, dojdzie: ,2021/02/06,11:28:17, atak z tej wsi: ,2,3
+		Taran, z ,411|596 ,Hasarin, dystans: ,65, wysłany: ,2021/02/04 21:32:37, dojdzie: ,2021/02/06,07:48:43, atak z tej wsi: ,1,6
+
+	465|543
+		Taran, z ,409|601 ,Karłowaty Bór, dystans: ,80, wysłany: ,2021/02/04 21:44:03, dojdzie: ,2021/02/06,15:43:30, atak z tej wsi: ,2,2
+		Taran, z ,470|589 ,ChudyMaximum, dystans: ,46, wysłany: ,2021/02/05 12:00:23, dojdzie: ,2021/02/06,12:06:21, atak z tej wsi: ,3,10
+		Taran, z ,411|534 ,carl997, dystans: ,54, wysłany: ,2021/02/05 03:31:03, dojdzie: ,2021/02/06,08:01:50, atak z tej wsi: ,1,1
+		Taran, z ,402|539 ,carl997, dystans: ,63, wysłany: ,2021/02/05 03:31:54, dojdzie: ,2021/02/06,12:24:37, atak z tej wsi: ,2,3
+		Taran, z ,425|556 ,Jogurciq, dystans: ,42, wysłany: ,2021/02/05 10:35:52, dojdzie: ,2021/02/06,08:30:13, atak z tej wsi: ,8,17
+
+	464|529
+		Taran, z ,449|604 ,Karłowaty Bór, dystans: ,76, wysłany: ,2021/02/04 21:44:14, dojdzie: ,2021/02/06,13:34:24, atak z tej wsi: ,2,3
+		Taran, z ,414|550 ,Qwasedzx, dystans: ,54, wysłany: ,2021/02/05 06:48:51, dojdzie: ,2021/02/06,11:03:34, atak z tej wsi: ,1,1
+		Taran, z ,394|567 ,piterb, dystans: ,79, wysłany: ,2021/02/04 15:24:47, dojdzie: ,2021/02/06,08:53:49, atak z tej wsi: ,1,1
+		Taran, z ,476|588 ,Sir Lukas II, dystans: ,60, wysłany: ,2021/02/05 01:19:22, dojdzie: ,2021/02/06,08:40:52, atak z tej wsi: ,1,3
+
+	456|541
+		Taran, z ,447|614 ,Karłowaty Bór, dystans: ,73, wysłany: ,2021/02/04 21:45:55, dojdzie: ,2021/02/06,12:04:26, atak z tej wsi: ,2,3
+		Taran, z ,420|591 ,soyer789, dystans: ,61, wysłany: ,2021/02/05 00:03:21, dojdzie: ,2021/02/06,08:08:43, atak z tej wsi: ,1,6
+
+	454|541
+		Taran, z ,469|616 ,Karłowaty Bór, dystans: ,76, wysłany: ,2021/02/04 21:47:19, dojdzie: ,2021/02/06,13:37:29, atak z tej wsi: ,1,2
+
+	465|540
+		Taran, z ,473|618 ,Karłowaty Bór, dystans: ,78, wysłany: ,2021/02/04 21:49:57, dojdzie: ,2021/02/06,14:40:14, atak z tej wsi: ,1,2
+		Taran, z ,405|603 ,Hasarin, dystans: ,87, wysłany: ,2021/02/04 10:51:33, dojdzie: ,2021/02/06,08:10:18, atak z tej wsi: ,2,3
+		Taran, z ,478|590 ,ChudyMaximum, dystans: ,51, wysłany: ,2021/02/05 12:03:08, dojdzie: ,2021/02/06,14:57:35, atak z tej wsi: ,8,13
+		Taran, z ,449|600 ,Qhorrin, dystans: ,62, wysłany: ,2021/02/05 00:17:12, dojdzie: ,2021/02/06,08:37:44, atak z tej wsi: ,1,1
+		Taran, z ,472|602 ,Sir Lukas II, dystans: ,62, wysłany: ,2021/02/05 01:13:31, dojdzie: ,2021/02/06,09:43:19, atak z tej wsi: ,1,4
+
+	458|537
+		Taran, z ,452|590 ,Karłowaty Bór, dystans: ,53, wysłany: ,2021/02/05 08:03:14, dojdzie: ,2021/02/06,11:50:04, atak z tej wsi: ,2,3
+		Taran, z ,419|551 ,Jogurciq, dystans: ,41, wysłany: ,2021/02/05 10:40:41, dojdzie: ,2021/02/06,08:15:35, atak z tej wsi: ,5,13
+
+	392|548
+		Taran, z ,477|590 ,tu-gina-ludzie, dystans: ,94, wysłany: ,2021/02/04 07:31:01, dojdzie: ,2021/02/06,08:53:50, atak z tej wsi: ,1,4
+		Taran, z ,461|548 ,SweetPain, dystans: ,69, wysłany: ,2021/02/04 20:53:39, dojdzie: ,2021/02/06,08:49:54, atak z tej wsi: ,1,3
+		Taran, z ,472|604 ,spoko of poland, dystans: ,97, wysłany: ,2021/02/04 08:55:21, dojdzie: ,2021/02/06,11:46:59, atak z tej wsi: ,9,10
+		Taran, z ,485|543 ,Waheed, dystans: ,93, wysłany: ,2021/02/04 13:45:15, dojdzie: ,2021/02/06,14:15:41, atak z tej wsi: ,6,6
+		Taran, z ,434|574 ,słodkimisiek, dystans: ,49, wysłany: ,2021/02/05 10:55:51, dojdzie: ,2021/02/06,12:39:29, atak z tej wsi: ,3,4
+		Taran, z ,471|515 ,jarkeS, dystans: ,85, wysłany: ,2021/02/04 11:34:20, dojdzie: ,2021/02/06,08:09:49, atak z tej wsi: ,1,5
+		Taran, z ,458|558 ,Sir Lukas II, dystans: ,66, wysłany: ,2021/02/05 01:25:32, dojdzie: ,2021/02/06,12:11:34, atak z tej wsi: ,1,1
+
+	466|542
+		Taran, z ,418|589 ,tu-gina-ludzie, dystans: ,67, wysłany: ,2021/02/04 22:06:52, dojdzie: ,2021/02/06,09:06:12, atak z tej wsi: ,1,4
+		Taran, z ,448|582 ,ChudyMaximum, dystans: ,43, wysłany: ,2021/02/05 11:50:20, dojdzie: ,2021/02/06,10:41:04, atak z tej wsi: ,7,22
+		Taran, z ,409|541 ,carl997, dystans: ,57, wysłany: ,2021/02/05 03:27:43, dojdzie: ,2021/02/06,09:09:14, atak z tej wsi: ,3,6
+		Taran, z ,424|556 ,Jogurciq, dystans: ,44, wysłany: ,2021/02/05 11:01:50, dojdzie: ,2021/02/06,10:05:20, atak z tej wsi: ,8,14
+
+	451|543
+		Taran, z ,411|584 ,tu-gina-ludzie, dystans: ,57, wysłany: ,2021/02/05 10:06:01, dojdzie: ,2021/02/06,15:56:01, atak z tej wsi: ,6,11
+
+	454|531
+		Taran, z ,485|571 ,tu-gina-ludzie, dystans: ,50, wysłany: ,2021/02/05 13:25:55, dojdzie: ,2021/02/06,15:47:22, atak z tej wsi: ,4,4
+
+	468|537
+		Taran, z ,489|580 ,tu-gina-ludzie, dystans: ,47, wysłany: ,2021/02/05 13:26:04, dojdzie: ,2021/02/06,14:21:30, atak z tej wsi: ,3,4
+		fejk, z ,404|602 ,Hasarin, dystans: ,91, wysłany: ,2021/02/04 09:29:00, dojdzie: ,2021/02/06,08:59:37, atak z tej wsi: ,1,2
+		fejk, z ,421|556 ,Qwasedzx, dystans: ,50, wysłany: ,2021/02/05 06:47:57, dojdzie: ,2021/02/06,09:12:11, atak z tej wsi: ,1,1
+		Taran, z ,454|604 ,Sir Lukas II, dystans: ,68, wysłany: ,2021/02/05 01:29:51, dojdzie: ,2021/02/06,13:08:49, atak z tej wsi: ,3,5
+		Taran, z ,409|541 ,carl997, dystans: ,59, wysłany: ,2021/02/05 03:27:13, dojdzie: ,2021/02/06,10:15:12, atak z tej wsi: ,5,6
+		Taran, z ,408|540 ,carl997, dystans: ,60, wysłany: ,2021/02/05 03:31:09, dojdzie: ,2021/02/06,10:48:29, atak z tej wsi: ,1,1
+
+	380|547
+		Taran, z ,393|582 ,tu-gina-ludzie, dystans: ,37, wysłany: ,2021/02/05 13:28:27, dojdzie: ,2021/02/06,08:55:12, atak z tej wsi: ,1,4
+		Taran, z ,438|593 ,Hasarin, dystans: ,74, wysłany: ,2021/02/04 21:28:41, dojdzie: ,2021/02/06,12:02:02, atak z tej wsi: ,2,3
+		Taran, z ,461|591 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 08:37:53, dojdzie: ,2021/02/06,08:38:29, atak z tej wsi: ,7,14
+		Taran, z ,461|588 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:53:50, dojdzie: ,2021/02/06,08:10:53, atak z tej wsi: ,4,15
+		Taran, z ,460|572 ,Lord Zygfryd, dystans: ,83, wysłany: ,2021/02/04 12:49:18, dojdzie: ,2021/02/06,08:28:31, atak z tej wsi: ,3,4
+		Taran, z ,409|587 ,mapik777, dystans: ,49, wysłany: ,2021/02/05 11:21:41, dojdzie: ,2021/02/06,13:05:38, atak z tej wsi: ,1,1
+		Taran, z ,462|582 ,jarkeS, dystans: ,89, wysłany: ,2021/02/04 11:37:43, dojdzie: ,2021/02/06,10:03:53, atak z tej wsi: ,5,5
+		Taran, z ,454|560 ,Qhorrin, dystans: ,75, wysłany: ,2021/02/05 00:11:36, dojdzie: ,2021/02/06,15:19:31, atak z tej wsi: ,4,4
+		Taran, z ,434|544 ,carl997, dystans: ,54, wysłany: ,2021/02/05 03:30:35, dojdzie: ,2021/02/06,07:40:42, atak z tej wsi: ,1,2
+		Taran, z ,426|556 ,Jogurciq, dystans: ,46, wysłany: ,2021/02/05 10:33:05, dojdzie: ,2021/02/06,10:57:50, atak z tej wsi: ,2,3
+
+	385|541
+		Taran, z ,458|597 ,Hasarin, dystans: ,92, wysłany: ,2021/02/04 07:36:51, dojdzie: ,2021/02/06,07:32:02, atak z tej wsi: ,1,6
+		Taran, z ,445|585 ,Hasarin, dystans: ,74, wysłany: ,2021/02/04 21:08:26, dojdzie: ,2021/02/06,11:53:34, atak z tej wsi: ,2,2
+		Taran, z ,441|588 ,Hasarin, dystans: ,73, wysłany: ,2021/02/04 21:24:56, dojdzie: ,2021/02/06,11:29:36, atak z tej wsi: ,4,4
+		Taran, z ,461|591 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:37:36, dojdzie: ,2021/02/06,08:00:30, atak z tej wsi: ,5,14
+		Taran, z ,466|587 ,spoko of poland, dystans: ,93, wysłany: ,2021/02/04 08:58:27, dojdzie: ,2021/02/06,09:29:24, atak z tej wsi: ,3,4
+		Taran, z ,458|585 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 11:39:52, dojdzie: ,2021/02/06,08:03:28, atak z tej wsi: ,7,18
+		Taran, z ,477|571 ,Waheed, dystans: ,96, wysłany: ,2021/02/04 13:25:03, dojdzie: ,2021/02/06,15:49:03, atak z tej wsi: ,5,5
+		nieOpisany, z ,407|579 ,2000Benek, dystans: ,43, wysłany: ,2021/02/05 16:17:46, dojdzie: ,2021/02/06,15:09:56, atak z tej wsi: ,1,1
+		Taran, z ,344|554 ,Jogurciq, dystans: ,43, wysłany: ,2021/02/05 11:06:37, dojdzie: ,2021/02/06,09:30:44, atak z tej wsi: ,1,1
+
+	454|525
+		Taran, z ,405|586 ,Hasarin, dystans: ,78, wysłany: ,2021/02/04 15:07:09, dojdzie: ,2021/02/06,07:52:15, atak z tej wsi: ,1,5
+
+	457|534
+		Taran, z ,410|597 ,Hasarin, dystans: ,78, wysłany: ,2021/02/04 15:10:57, dojdzie: ,2021/02/06,08:07:12, atak z tej wsi: ,2,3
+		Taran, z ,426|561 ,Amazingovsky., dystans: ,41, wysłany: ,2021/02/05 11:58:50, dojdzie: ,2021/02/06,09:23:30, atak z tej wsi: ,1,1
+
+	454|532
+		Taran, z ,406|598 ,Hasarin, dystans: ,81, wysłany: ,2021/02/04 15:11:55, dojdzie: ,2021/02/06,09:42:12, atak z tej wsi: ,2,4
+
+	456|533
+		Taran, z ,409|607 ,Hasarin, dystans: ,87, wysłany: ,2021/02/04 15:12:35, dojdzie: ,2021/02/06,12:52:06, atak z tej wsi: ,3,6
+		Taran, z ,433|629 ,Qhorrin, dystans: ,98, wysłany: ,2021/02/04 12:08:56, dojdzie: ,2021/02/06,15:33:50, atak z tej wsi: ,2,2
+		Taran, z ,392|576 ,piterb, dystans: ,77, wysłany: ,2021/02/04 15:23:52, dojdzie: ,2021/02/06,07:33:21, atak z tej wsi: ,1,1
+
+	454|533
+		Taran, z ,408|614 ,Hasarin, dystans: ,93, wysłany: ,2021/02/04 15:13:06, dojdzie: ,2021/02/06,15:44:03, atak z tej wsi: ,3,4
+		Taran, z ,423|603 ,soyer789, dystans: ,76, wysłany: ,2021/02/04 19:32:13, dojdzie: ,2021/02/06,11:24:38, atak z tej wsi: ,3,6
+		Taran, z ,453|615 ,21mati21, dystans: ,82, wysłany: ,2021/02/04 18:26:34, dojdzie: ,2021/02/06,13:09:16, atak z tej wsi: ,2,2
+		Taran, z ,470|602 ,Sir Lukas II, dystans: ,70, wysłany: ,2021/02/05 01:19:02, dojdzie: ,2021/02/06,14:12:30, atak z tej wsi: ,1,3
+
+	457|536
+		Taran, z ,408|613 ,Hasarin, dystans: ,91, wysłany: ,2021/02/04 15:14:13, dojdzie: ,2021/02/06,14:46:22, atak z tej wsi: ,4,5
+		Taran, z ,477|626 ,zarowa wielki, dystans: ,92, wysłany: ,2021/02/04 15:34:08, dojdzie: ,2021/02/06,15:35:15, atak z tej wsi: ,3,3
+
+	387|539
+		Taran, z ,389|618 ,Hasarin, dystans: ,79, wysłany: ,2021/02/04 16:19:44, dojdzie: ,2021/02/06,09:29:17, atak z tej wsi: ,1,3
+		Taran, z ,461|591 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:37:47, dojdzie: ,2021/02/06,07:44:08, atak z tej wsi: ,3,14
+		Taran, z ,445|568 ,Qhorrin, dystans: ,64, wysłany: ,2021/02/05 00:09:33, dojdzie: ,2021/02/06,09:55:59, atak z tej wsi: ,3,3
+		Taran, z ,454|561 ,Qhorrin, dystans: ,70, wysłany: ,2021/02/05 00:15:24, dojdzie: ,2021/02/06,12:59:08, atak z tej wsi: ,1,2
+		Taran, z ,446|554 ,Sir Lukas II, dystans: ,60, wysłany: ,2021/02/05 01:26:34, dojdzie: ,2021/02/06,09:08:58, atak z tej wsi: ,1,2
+		Taran, z ,446|551 ,Sir Lukas II, dystans: ,60, wysłany: ,2021/02/05 01:27:34, dojdzie: ,2021/02/06,08:49:04, atak z tej wsi: ,1,2
+		Taran, z ,344|549 ,Jogurciq, dystans: ,44, wysłany: ,2021/02/05 10:13:21, dojdzie: ,2021/02/06,09:12:57, atak z tej wsi: ,1,5
+
+	450|540
+		Taran, z ,406|590 ,Hasarin, dystans: ,66, wysłany: ,2021/02/04 21:33:05, dojdzie: ,2021/02/06,08:14:26, atak z tej wsi: ,1,4
+		Taran, z ,440|586 ,mapik777, dystans: ,47, wysłany: ,2021/02/05 11:12:49, dojdzie: ,2021/02/06,11:43:54, atak z tej wsi: ,4,10
+
+	463|539
+		Taran, z ,406|590 ,Hasarin, dystans: ,76, wysłany: ,2021/02/04 21:33:11, dojdzie: ,2021/02/06,13:23:21, atak z tej wsi: ,3,4
+		Taran, z ,415|551 ,Qwasedzx, dystans: ,49, wysłany: ,2021/02/05 06:48:08, dojdzie: ,2021/02/06,08:34:18, atak z tej wsi: ,1,1
+
+	384|547
+		Taran, z ,443|587 ,Hasarin, dystans: ,71, wysłany: ,2021/02/04 21:36:56, dojdzie: ,2021/02/06,10:44:28, atak z tej wsi: ,4,6
+		Taran, z ,479|560 ,spoko of poland, dystans: ,95, wysłany: ,2021/02/04 08:36:42, dojdzie: ,2021/02/06,10:33:07, atak z tej wsi: ,2,5
+		Taran, z ,465|593 ,Lord Zygfryd, dystans: ,93, wysłany: ,2021/02/04 12:49:51, dojdzie: ,2021/02/06,13:20:48, atak z tej wsi: ,5,6
+		Taran, z ,451|571 ,Qhorrin, dystans: ,71, wysłany: ,2021/02/05 00:15:02, dojdzie: ,2021/02/06,13:19:04, atak z tej wsi: ,3,3
+		Taran, z ,454|561 ,Qhorrin, dystans: ,71, wysłany: ,2021/02/05 00:15:08, dojdzie: ,2021/02/06,13:25:57, atak z tej wsi: ,2,2
+		Taran, z ,466|585 ,zarowa wielki, dystans: ,90, wysłany: ,2021/02/04 15:36:10, dojdzie: ,2021/02/06,14:40:27, atak z tej wsi: ,4,4
+		Taran, z ,428|551 ,Jogurciq, dystans: ,44, wysłany: ,2021/02/05 10:51:44, dojdzie: ,2021/02/06,09:52:24, atak z tej wsi: ,8,12
+
+	385|545
+		Taran, z ,467|560 ,SweetPain, dystans: ,83, wysłany: ,2021/02/04 16:09:35, dojdzie: ,2021/02/06,11:34:36, atak z tej wsi: ,2,4
+		Taran, z ,476|563 ,spoko of poland, dystans: ,92, wysłany: ,2021/02/04 08:38:25, dojdzie: ,2021/02/06,08:57:15, atak z tej wsi: ,2,4
+		Taran, z ,461|592 ,spoko of poland, dystans: ,89, wysłany: ,2021/02/04 08:59:06, dojdzie: ,2021/02/06,07:31:34, atak z tej wsi: ,1,6
+		Taran, z ,476|574 ,Zelke, dystans: ,95, wysłany: ,2021/02/04 08:49:21, dojdzie: ,2021/02/06,10:34:00, atak z tej wsi: ,1,5
+		Taran, z ,473|573 ,jarkeS, dystans: ,92, wysłany: ,2021/02/04 11:37:05, dojdzie: ,2021/02/06,11:42:56, atak z tej wsi: ,5,6
+
+	384|545
+		Taran, z ,467|556 ,SweetPain, dystans: ,83, wysłany: ,2021/02/04 16:10:03, dojdzie: ,2021/02/06,11:46:29, atak z tej wsi: ,3,3
+		Taran, z ,453|573 ,SweetPain, dystans: ,74, wysłany: ,2021/02/04 20:51:29, dojdzie: ,2021/02/06,11:38:30, atak z tej wsi: ,4,6
+		Taran, z ,450|524 ,SweetPain, dystans: ,69, wysłany: ,2021/02/04 20:57:34, dojdzie: ,2021/02/06,09:01:57, atak z tej wsi: ,3,3
+		Taran, z ,474|571 ,Waheed, dystans: ,93, wysłany: ,2021/02/04 13:24:26, dojdzie: ,2021/02/06,14:11:57, atak z tej wsi: ,3,4
+
+	385|539
+		Taran, z ,465|553 ,SweetPain, dystans: ,81, wysłany: ,2021/02/04 18:52:26, dojdzie: ,2021/02/06,13:10:25, atak z tej wsi: ,4,4
+		Taran, z ,461|548 ,SweetPain, dystans: ,76, wysłany: ,2021/02/04 20:53:51, dojdzie: ,2021/02/06,12:45:27, atak z tej wsi: ,2,3
+		Taran, z ,461|588 ,spoko of poland, dystans: ,90, wysłany: ,2021/02/04 08:54:18, dojdzie: ,2021/02/06,08:00:08, atak z tej wsi: ,3,15
+		Taran, z ,456|587 ,spoko of poland, dystans: ,85, wysłany: ,2021/02/04 10:53:56, dojdzie: ,2021/02/06,07:32:09, atak z tej wsi: ,1,2
+		Taran, z ,456|590 ,spoko of poland, dystans: ,87, wysłany: ,2021/02/04 11:39:14, dojdzie: ,2021/02/06,09:11:04, atak z tej wsi: ,3,3
+		Taran, z ,472|555 ,jarkeS, dystans: ,88, wysłany: ,2021/02/04 11:37:15, dojdzie: ,2021/02/06,09:41:35, atak z tej wsi: ,2,2
+		Taran, z ,462|582 ,jarkeS, dystans: ,88, wysłany: ,2021/02/04 11:37:57, dojdzie: ,2021/02/06,09:33:59, atak z tej wsi: ,4,5
+		Taran, z ,464|583 ,jarkeS, dystans: ,90, wysłany: ,2021/02/04 11:38:49, dojdzie: ,2021/02/06,10:44:39, atak z tej wsi: ,4,6
+		Taran, z ,444|589 ,zarowa wielki, dystans: ,77, wysłany: ,2021/02/04 15:52:48, dojdzie: ,2021/02/06,08:09:35, atak z tej wsi: ,2,2
+		Taran, z ,336|541 ,Jogurciq, dystans: ,49, wysłany: ,2021/02/05 10:32:02, dojdzie: ,2021/02/06,12:04:33, atak z tej wsi: ,8,10
+		Taran, z ,375|585 ,Amazingovsky., dystans: ,47, wysłany: ,2021/02/05 11:58:26, dojdzie: ,2021/02/06,12:29:30, atak z tej wsi: ,1,1
+
+	465|541
+		Taran, z ,407|629 ,spoko of poland, dystans: ,105, wysłany: ,2021/02/04 08:30:55, dojdzie: ,2021/02/06,15:24:30, atak z tej wsi: ,2,2
+		Taran, z ,463|611 ,mapik777, dystans: ,70, wysłany: ,2021/02/05 00:46:10, dojdzie: ,2021/02/06,13:14:34, atak z tej wsi: ,7,10
+
+	452|538
+		Taran, z ,403|625 ,spoko of poland, dystans: ,99, wysłany: ,2021/02/04 08:56:44, dojdzie: ,2021/02/06,12:57:03, atak z tej wsi: ,3,5
+		Taran, z ,404|619 ,spoko of poland, dystans: ,94, wysłany: ,2021/02/04 11:33:32, dojdzie: ,2021/02/06,12:35:51, atak z tej wsi: ,2,3
+		Taran, z ,423|606 ,soyer789, dystans: ,73, wysłany: ,2021/02/04 21:51:31, dojdzie: ,2021/02/06,12:21:41, atak z tej wsi: ,3,5
+		Taran, z ,480|598 ,mapik777, dystans: ,66, wysłany: ,2021/02/05 00:35:39, dojdzie: ,2021/02/06,11:04:46, atak z tej wsi: ,4,13
+		Taran, z ,455|583 ,ChudyMaximum, dystans: ,45, wysłany: ,2021/02/05 11:20:31, dojdzie: ,2021/02/06,10:49:53, atak z tej wsi: ,6,17
+		Taran, z ,455|583 ,ChudyMaximum, dystans: ,45, wysłany: ,2021/02/05 11:21:37, dojdzie: ,2021/02/06,10:51:00, atak z tej wsi: ,7,17
+
+	452|542
+		Taran, z ,391|604 ,spoko of poland, dystans: ,86, wysłany: ,2021/02/04 11:55:55, dojdzie: ,2021/02/06,09:13:57, atak z tej wsi: ,7,16
+		Taran, z ,378|575 ,soyer789, dystans: ,81, wysłany: ,2021/02/04 20:43:51, dojdzie: ,2021/02/06,14:55:52, atak z tej wsi: ,2,2
+		Taran, z ,395|551 ,carl997, dystans: ,57, wysłany: ,2021/02/05 03:33:48, dojdzie: ,2021/02/06,09:37:07, atak z tej wsi: ,1,1
+
+	455|532
+		Taran, z ,449|580 ,spoko of poland, dystans: ,48, wysłany: ,2021/02/05 07:11:58, dojdzie: ,2021/02/06,08:23:38, atak z tej wsi: ,1,10
+
+	455|560
+		Taran, z ,377|576 ,soyer789, dystans: ,79, wysłany: ,2021/02/04 18:45:45, dojdzie: ,2021/02/06,12:14:00, atak z tej wsi: ,1,1
+		Taran, z ,387|588 ,soyer789, dystans: ,73, wysłany: ,2021/02/04 18:46:14, dojdzie: ,2021/02/06,09:04:20, atak z tej wsi: ,1,1
+		Taran, z ,477|626 ,zarowa wielki, dystans: ,69, wysłany: ,2021/02/04 18:56:16, dojdzie: ,2021/02/06,07:10:20, atak z tej wsi: ,1,3
+		Taran, z ,469|634 ,zarowa wielki, dystans: ,75, wysłany: ,2021/02/04 21:40:03, dojdzie: ,2021/02/06,12:53:34, atak z tej wsi: ,1,4
+
+	454|537
+		Taran, z ,440|632 ,mapik777, dystans: ,96, wysłany: ,2021/02/04 10:18:18, dojdzie: ,2021/02/06,12:19:07, atak z tej wsi: ,2,4
+		Taran, z ,444|604 ,Qhorrin, dystans: ,67, wysłany: ,2021/02/05 00:03:05, dojdzie: ,2021/02/06,11:20:01, atak z tej wsi: ,4,6
+
+	453|541
+		Taran, z ,462|629 ,mapik777, dystans: ,88, wysłany: ,2021/02/04 10:19:45, dojdzie: ,2021/02/06,08:24:06, atak z tej wsi: ,3,10
+
+	390|549
+		Taran, z ,449|593 ,mapik777, dystans: ,73, wysłany: ,2021/02/05 00:37:53, dojdzie: ,2021/02/06,14:57:54, atak z tej wsi: ,9,13
+
+	465|542
+		Taran, z ,423|574 ,mapik777, dystans: ,52, wysłany: ,2021/02/05 11:11:26, dojdzie: ,2021/02/06,14:41:29, atak z tej wsi: ,1,1
+		Taran, z ,455|583 ,ChudyMaximum, dystans: ,42, wysłany: ,2021/02/05 11:19:43, dojdzie: ,2021/02/06,09:18:32, atak z tej wsi: ,3,17
+		Taran, z ,481|629 ,zarowa wielki, dystans: ,88, wysłany: ,2021/02/04 15:30:53, dojdzie: ,2021/02/06,13:35:13, atak z tej wsi: ,1,2
+		Taran, z ,407|540 ,carl997, dystans: ,58, wysłany: ,2021/02/05 03:33:05, dojdzie: ,2021/02/06,09:46:39, atak z tej wsi: ,1,1
+
+	463|542
+		Taran, z ,473|591 ,mapik777, dystans: ,50, wysłany: ,2021/02/05 11:15:54, dojdzie: ,2021/02/06,13:18:43, atak z tej wsi: ,4,5
+		Taran, z ,444|603 ,Qhorrin, dystans: ,63, wysłany: ,2021/02/05 00:18:28, dojdzie: ,2021/02/06,09:35:03, atak z tej wsi: ,1,2
+
+	466|544
+		Taran, z ,471|589 ,ChudyMaximum, dystans: ,45, wysłany: ,2021/02/05 11:40:21, dojdzie: ,2021/02/06,11:15:15, atak z tej wsi: ,2,15
+		Taran, z ,448|582 ,ChudyMaximum, dystans: ,42, wysłany: ,2021/02/05 11:50:32, dojdzie: ,2021/02/06,09:44:31, atak z tej wsi: ,3,22
+		Taran, z ,409|541 ,carl997, dystans: ,57, wysłany: ,2021/02/05 03:27:35, dojdzie: ,2021/02/06,09:11:18, atak z tej wsi: ,4,6
+
+	460|537
+		Taran, z ,406|605 ,Xardin94, dystans: ,86, wysłany: ,2021/02/04 10:23:08, dojdzie: ,2021/02/06,07:36:40, atak z tej wsi: ,1,1
+
+	459|537
+		Taran, z ,406|609 ,Xardin94, dystans: ,89, wysłany: ,2021/02/04 10:23:35, dojdzie: ,2021/02/06,08:57:27, atak z tej wsi: ,1,1
+
+	454|543
+		Taran, z ,464|583 ,jarkeS, dystans: ,41, wysłany: ,2021/02/05 12:55:01, dojdzie: ,2021/02/06,10:23:29, atak z tej wsi: ,3,6
+
+	457|535
+		Taran, z ,483|581 ,Qhorrin, dystans: ,52, wysłany: ,2021/02/05 10:19:43, dojdzie: ,2021/02/06,13:50:57, atak z tej wsi: ,6,10
+		Taran, z ,443|591 ,zarowa wielki, dystans: ,57, wysłany: ,2021/02/05 06:18:40, dojdzie: ,2021/02/06,12:22:31, atak z tej wsi: ,2,3
+
+	463|540
+		Taran, z ,477|626 ,zarowa wielki, dystans: ,87, wysłany: ,2021/02/04 15:32:29, dojdzie: ,2021/02/06,12:55:21, atak z tej wsi: ,2,3
+
+	454|539
+		Taran, z ,476|625 ,zarowa wielki, dystans: ,88, wysłany: ,2021/02/04 15:34:19, dojdzie: ,2021/02/06,13:48:21, atak z tej wsi: ,1,6
+
+	456|542
+		Taran, z ,400|588 ,Sir Lukas II, dystans: ,72, wysłany: ,2021/02/05 01:30:42, dojdzie: ,2021/02/06,15:15:25, atak z tej wsi: ,4,4
+
+	460|529
+		Taran, z ,425|557 ,Jogurciq, dystans: ,44, wysłany: ,2021/02/05 10:32:43, dojdzie: ,2021/02/06,09:53:24, atak z tej wsi: ,2,3
+
+	453|544
+		Taran, z ,408|548 ,Jogurciq, dystans: ,45, wysłany: ,2021/02/05 10:52:11, dojdzie: ,2021/02/06,10:23:58, atak z tej wsi: ,4,14
+
+	458|535
+		Taran, z ,429|564 ,Amazingovsky., dystans: ,41, wysłany: ,2021/02/05 11:58:44, dojdzie: ,2021/02/06,09:20:22, atak z tej wsi: ,1,1
